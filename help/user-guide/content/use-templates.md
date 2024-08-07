@@ -2,9 +2,9 @@
 title: 템플릿 작업
 description: 템플릿을 사용하여 GenStudio에서 매력적인 경험을 만드는 방법을 알아봅니다.
 feature: Templates, Content
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '443'
 ht-degree: 2%
 
 ---
@@ -12,11 +12,37 @@ ht-degree: 2%
 
 # 템플릿 작업
 
-템플릿은 이메일 및 소셜 미디어 광고에 대한 일관된 콘텐츠를 생성하는 데 사용됩니다. 사전 구성된 레이아웃 및 디자인 요소를 포함하는 시작점을 제공하여 새 콘텐츠를 생성하는 데 필요한 시간과 노력을 크게 줄입니다.
+GenStudio 템플릿은 콘텐츠 작성자가 일관된 온브랜드 마케팅 콘텐츠를 신속하게 제작할 수 있도록 하는 데 필수적입니다. 템플릿을 사용하면 사전 구성된 레이아웃 및 디자인 요소를 포함하는 시작점을 제공하여 새 콘텐츠를 생성하는 데 필요한 시간과 노력을 크게 줄일 수 있습니다.
+
+이 안내서에서는 다음 방법에 대한 자세한 정보를 제공합니다.
+
+* [이메일 템플릿](email-template.md) 또는 메타 광고 템플릿 준비
+* GenStudio용 [템플릿 사용자 지정](customize-template.md)
+* GenStudio에 [템플릿 업로드](#upload-a-template)
+* [템플릿을 사용하여 경험 만들기](#use-a-template)
+
+## 템플릿 해부학
+
+기본 템플릿 디자인에는 다음 요소가 포함됩니다.
+
+| 요소 | 함수 | 채널 템플릿 |
+| ------------ | ---------------------- | -------------------- |
+| 사전 머리글 | 40~50자 사이 <br>보조 제목 줄 향상하기 <br>전자 메일을 열기 전에 제목과 함께 받은 편지함에 표시 | 이메일 |
+| 헤더 | 전자 메일 받는 사람의 상단 섹션에서 전자 메일 <br>을(를) 열 때 볼 수 있음 | 이메일 |
+| 제목 | <br>을(를) 보는 첫 번째 콘텐츠 수신자는 관심을 끌어야 합니다. | 메타 광고 |
+| 본문 | 기본 메시지가 전달되는 기본 콘텐츠 영역 <br>텍스트, 이미지 및 기타 미디어를 포함할 수 있습니다. | 이메일<br>메타데이터 |
+| CTA | 수신자가 링크를 클릭하거나 구매하는 등의 특정 조치를 취하도록 유도하는 클릭 유도 문안 | 이메일<br>메타데이터 |
+| 이미지 | 시각적 호소력 향상 <br>텍스트 분리 <br>메시지 지원 <br>고품질로 눈을 사로잡아야 함 | 이메일<br>메타데이터 |
+| 바닥글 | 연락처 세부 정보, 소셜 미디어 링크, 면책조항 및 구독 취소 옵션과 같은 추가 정보가 포함되어 있습니다 | 이메일 |
+| 텍스트 오버레이 | <br> 이미지의 텍스트는 헤드라인과 본문을 지원하고 향상시켜야 합니다. | 메타 광고 |
+
+>[!NOTE]
+> 
+>GenStudio에서 콘텐츠 자리 표시자에 대한 텍스트를 생성할 수 있도록 각 채널의 콘텐츠에 특정 필드를 포함하는 것이 좋습니다. 포함하기 위해 권장되는 필드를 보려면 [인식된 필드 이름](customize-template.md#recognized-field-names)을(를) 참조하십시오.
 
 ## 템플릿 업로드
 
-GenStudio은 HTML 형식의 템플릿을 허용합니다. GenStudio용 [사용자 지정 템플릿을 빌드](customize-template.md)하는 방법을 확인하세요.
+GenStudio은 HTML 형식의 템플릿을 허용합니다.
 
 **템플릿을 추가하려면**:
 
@@ -32,7 +58,7 @@ GenStudio은 HTML 형식의 템플릿을 허용합니다. GenStudio용 [사용�
 
    템플릿 이름 및 채널 유형은 필수입니다.
 
-   - **Meta**: 종횡비가 필요합니다.
+   * **Meta**: 종횡비가 필요합니다.
    <!-- **Display ads**: requires Dimensions -->
 
 1. 검색 및 필터링에서 템플릿 식별을 개선하기 위해 가능한 한 많은 세부 정보를 추가합니다.
@@ -53,7 +79,7 @@ GenStudio은 HTML 형식의 템플릿을 허용합니다. GenStudio용 [사용�
 
 >[!TIP]
 >
->전자 메일 서식 파일을 사용하는 전체 튜토리얼은 [[!DNL Create] 전자 메일 환경](/help/tutorials/create-email-experience.md)을 참조하세요.
+>템플릿을 사용한 전체 튜토리얼은 [[!DNL Create] 이메일 경험](/help/tutorials/create-email-experience.md) 또는 [[!DNL Create] 메타 광고 경험](/help/tutorials/create-meta-ad.md)을 참조하십시오.
 
 <!--  The create button in Content Template view does not work yet.
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
