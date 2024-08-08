@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio 사용 안내서
 description: GenStudio 및 생성 AI를 사용하여 콘텐츠 공급망을 개인화하는 방법을 알아봅니다.
-source-git-commit: 43b059fe65a06b1cb6bba03c4e811c83af75d6f3
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '178'
 ht-degree: 1%
 
 ---
@@ -11,9 +11,9 @@ ht-degree: 1%
 
 # GenStudio 사용 안내서
 
-생성형 AI를 기반으로 하는 Adobe GenStudio은 콘텐츠 공급망을 혁신하여 브랜드 본질을 구현하는 개인화된 경험을 만들고, 측정하고, 관리할 수 있도록 합니다.
+GenStudio은 Adobe의 발전적인 AI 기술을 기반으로 하는 포괄적인 마케팅 솔루션입니다. 이를 통해 마케터는 관념에서 게재 및 성능 측정에 이르기까지 콘텐츠 공급망을 간소화할 수 있습니다.
 
-마케터와 팀은 GenStudio을 사용하여 브랜드 지침에 맞는 고품질 콘텐츠를 손쉽게 생성하고 개선할 수 있습니다. GenStudio은 마케팅 라이프사이클을 가속화하여 귀중한 시간과 리소스를 절약합니다.
+GenStudio을 통해 기업은 생성 AI를 활용하여 콘텐츠 생성을 가속화하고, 콘텐츠를 쉽게 찾아 재사용하며, 성공적인 옴니채널 캠페인을 유도할 수 있습니다.
 
 ## GenStudio 기능 살펴보기
 

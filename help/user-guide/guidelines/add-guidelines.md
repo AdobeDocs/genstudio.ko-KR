@@ -4,9 +4,9 @@ description: Adobe [!DNL GenStudio]에서 지침—[!DNL Brands], [!DNL Products
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: 3693d7dc3b9ee5c4b6c22bdc373f3c78bded4bef
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ GenStudio에 브랜드를 추가하려면 지침을 선택하고 브랜드 세�
 
 자체 브랜드 문서를 업로드하여 GenStudio의 새 브랜드를 채울 수 있습니다.
 
-샘플 브랜드 가이드를 보려면 [[!DNL Brands]](/help/user-guide/guidelines/brands.md)을(를) 참조하십시오.
+[[!DNL Brands]](/help/user-guide/guidelines/brands.md)을(를) 참조하십시오.
 
 **브랜드 문서를 업로드하려면**:
 
@@ -110,7 +110,7 @@ _[!DNL Brands]_홈에서&#x200B;**이미 만든 브랜드를 열기**를 클릭�
    1. _갤러리_ 탭의 갤러리에서 이미지를 선택하십시오.
 1. **[!UICONTROL 이미지 사용]**&#x200B;을 클릭합니다.
 
-   만든 [!DNL Products]을(를) 보려면 _제품_ 창 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Products]_홈으로 다시 이동합니다.
+   만든 [!DNL Products]을(를) 보려면 _제품_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Products]_홈으로 다시 이동합니다.
 
 ### [!DNL Products] 관리
 
@@ -137,7 +137,7 @@ GenStudio에서 [!DNL Persona]을(를) 추가하여 만든 콘텐츠를 이상�
    1. _갤러리_ 탭의 갤러리에서 이미지를 선택하십시오.
 1. **[!UICONTROL 이미지 사용]**&#x200B;을 클릭합니다.
 
-만든 [!DNL Personas]을(를) 보려면 _사용자_ 창 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Personas]_홈으로 다시 이동하십시오.
+만든 [!DNL Personas]을(를) 보려면 _성향_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Personas]_홈으로 다시 이동합니다.
 
 ### [!DNL Personas] 관리
 

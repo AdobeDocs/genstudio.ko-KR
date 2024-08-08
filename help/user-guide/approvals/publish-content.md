@@ -2,7 +2,7 @@
 title: Publish 승인 콘텐츠
 description: 승인된 콘텐츠를 게시하는 방법을 알아봅니다.
 feature: Approval, Content
-source-git-commit: 6da5eb91db34e3b91430d513f3af5de1cd380222
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ## 게시 후
 
-모든 GenStudio 사용자는 [!DNL Content]에서 승인된 에셋 또는 경험에 액세스할 수 있습니다. 에셋 세부 정보 창은 에셋의 업로드 및 승인 내역을 식별합니다. 다음 속성은 저장된 콘텐츠를 식별합니다.
+모든 GenStudio 사용자는 [!DNL Content]에서 승인된 에셋 또는 경험에 액세스할 수 있습니다. 에셋 세부 사항 패널에서 에셋의 업로드 및 승인 내역을 식별합니다. 다음 속성은 저장된 콘텐츠를 식별합니다.
 
 * **업로드 날짜**: 콘텐츠가 업로드된 날짜를 식별합니다.
 * **업로드한 사람**: GenStudio 자산 생성자를 식별합니다.

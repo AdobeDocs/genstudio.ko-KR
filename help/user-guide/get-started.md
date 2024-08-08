@@ -3,9 +3,9 @@ title: GenStudio 시작
 description: 새 브랜드 정렬 마케팅 콘텐츠를 생성하도록 GenStudio을 설정하는 방법에 대해 알아봅니다.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
-source-git-commit: 2501d1e36f76d1534a735b9147fb42f762a665e8
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '1066'
+source-wordcount: '1049'
 ht-degree: 1%
 
 ---
@@ -74,7 +74,7 @@ AI 기반 도구를 처음 사용하거나 GenStudio의 핵심 원칙에 대해 
 
 ### 관리자
 
-관리자 사용자는 GenStudio에서 지원하는 모든 역할에 사용자를 만들고 할당합니다. 필요에 따라 개별 작성자 또는 공동 작업자에게 새 권한을 할당할 수 있습니다. 가장 중요한 작업은 조직이 GenStudio을 배포할 준비를 하는 초기 온보딩 작업을 완료하는 것입니다.
+**관리자** GenStudio에서 지원하는 모든 역할에 사용자를 만들고 할당합니다. 필요에 따라 개별 작성자 또는 공동 작업자에게 새 권한을 할당할 수 있습니다. 가장 중요한 작업은 조직이 GenStudio을 배포할 준비를 하는 초기 온보딩 작업을 완료하는 것입니다.
 
 다음 표에는 기본 GenStudio 시스템 관리자 권한이 표시됩니다.
 
@@ -91,9 +91,9 @@ AI 기반 도구를 처음 사용하거나 GenStudio의 핵심 원칙에 대해 
 
 ## 콘텐츠를 생성할 GenStudio 준비
 
-시스템 관리자는 작성자와 공동 작업자가 캠페인 에셋을 만들 수 있도록 조직의 GenStudio 환경을 준비합니다. 이러한 사전 설정 작업에는 다음이 포함됩니다.
+시스템 관리자는 크리에이터와 공동 작업자가 캠페인 에셋을 생성할 수 있도록 조직의 GenStudio 환경을 준비합니다. 이러한 사전 설정 작업에는 다음이 포함됩니다.
 
-1. [!DNL Brands], [!DNL Products] 및 [!DNL Personas]에 대해 [지침을 설정](./guidelines/overview.md)합니다. GenStudio에 조직 3월 **[지침 추가](./guidelines/overview.md)**([!DNL Brands], [!DNL Products] 및 [!DNL Personas])의 주요 구성 요소를 설정하는 중입니다. 조직 브랜드 정체성의 주요 구성 요소를 설정하는 것은 GenStudio 작성자 및 공동 작업자의 작업에 필수적인 전제 조건입니다. 브랜드 가이드라인 문서를 업로드하거나 수동으로 브랜드 정보를 입력할 수 있습니다.
+1. [!DNL Brands], [!DNL Products] 및 [!DNL Personas]에 대해 [지침을 추가](./guidelines/overview.md)합니다. 조직 브랜드 정체성의 주요 구성 요소를 설정하는 것은 GenStudio 작성자 및 공동 작업자의 작업에 필수적인 전제 조건입니다. 브랜드 가이드라인 문서를 업로드하거나 수동으로 브랜드 정보를 입력할 수 있습니다.
    * **지침 문서를 준비하세요**. 브랜드 지침을 더 설명적이고 포괄적으로 만들수록 GenStudio의 출력이 향상됩니다. 브랜드에 필수라고 간주하는 기능에 대한 간단한 예를 포함하고 GenStudio 컨텐츠 생성에서 제외하려는 동작에 대한 설명을 추가합니다. GenStudio은 이러한 업로드된 문서에서 정보를 추출하고 브랜드 구축을 시작합니다. GenStudio이 업로드한 문서에서 각 지침을 어셈블하면 브랜드 음성, 채널 및 이미지 지침 등의 정보가 채워집니다.
    * **필요에 따라 브랜드 지침 필드를 편집하거나 완료합니다**. 포괄적인 브랜드 지침은 GenStudio이 조직의 브랜드를 이해하는 바탕을 형성합니다. GenStudio이 브랜드 가이드라인 문서에서 필요한 정보를 추출하면 추출된 정보 필드를 수동으로 편집하거나 완료하라는 메시지가 표시됩니다. [!DNL Product]을(를) 추가하여 콘텐츠를 만들 개별 제품 포커스 영역을 지정하십시오. [!DNL Personas] 지침은 정의된 고객 세그먼트에 대한 콘텐츠 만들기를 사용자 지정하는 데 도움이 됩니다.
 

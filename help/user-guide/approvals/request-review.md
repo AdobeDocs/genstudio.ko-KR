@@ -1,7 +1,7 @@
 ---
 title: 검토 및 승인 요청
 description: 리뷰를 요청합니다.
-source-git-commit: c9bd8bf434e493696e674900f403307260a65b02
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 콘텐츠 작성자인 경우 초안 캔버스에 **[!UICONTROL 승인 관리]** 단추가 표시됩니다. 이 단추를 사용하여 검토 및 승인 프로세스 전체에서 승인자를 제거하거나 추가할 수 있는 팝업을 엽니다.
 
-승인 요청이 시작된 후 승인자 이름이 이 창에 [!DNL Notified] 상태로 나열됩니다. GenStudio 승인 작업에 대한 개요는 [콘텐츠 승인](./approve-content.md)을 참조하십시오.
+승인 요청이 시작된 후 승인자 이름이 이 보기에 [!DNL Notified] 상태로 나열됩니다. GenStudio 승인 작업에 대한 개요는 [콘텐츠 승인](./approve-content.md)을 참조하십시오.
 
 
 

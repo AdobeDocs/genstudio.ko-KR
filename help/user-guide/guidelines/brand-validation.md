@@ -2,7 +2,7 @@
 title: GenStudio에서의 브랜드 유효성 검사
 description: GenStudio에서 기본 제공 브랜드 유효성 검사 시스템이 작동하는 방식을 알아봅니다.
 feature: Brands Service, Guidelines
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -59,7 +59,7 @@ _브랜드 유효성 검사 패널_&#x200B;에서 표시되는 지침을 필터�
 * **모든 지침**—_실패 및 통과한 지침 표시_&#x200B;는 변형을 측정하는 모든 지침을 표시합니다.
 * **통과한 지침**—_통과한 지침 표시_&#x200B;에는 브랜드 유효성 검사에 통과한 지침만 표시됩니다.
 
-<!-- The _Brand Validation panel_ has different areas of focus for each content channel:
+<!-- The _Brand validation panel_ has different areas of focus for each content channel:
 
 * Email - brand voice and channel compliance
 * Images - application photography restrictions and other considerations -->

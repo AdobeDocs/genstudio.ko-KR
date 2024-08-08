@@ -2,7 +2,7 @@
 title: 템플릿 작업
 description: 템플릿을 사용하여 GenStudio에서 매력적인 경험을 만드는 방법을 알아봅니다.
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 2%
@@ -73,7 +73,7 @@ GenStudio은 HTML 형식의 템플릿을 허용합니다.
 
 1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 템플릿]**섹션을 선택하십시오.
 
-   ![콘텐츠 템플릿 목록](../../assets/content-templates.png)
+   ![콘텐츠 템플릿 목록](../../assets/content-templates.png){width="650" zoomable="yes"}
 
 1. 전체 보기 및 세부 정보 목록을 보려면 템플릿을 선택하십시오.
 

@@ -2,9 +2,9 @@
 title: 자산 세부 사항
 description: GenStudio은 검색 기능 및 성능 추적을 위해 승인된 컨텐츠를 풍부한 메타데이터와 함께 저장합니다.
 feature: Attributes, Assets
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '402'
 ht-degree: 1%
 
 ---
@@ -46,8 +46,8 @@ GenStudio은 검색 기능 및 성능 추적을 위해 승인된 컨텐츠를 �
 | ------------- | ----------- | -------- | -------- |
 | 캠페인 이름(프로젝트 이름) | 에셋으로 캡처 및 저장된 기본 메타데이터 | Y | N |
 | 브랜드 이름 | [[!DNL Brands]](/help/user-guide/guidelines/brands.md)이(가) GenStudio에 추가되고 사용을 위해 게시됨 | Y | N |
-| 제품 | [[!DNL Products]](/help/user-guide/guidelines/products.md)이(가) 사용을 위해 GenStudio에 추가됨 | Y | N |
-| 가상 사용자 | [[!DNL Personas]](/help/user-guide/guidelines/personas.md)이(가) 사용을 위해 GenStudio에 추가됨 | Y | N |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md)이(가) 사용을 위해 GenStudio에 추가됨 | Y | N |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md)이(가) 사용을 위해 GenStudio에 추가됨 | Y | N |
 | 채널 | 이메일 및 메타 광고와 같이 에셋이 사용되는 GenStudio의 콘텐츠 유형 | Y | N |
 | 일정 | 에셋이 사용된 기간(예: 분기, 시즌, 연도 등) 예: `Winter 2023` | Y | N |
 | 지역 | 자산이 사용되는 지역. 예: `North America`, `APAC`, `Italy` | Y | N |
@@ -66,7 +66,7 @@ GenStudio은 검색 기능 및 성능 추적을 위해 승인된 컨텐츠를 �
 
 >[!TIP]
 >
->[!DNL Insights]에서도 자산 세부 정보를 볼 수 있습니다. Insights는 여러 경험에서 사용 통계 및 성능 컨텍스트를 제공합니다. _[!DNL Insights]_에서&#x200B;**[!UICONTROL Assets]**섹션을 선택합니다.
+>[!DNL Insights]에서도 자산 세부 정보를 볼 수 있습니다. [!DNL Insights]은(는) 여러 경험에서 사용 통계 및 성능 컨텍스트를 제공합니다. _[!DNL Insights]_에서&#x200B;**[!UICONTROL Assets]**섹션을 선택합니다.
 
 <!-- ## History
 
