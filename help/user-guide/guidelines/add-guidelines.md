@@ -4,7 +4,7 @@ description: Adobe [!DNL GenStudio]에서 지침—[!DNL Brands], [!DNL Products
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: 121a567a6a45f6d17caa621e323cdc3a4aa3dcb4
+source-git-commit: 3693d7dc3b9ee5c4b6c22bdc373f3c78bded4bef
 workflow-type: tm+mt
 source-wordcount: '913'
 ht-degree: 0%
@@ -22,7 +22,7 @@ GenStudio에 지침을 추가하는 것은 작성 프로세스의 중요한 단�
 
 ## [!DNL Brands] 추가
 
-GenStudio에 브랜드를 추가하려면 지침을 선택하고 브랜드 세부 정보를 입력하여 [브랜드 가이드를 업로드](#upload-brand-guidelines)하거나 [수동으로 브랜드를 만들기](#manually-add-brand)할 수 있습니다. [브랜드를 Publish](#publish-brand)에서 [!DNL Content]로 설정하여 변형을 생성할 수 있도록 합니다.
+GenStudio에 브랜드를 추가하려면 지침을 선택하고 브랜드 세부 정보를 입력하여 [브랜드 가이드를 업로드](#upload-brand-guidelines)하거나 [수동으로 브랜드를 만들기](#manually-add-brand)할 수 있습니다. [브랜드를 Publish](#publish-brand)에서 [!DNL Content]까지 활성화하여 향후 콘텐츠 생성에 사용할 수 있도록 합니다.
 
 왼쪽 탐색 영역에서 **[!DNL Brands]**&#x200B;을(를) 클릭합니다. _[!DNL Brands]_패널에서&#x200B;**브랜드 추가**를 선택합니다.
 
@@ -82,7 +82,7 @@ GenStudio은 Adobe의 생성 AI 기술을 사용하여 업로드한 문서에서
 
 브랜드가 게시되면 브랜드를 사용할 준비가 되었음을 확인하는 배너가 나타납니다. &quot;*게시된 브랜드는 사용할 수 있음*&quot;.
 
-게시된 브랜드는 이제 _[!DNL Create]_또는_[!DNL Content]_&#x200B;에서 변형을 생성하는 데 사용할 수 있습니다.
+게시된 브랜드는 이제 _[!DNL Create]_또는_[!DNL Content]_&#x200B;에서 사용할 수 있습니다.
 
 ### [!DNL Brands] 관리
 

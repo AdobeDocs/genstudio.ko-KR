@@ -3,10 +3,10 @@ title: ' [!DNL Insights]에 대한 데이터 열'
 description: ' [!DNL Insights] 표의 각 열이 무엇을 나타내는지 이해합니다.'
 feature: Attributes, Insights
 recommendations: noDisplay
-source-git-commit: 52a37b83b6f13b16a2234e50827c8d08b9a86680
+source-git-commit: 4d5de6fc053297c823be9005c628dafcecc3f7a7
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 2%
+source-wordcount: '254'
+ht-degree: 3%
 
 ---
 
@@ -34,4 +34,3 @@ ht-degree: 2%
 | 노출 횟수 | 등록된 노출을 통해 시청자에게 캠페인 광고가 표시된 횟수입니다. |
 | 목표 | 캠페인 또는 프로젝트의 목표입니다. 캠페인 또는 프로젝트를 만들 때 목표를 설정합니다.<br>목표 형식: `Awareness`, `Traffic`, `Engagement`, `Leads`, `App promotion`, `Sales` |
 | 지출 | 캠페인 내의 모든 광고에 대한 총 지출 금액(USD). |
-| 비디오 재생 | 비디오가 재생되기 시작한 횟수입니다. 비디오 재생은 비디오가 자동으로 재생되기 시작하거나 누군가 클릭하여 비디오를 재생할 때 발생할 수 있습니다. |

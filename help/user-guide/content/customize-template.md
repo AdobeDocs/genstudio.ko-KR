@@ -3,9 +3,9 @@ title: 템플릿 사용자 정의
 description: GenStudio용 사용자 지정 템플릿을 만드는 방법을 알아봅니다.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 1b5b12615c52823aa2f1c10ad704e3fc0dabb1e9
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '809'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,12 @@ GenStudio은 템플릿의 특정 필드를 자동으로 채우므로 템플릿 �
 >[!WARNING]
 >
 >instagram 광고의 경우 생성된 헤드라인은 최종 경험에 표시되지 않습니다.
+
+#### 브랜드 로고 필드 이름
+
+템플릿에 브랜드 로고를 추가하려면 다음 코드를 사용하여 기본 로고를 렌더링합니다.
+
+```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
 
 #### 수동 필드 이름
 

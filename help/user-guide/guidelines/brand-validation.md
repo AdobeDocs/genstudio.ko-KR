@@ -2,9 +2,9 @@
 title: GenStudio에서의 브랜드 유효성 검사
 description: GenStudio에서 기본 제공 브랜드 유효성 검사 시스템이 작동하는 방식을 알아봅니다.
 feature: Brands Service, Guidelines
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ _브랜드 유효성 검사 패널_&#x200B;에서 표시되는 지침을 필터�
 
 ## 브랜드 정렬 개선
 
-생성된 콘텐츠의 효과를 극대화하고 일관된 브랜드 정체성을 유지하려면 _브랜드 지침 확인_ 및 _브랜드 유효성 검사 패널_&#x200B;을 사용하십시오. [브랜드 지침](brands.md)에 맞게 특정 조각을 수동으로 수정하거나 [세분화된 변형을 생성](/help/user-guide/create/generate-variants.md)할 수 있습니다.
+생성된 콘텐츠의 효과를 극대화하고 일관된 브랜드 정체성을 유지하려면 _브랜드 지침 확인_ 및 _브랜드 유효성 검사 패널_&#x200B;을 사용하십시오. [브랜드 지침](brands.md)에 맞게 특정 조각을 수동으로 수정할 수 있습니다.
 
 **생성된 콘텐츠 변형에 대한 브랜드 정렬을 개선하려면**:
 

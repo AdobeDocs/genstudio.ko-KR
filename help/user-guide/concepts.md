@@ -2,9 +2,9 @@
 title: GenStudio 개념
 description: Adobe GenStudio 개념 및 용어를 알아봅니다.
 feature: Workflow, Generative AI
-source-git-commit: 9a591802a4cda9724afbcb28a0a02c2327b0afb4
+source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,8 @@ GenStudio은 Adobe의 콘텐츠 공급망을 구현하여 마케팅 캠페인을
 GenStudio을 사용하여 다음과 같은 작업을 수행할 수 있습니다.
 
 - 자연어 프롬프트를 사용하여 온브랜드 콘텐츠 만들기
-- 변형을 생성하여 여러 채널을 개인화하거나 진행 중인 캠페인을 새로 고칩니다.
+- 관련자와 협력하여 생성된 콘텐츠 검토 및 승인
+- 생성 및 승인된 콘텐츠를 저장하여 향후 마케팅 캠페인에 액세스
 - 캠페인 및 콘텐츠 속성에 대한 통찰력을 통해 콘텐츠 성능 평가
 
 ## 생성 AI 기술

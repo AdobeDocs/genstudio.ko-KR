@@ -3,9 +3,9 @@ title: GenStudio용 이메일 템플릿 준비
 description: GenStudio용 사용자 지정 이메일 템플릿을 구축하는 방법을 알아봅니다.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ ht-degree: 0%
 
 메타 광고 템플릿을 준비하기 전에 GenStudio에 [지침](/help/user-guide/guidelines/overview.md)을(를) 추가하고 관련 브랜드에 대한 포괄적인 정보로 채워졌는지 확인하십시오. [브랜드 지침](/help/user-guide/guidelines/brands.md)은(는) 생성된 콘텐츠에 직접 영향을 줍니다.
 
-> **예**: 전자 메일 템플릿의 본문을 500자 이하로 줄이려면 &quot;본문&quot; 필드에 대한 [채널 지침](/help/user-guide/guidelines/brands.md#channel-guidelines)에 해당 요구 사항을 추가하십시오.
+**예**: 전자 메일 템플릿의 본문을 500자 이하로 줄이려면 &quot;본문&quot; 필드에 대한 [채널 지침](/help/user-guide/guidelines/brands.md#channel-guidelines)에 해당 요구 사항을 추가하십시오.
+
+GenStudio에 지침이 추가되지 않으면 기본값이 사용됩니다.
 
 ## 이메일 템플릿 코드 작성
 
