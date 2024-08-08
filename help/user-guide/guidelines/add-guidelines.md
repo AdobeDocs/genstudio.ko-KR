@@ -4,9 +4,9 @@ description: Adobe [!DNL GenStudio]에서 지침—[!DNL Brands], [!DNL Products
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: 121a567a6a45f6d17caa621e323cdc3a4aa3dcb4
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,6 @@ GenStudio은 Adobe의 생성 AI 기술을 사용하여 업로드한 문서에서
 
    필요한 경우 **[!UICONTROL 범주 추가]**&#x200B;를 클릭하여 사진이나 일러스트레이션과 같은 사용자 지정 지침 범주를 추가합니다.
 
-1. _로고_ 섹션에 로고를 추가합니다.
 1. _새 브랜드_ 제목을 클릭하고 수사적 브랜드 이름을 입력하십시오.
 
 만든 [!DNL Brands]을(를) 보려면 _Brand_ 패널 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Brands]_홈으로 다시 이동합니다.
@@ -105,6 +104,7 @@ _[!DNL Brands]_홈에서&#x200B;**이미 만든 브랜드를 열기**를 클릭�
 1. **[!UICONTROL 제목 없음]**&#x200B;을 클릭하고 [!DNL Product]의 이름을 입력하십시오.
 1. _설명_&#x200B;을(를) 클릭하고 이 [!DNL Product]에 대한 설명을 입력하십시오.
 1. _가치 제안_&#x200B;을(를) 클릭하고 제품 가치에 대한 세부 정보를 입력하십시오.
+1. _추가 세부 정보_&#x200B;를 클릭하고 개인화된 콘텐츠 생성에 중요한 세부 정보를 입력합니다.
 1. 썸네일을 편집하려면 이미지 썸네일 위로 마우스를 이동하고 썸네일 작업 메뉴에서 **[!UICONTROL 썸네일 편집]**&#x200B;을 선택합니다.
    1. _업로드_ 탭에서 새 이미지를 업로드하거나 업로드한 기존 이미지를 제거합니다.
    1. _갤러리_ 탭의 갤러리에서 이미지를 선택하십시오.
@@ -131,6 +131,7 @@ GenStudio에서 [!DNL Persona]을(를) 추가하여 만든 콘텐츠를 이상�
 1. **[!UICONTROL 제목 없음]**&#x200B;을 클릭하고 [!DNL Persona]의 이름을 입력하십시오.
 1. _설명_&#x200B;을(를) 클릭하고 이 [!DNL Persona]에 대한 설명을 입력하십시오.
 1. _메시징 환경 설정_&#x200B;을 클릭하고 [!DNL Persona]에 대한 메시징 세부 정보를 입력하십시오.
+1. _추가 세부 정보_&#x200B;를 클릭하고 개인화된 콘텐츠 생성에 중요한 세부 정보를 입력합니다.
 1. 썸네일을 편집하려면 이미지 썸네일 위로 마우스를 가져간 후 _썸네일 작업_ 메뉴에서 **[!UICONTROL 썸네일 편집]**&#x200B;을 선택합니다.
    1. _업로드_ 탭에서 새 이미지를 업로드하거나 업로드한 기존 이미지를 제거합니다.
    1. _갤러리_ 탭의 갤러리에서 이미지를 선택하십시오.

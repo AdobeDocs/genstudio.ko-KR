@@ -2,9 +2,9 @@
 title: GenStudio [!DNL Personas]
 description: GenStudio [!DNL Personas] 은(는) 고객의 관심사, 불만 사항, 환경 설정 및 행동 특성을 포착하여 고객 세그먼트를 정확하게 표현한 것입니다.
 feature: Personas Service, Guidelines
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 21d0c7c6aab6f4d81fc4376251e85eb2d4be3f25
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,9 @@ GenStudio에서 담당자를 추가하거나 수정하는 방법은 [지침 추�
 
 다음 표에서는 [!DNL Personas] 지침의 각 범주 및 관련 예제를 보여 줍니다.
 
-| 지침 범주 | 지침 예 |
-| ------------------| :---------- |
-| 설명 | `Brand Uno's Curious Jobseekers are curious about finding a job within their immediate area and need assistance with learning how to find applicable positions, interviewing successfully, and researching transportation options. This prep work will prepare the Curious Jobseeker to take the next step in applying to fitting job opportunities and entering the interview process with confidence.` |
-| 메시징 환경 설정 | `Curious Jobseekers respond to communications and marketing messaging when they feel the Empower Outreach program's capabilities are affordable and successful in helping them obtain the job they desire. They enjoy visuals/graphics and short punchy headlines crafted to get their attention.` |
+| 지침 범주 | 지침 예 | 모범 사례 |
+| ------------------| :---------- |-------------|
+| 사용자 이름 | 생성된 마케팅 자료를 맞춤화하는 특정 대상 세그먼트를 나타냅니다 | 명확하고 간결한 성향 이름을 추가합니다.<br><br>_예_: &quot;소매업의 CMO&quot;, &quot;예상 간호학생&quot;, &quot;신규 저축 계정 고객&quot; |
+| 설명 | 주요 특성, 요구 사항 및 행동을 정의하는 간단한 요약 | 페르소나와 고유한 대상 세분화(1~2개 문장)를 명확하게 설명하려면 고려 언어를 사용하십시오.<br><br>이 대상 세그먼트를 유도하는 요소(요구 사항, 핵심 특성 등)에 집중<br><br>자세한 인구 통계 데이터 또는 추가 정보가 없는 설명을 간결하게 유지합니다. |
+| 메시징 환경 설정 | 특정 성향에 공감하는 선호하는 커뮤니케이션 스타일에 대한 명확한 요약 | 담당자가 커뮤니케이션을 받고 상호 작용하는 방식을 중심으로 담당자의 고유한 메시징 요구 사항 및 동기를 정의합니다.<br><br>목록(각 목록 항목 1-2개 문장)에 특정 메시지 기본 설정을 제공합니다.<br><br>목록을 총 10문장 이하로 제한하여 가장 중요한 정보가 강조 표시되도록 합니다.<br><br>_예_: &quot;기술 전문가 메시징 환경 설정:<li>간결하고 전문용어가 없는 커뮤니케이션을 선호합니다.</li><li>데이터 기반의 통찰력과 실행 가능한 조언에 긍정적으로 응답합니다.</li><li>복잡한 정보를 빠르게 파악하기 위해 인포그래픽이나 차트와 같은 시각적 요소를 선호합니다.<li><li>정직하고 솔직한 접근 방식으로 투명성을 중시합니다.</li>” |
+| 추가 세부 정보 | 개인화된 컨텐츠 생성에 중요한 정보 캡처 | 콘텐츠 개인화에 중요한 추가 세부 정보(1~3개 문장)를 제공하고 정보가 콘텐츠의 효과에 직접 기여하도록 합니다.<br><br>명확성과 간결성에 중점을 둡니다. |
