@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudio 사용 안내서
 description: GenStudio 및 생성 AI를 사용하여 콘텐츠 공급망을 개인화하는 방법을 알아봅니다.
-source-git-commit: f5b353ac807b5676fbeda593a3827c960facda3a
+source-git-commit: 214f54bcc15eb8d0c3b766784ac911790a8fb351
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
@@ -123,3 +123,4 @@ GenStudio을 통해 기업은 생성 AI를 활용하여 콘텐츠 생성을 가�
    </p>
 </td>
 </table>
+
