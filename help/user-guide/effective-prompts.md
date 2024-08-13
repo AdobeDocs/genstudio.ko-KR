@@ -2,9 +2,9 @@
 title: 유효한 프롬프트 작성
 description: GenStudio에 대한 효과적인 프롬프트를 작성하는 방법을 알아봅니다.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 5e17996ee3a86cf664ee468d6b9cf178c8853992
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 GenStudio에서 효과적으로 작업하려면 생성 AI와 통신하는 것이 필수적입니다.
 
-GenStudio은 에셋을 만들거나 수정할 수 있는 기회가 있을 때마다 생성 AI 프롬프트를 제공합니다. 효과적인 프롬프트의 구성 요소에는 구성된 지침을 통해 제공되지 않는 설명 언어, 예 및 정보가 포함되어야 합니다.
+GenStudio은 에셋을 수정할 수 있는 기회가 있을 때마다 생성 AI 프롬프트를 제공합니다. 효과적인 프롬프트의 구성 요소에는 구성된 지침을 통해 제공되지 않는 설명 언어, 예 및 정보가 포함되어야 합니다.
 
-가장 좋은 방법은 [지침](/help/user-guide/guidelines/overview.md)을(를) 사용하여 GenStudio에 브랜드 정보를 제공하는 것입니다. 그러면 생성 AI를 완전히 활용하여 브랜드에 맞게 정렬된 콘텐츠를 생성할 수 있습니다.
+가장 좋은 방법은 [지침](/help/user-guide/guidelines/overview.md)을(를) 사용하여 GenStudio에 브랜드 정보를 제공하는 것입니다. 그러면 생성 AI를 완전히 활용하여 브랜드에 맞게 조정된 콘텐츠 경험을 만들 수 있습니다.
 
 ## 기술 언어
 
