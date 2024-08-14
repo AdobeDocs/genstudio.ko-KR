@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudio 사용 안내서
 description: 엔터프라이즈 가드레일 및 거버넌스를 통해 브랜드 내 콘텐츠에 셀프서비스 방식으로 액세스하여 높은 성과를 거둘 수 있는 Adobe의 AI 우선 애플리케이션인 GenStudio을 통해 마케터와 수퍼차지 크리에이티브를 구현할 수 있습니다.
-source-git-commit: a0646480c863f9776aa7dfe1ef17eb9d23f269ea
+source-git-commit: 1e30db88fac8e6d47a845d4eb5d54defcc256244
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -125,4 +125,3 @@ GenStudio은 AI 기술을 활용하여 콘텐츠 생성 및 관리의 복잡성�
    </p>
 </td>
 </table>
-
