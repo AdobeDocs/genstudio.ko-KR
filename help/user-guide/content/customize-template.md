@@ -3,9 +3,9 @@ title: 템플릿 사용자 정의
 description: GenStudio용 사용자 지정 템플릿을 만드는 방법을 알아봅니다.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 1b5b12615c52823aa2f1c10ad704e3fc0dabb1e9
+source-git-commit: d7d11077d35a4c1924e4be456c00b1fae24e0a1b
 workflow-type: tm+mt
-source-wordcount: '809'
+source-wordcount: '808'
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ GenStudio은 템플릿의 특정 필드를 자동으로 채우므로 템플릿 �
 
 ## 섹션 또는 그룹
 
-_섹션_&#x200B;은(는) 이 섹션의 필드에 높은 수준의 일관성이 필요하다는 것을 GenStudio에 알립니다. 이러한 관계를 구축하면 AI가 섹션의 크리에이티브 요소와 일치하는 콘텐츠를 생성할 수 있습니다.
+_섹션_&#x200B;은(는) 이 섹션의 필드에 높은 수준의 일관성이 필요하다는 것을 GenStudio에 알립니다. 이러한 관계를 구축하면 AI가 해당 섹션의 크리에이티브 요소와 일치하는 콘텐츠를 생성할 수 있습니다.
 
 필드 이름에 선택한 접두사를 사용하여 필드가 섹션 또는 그룹의 일부임을 나타냅니다.
 
