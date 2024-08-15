@@ -3,9 +3,9 @@ title: 템플릿 사용자 정의
 description: GenStudio용 사용자 지정 템플릿을 만드는 방법을 알아봅니다.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5c43cf2014c1f93bdb9988ddefb503630714e522
+source-git-commit: c9cf7da078e84cf7696f32ca2278aa71b7b1b7cc
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '810'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # 템플릿 사용자 정의
 
-_Handlebars_ 템플릿 언어를 사용하여 GenStudio에 대한 HTML 템플릿을 조정할 수 있습니다. Handlebars 구문에서는 컨텐츠 자리 표시자로 이중 중괄호가 있는 일반 텍스트를 사용합니다. 템플릿을 준비하는 방법은 _Handlebars 언어 안내서_&#x200B;의 [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars)을(를) 참조하십시오.
+_Handlebars_ 템플릿 언어를 사용하여 GenStudio에 대한 HTML 템플릿을 조정하십시오. Handlebars 구문에서는 컨텐츠 자리 표시자로 이중 중괄호가 있는 일반 텍스트를 사용합니다. 템플릿을 준비하는 방법은 _Handlebars 언어 안내서_&#x200B;의 [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars)을(를) 참조하십시오.
 
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
 -->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
