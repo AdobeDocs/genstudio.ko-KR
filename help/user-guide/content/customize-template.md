@@ -3,9 +3,9 @@ title: 템플릿 사용자 정의
 description: GenStudio용 사용자 지정 템플릿을 만드는 방법을 알아봅니다.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: d7d11077d35a4c1924e4be456c00b1fae24e0a1b
+source-git-commit: 5c43cf2014c1f93bdb9988ddefb503630714e522
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ _Handlebars_ 템플릿 언어를 사용하여 GenStudio에 대한 HTML 템플릿
 | `cta` | 클릭 유도 문안 | 이메일(권장)<br>메타 광고 |
 | `on_image_text` | 이미지 텍스트에서 | 메타 광고(권장) |
 | `image` | 이미지 | 이메일(권장)<br>메타 광고(권장) |
-| `brand_logo` | 선택한 브랜드의 로고 | 메타 광고 |
+| `brand_logo` | 선택한 브랜드의 로고 | 이메일<br>메타데이터 |
 
 GenStudio은 템플릿의 특정 필드를 자동으로 채우므로 템플릿 디자인에 포함할 필요가 없습니다.
 
@@ -76,15 +76,33 @@ GenStudio은 템플릿의 특정 필드를 자동으로 채우므로 템플릿 �
 
 #### 브랜드 로고 필드 이름
 
-템플릿에 브랜드 로고를 추가하려면 다음 코드를 사용하여 기본 로고를 렌더링합니다.
+템플릿에 브랜드 로고를 추가하려면 다음 방법 중 하나를 사용하여 기본 로고를 렌더링합니다.
 
-```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
+_예_:
+
+```bash
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```
+
+_예_:
+
+```bash
+{{#if brand_logo}}
+
+                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{else}}
+
+                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{/if}}
+```
 
 #### 수동 필드 이름
 
 다른 모든 필드 이름은 수동으로 채워진 필드로 처리됩니다. 섹션을 편집할 수 있게 하려면 편집할 섹션 주위에 이중 대괄호를 추가합니다.
 
-> 예: ``{{customVariable}}``(customVariable는 수동으로 편집 가능한 섹션임)
+_예_: ``{{customVariable}}``(`customVariable`은(는) 수동으로 편집할 수 있는 섹션입니다.)
 
 ## 섹션 또는 그룹
 
