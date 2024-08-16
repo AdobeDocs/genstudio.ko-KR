@@ -1,8 +1,8 @@
 ---
-source-git-commit: b57c7ceae291ec819c0f874447679f4a1ec0fe9a
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '2'
+source-wordcount: '5'
 ht-degree: 0%
 
 ---
-# GenStudio 스니펫
+# 성능 마케터용 GenStudio 스니펫

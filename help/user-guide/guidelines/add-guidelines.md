@@ -1,12 +1,12 @@
 ---
-title: GenStudio에 지침 추가
-description: Adobe [!DNL GenStudio]에서 지침—[!DNL Brands], [!DNL Products] 및 [!DNL Personas]을(를) 추가하는 방법을 알아봅니다.
+title: 성능 마케터를 위한 Adobe GenStudio에 지침 추가
+description: 성능 마케터를 위한 Adobe GenStudio에서 지침—[!DNL Brands], [!DNL Products] 및 [!DNL Personas]을(를) 추가하는 방법을 알아봅니다.
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '944'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 # 지침 추가
 
-[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) 및 [[!DNL Personas]](/help/user-guide/guidelines/personas.md)은(는) AI 생성 콘텐츠가 브랜드 ID에 맞게 사용자 지정되도록 하여 콘텐츠를 효과적으로 개인화할 수 있도록 하는 GenStudio의 사용자 정의 지침입니다.
+[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) 및 [[!DNL Personas]](/help/user-guide/guidelines/personas.md)은(는) AI 생성 콘텐츠가 브랜드 ID에 맞게 사용자 지정되도록 하여 콘텐츠를 효과적으로 개인화할 수 있도록 하는 성과 마케터용 GenStudio의 사용자 정의 지침입니다.
 
-[GenStudio 지침 개요](/help/user-guide/guidelines/overview.md)를 참조하세요.
+[지침 개요](/help/user-guide/guidelines/overview.md)를 참조하세요.
 
-GenStudio에 지침을 추가하는 것은 작성 프로세스의 중요한 단계입니다. 가이드라인은 사용자 정의 프롬프트 및 Adobe 생성 AI 기술과 함께 콘텐츠 작성 프로세스를 알려 효과적인 자산을 제작합니다.
+성과 마케터를 위한 GenStudio에 지침을 추가하는 것은 작성 프로세스의 중요한 단계입니다. 가이드라인은 사용자 정의 프롬프트 및 Adobe 생성 AI 기술과 함께 콘텐츠 작성 프로세스를 알려 효과적인 자산을 제작합니다.
 
 ## [!DNL Brands] 추가
 
-GenStudio에 브랜드를 추가하려면 지침을 선택하고 브랜드 세부 정보를 입력하여 [브랜드 가이드를 업로드](#upload-brand-guidelines)하거나 [수동으로 브랜드를 만들기](#manually-add-brand)할 수 있습니다. [브랜드를 Publish](#publish-brand)에서 [!DNL Content]까지 활성화하여 향후 콘텐츠 생성에 사용할 수 있도록 합니다.
+성능 마케터용 GenStudio에 브랜드를 추가하려면 지침을 선택하고 브랜드 세부 정보를 입력하여 [브랜드 가이드를 업로드](#upload-brand-guidelines)하거나 [수동으로 브랜드를 만들기](#manually-add-brand)할 수 있습니다. [브랜드를 Publish](#publish-brand)에서 [!DNL Content]까지 활성화하여 향후 콘텐츠 생성에 사용할 수 있도록 합니다.
 
 왼쪽 탐색 영역에서 **[!DNL Brands]**&#x200B;을(를) 클릭합니다. _[!DNL Brands]_패널에서&#x200B;**브랜드 추가**를 선택합니다.
 
 ### 업로드를 통해 브랜드 추가
 
-자체 브랜드 문서를 업로드하여 GenStudio의 새 브랜드를 채울 수 있습니다.
+자체 브랜드 문서를 업로드하여 GenStudio for Performance Marketers의 새 브랜드를 채울 수 있습니다.
 
 [[!DNL Brands]](/help/user-guide/guidelines/brands.md)을(를) 참조하십시오.
 
@@ -41,13 +41,13 @@ GenStudio에 브랜드를 추가하려면 지침을 선택하고 브랜드 세�
 
 1. **[!UICONTROL 브랜드 추가]**&#x200B;를 선택합니다.
 
-GenStudio은 Adobe의 생성 AI 기술을 사용하여 업로드한 문서에서 정보를 추출하고 브랜드 구축을 시작합니다. GenStudio이 브랜드 문서에서 각 지침을 어셈블할 때 브랜드 음성, 채널 및 이미지 지침과 같은 브랜드 정보가 채워지는 것을 볼 수 있습니다.
+GenStudio for Performance Marketters는 Adobe의 생성 AI 기술을 사용하여 업로드된 문서에서 정보를 추출하고 브랜드 구축을 시작합니다. 브랜드 보이스, 채널, 이미지 가이드라인 등의 브랜드 정보가 GenStudio for Performance Marketers로 채워지면 브랜드 문서에서 각 가이드라인이 어셈블됩니다.
 
 팝업을 사용하면 [브랜드를 게시](#publish-brand)하기 전에 추출된 콘텐츠를 검토하도록 상기됩니다.
 
 ### 수동으로 브랜드 추가
 
-기존 브랜드 문서를 업로드하는 대신 브랜드 세부 정보를 수동으로 추가하여 GenStudio의 새 [brand](brands.md)을(를) 채울 수 있습니다.
+기존 브랜드 문서를 업로드하는 대신 브랜드 세부 정보를 수동으로 추가하여 성능 마케터용 GenStudio의 새 [brand](brands.md)을(를) 채울 수 있습니다.
 
 **브랜드를 수동으로 추가하려면**:
 
@@ -66,7 +66,7 @@ GenStudio은 Adobe의 생성 AI 기술을 사용하여 업로드한 문서에서
 
 만든 [!DNL Brands]을(를) 보려면 _Brand_ 패널 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Brands]_홈으로 다시 이동합니다.
 
-정보에 액세스할 수 있도록 하기 위해 브랜드를 [게시](#publish-brand)할 필요가 없습니다. 수동으로 추가된 모든 정보는 추가된 후 즉시 사용할 수 있습니다. 조직의 다른 사용자가 GenStudio의 브랜드 정보를 사용하려면 해당 정보를 게시해야 합니다.
+정보에 액세스할 수 있도록 하기 위해 브랜드를 [게시](#publish-brand)할 필요가 없습니다. 수동으로 추가된 모든 정보는 추가된 후 즉시 사용할 수 있습니다. 조직의 다른 사용자가 GenStudio for Performance Marketers의 브랜드 정보를 사용하려면 해당 정보를 게시해야 합니다.
 
 ### Publish 브랜드
 
@@ -94,7 +94,7 @@ _[!DNL Brands]_홈에서&#x200B;**이미 만든 브랜드를 열기**를 클릭�
 
 ## [!DNL Products] 추가
 
-콘텐츠를 만들 때 GenStudio에서 [!DNL Products]을(를) 추가하여 개별 제품 포커스 영역을 지정할 수 있습니다. <!-- Add Rename, display, reposition functionality -->
+성능 마케터용 GenStudio에서 [!DNL Products]을(를) 추가하여 콘텐츠를 만들 때 개별 제품 포커스 영역을 지정할 수 있습니다. <!-- Add Rename, display, reposition functionality -->
 
 [[!DNL Products]](products.md)을(를) 참조하십시오.
 
@@ -121,7 +121,7 @@ _[!DNL Products]_홈에서 이미 만든&#x200B;[!DNL Product]**을(를)**열어
 
 ## [!DNL Personas] 추가
 
-GenStudio에서 [!DNL Persona]을(를) 추가하여 만든 콘텐츠를 이상적인 대상자에게 타깃팅할 수 있습니다.
+GenStudio for Performance Marketers에서 [!DNL Persona]을(를) 추가하여 만든 콘텐츠를 이상적인 대상자에게 타깃팅할 수 있습니다.
 
 [[!DNL Personas]](personas.md)을(를) 참조하십시오.
 

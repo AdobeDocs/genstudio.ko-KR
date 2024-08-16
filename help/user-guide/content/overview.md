@@ -1,18 +1,18 @@
 ---
-title: ' [!DNL Content] 개요'
+title: 성능 마케터를 위한 Adobe GenStudio 개요 [!DNL Content]
 description: 하나의 직관적인 포털에서 브랜드로 승인된 에셋을 찾고, 편집하고, 재사용하고, 공유하는 방법에 대해 알아봅니다.
 feature: Attributes, Content, Templates
-source-git-commit: 4192f4a34c30267a2556874fed2e5bc5b300c227
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '285'
 ht-degree: 1%
 
 ---
 
 
-# GenStudio [!DNL Content]
+# 성능 마케터 [!DNL Content]에 대한 Adobe GenStudio
 
-GenStudio [!DNL Content]은(는) 브랜드에서 승인한 모든 자산, 경험 및 템플릿을 저장하고, 찾고, 공유할 수 있는 중앙 위치를 제공합니다. 컨텐츠를 편집 및 리믹스하고, 컨텐츠 사용 및 감성에 대한 통찰력을 얻고, 생성 AI를 사용하여 기존 자산을 새로 고치고 용도를 변경할 수 있습니다.
+성능 마케터용 GenStudio [!DNL Content]은(는) 브랜드에서 승인한 모든 자산, 경험 및 템플릿을 저장하고, 찾고, 공유할 수 있는 중앙 위치를 제공합니다. 컨텐츠를 편집 및 리믹스하고, 컨텐츠 사용 및 감성에 대한 통찰력을 얻고, 생성 AI를 사용하여 기존 자산을 새로 고치고 용도를 변경할 수 있습니다.
 
 ## [!DNL Content] 사용 사례
 
@@ -65,7 +65,7 @@ GenStudio [!DNL Content]은(는) 브랜드에서 승인한 모든 자산, 경험
 
 ## [!DNL Content] 기능
 
-GenStudio [!DNL Content]을(를) 사용하면 승인된 에셋을 쉽게 관리하고 콘텐츠 라이프사이클을 가속화할 수 있습니다. **[!UICONTROL [!DNL Content]]**&#x200B;에서 성능 좋은 콘텐츠를 검색, 찾아 재사용하거나 에셋 또는 경험을 선택하여 항상 사용되는 캠페인에 대한 새 변형 만들기를 바로 시작할 수 있습니다.
+성능 마케터용 GenStudio [!DNL Content]을(를) 사용하면 승인된 자산을 쉽게 관리하고 콘텐츠 라이프사이클을 가속화할 수 있습니다. **[!UICONTROL [!DNL Content]]**&#x200B;에서 성능 좋은 콘텐츠를 검색, 찾아 재사용하거나 에셋 또는 경험을 선택하여 항상 사용되는 캠페인에 대한 새 변형 만들기를 바로 시작할 수 있습니다.
 
 ### 자산 업로드
 
@@ -73,7 +73,7 @@ GenStudio [!DNL Content]을(를) 사용하면 승인된 에셋을 쉽게 관리�
 
 ### 승인된 콘텐츠 검색 및 찾기
 
-승인된 자산을 저장하면 [!DNL Content]에서 서식 있는 메타데이터, 생성 컨텍스트 및 감사 기록을 유지 관리합니다. 에셋 세부 정보는 필터 및 검색 문자열을 사용하여 검색 결과의 범위를 빠르게 좁히는 데 도움이 됩니다. GenStudio AI는 색상과 같은 특정 세부 사항을 자동으로 식별하고 저장합니다. 검색 필드에서 `blue`을(를) 검색하면 콘텐츠 목록이 파란색으로 태그가 지정된 자산으로 좁혀집니다.
+승인된 자산을 저장하면 [!DNL Content]에서 서식 있는 메타데이터, 생성 컨텍스트 및 감사 기록을 유지 관리합니다. 에셋 세부 정보는 필터 및 검색 문자열을 사용하여 검색 결과의 범위를 빠르게 좁히는 데 도움이 됩니다. GenStudio for Performance Marketers의 AI는 색상과 같은 특정 세부 사항을 자동으로 식별하고 저장합니다. 검색 필드에서 `blue`을(를) 검색하면 콘텐츠 목록이 파란색으로 태그가 지정된 자산으로 좁혀집니다.
 
 ### 템플릿 작업
 

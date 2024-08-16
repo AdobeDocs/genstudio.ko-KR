@@ -1,22 +1,22 @@
 ---
-title: GenStudio [!DNL Personas]
-description: GenStudio [!DNL Personas] 은(는) 고객의 관심사, 불만 사항, 환경 설정 및 행동 특성을 포착하여 고객 세그먼트를 정확하게 표현한 것입니다.
+title: 성능 마케터용 GenStudio [!DNL Personas]
+description: 성과 마케터용 GenStudio [!DNL Personas] 은(는) 고객 세그먼트를 정확하게 표현한 것으로 관심 영역, 불만 사항, 환경 설정 및 행동 특성을 포착할 수 있습니다.
 feature: Personas Service, Guidelines
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Personas]
+# 성능 마케터용 GenStudio [!DNL Personas]
 
 [!DNL Personas]은(는) 정보, 관심사, 불만 사항, 환경 설정 및 행동 특성을 포함하여 고객 세그먼트에 대한 실제 묘사를 제공합니다.
 
-GenStudio은 지침의 강력한 기능([[!DNL Brands], [!DNL Products] 및 [!DNL Personas]](overview.md))과 Adobe의 생성 AI 기술을 활용하여 대상 고객을 위한 개인화된 마케팅 콘텐츠를 선별합니다&#x200B;.
+GenStudio for Performance Marketters는 강력한 지침—[[!DNL Brands], [!DNL Products] 및 [!DNL Personas]](overview.md) 및 Adobe의 생성 AI 기술을 활용하여 대상 고객을 위한 개인화된 마케팅 콘텐츠를 선별합니다&#x200B;.
 
-GenStudio의 ![[!DNL Personas] 지침](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
+성능 마케터를 위한 GenStudio의 ![[!DNL Personas] 지침](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
 
 **담당자를 보거나 수정하려면**:
 
@@ -24,11 +24,11 @@ GenStudio의 ![[!DNL Personas] 지침](/help/assets/personas-guidelines.png){wid
 1. [개별 세부 정보를 보거나 개인을 수정하려면](add-guidelines.md#manage-personas)_[!DNL Personas]_동작 메뉴를 클릭하고&#x200B;**열기**를 선택합니다.
 1. 지침 범주 텍스트 필드를 클릭하여 가상 사용자 지침을 수정합니다.
 
-GenStudio에서 담당자를 추가하거나 수정하는 방법은 [지침 추가](add-guidelines.md)를 참조하세요.
+성능 마케터용 GenStudio에서 담당자를 추가하거나 수정하는 방법에 대해 알아보려면 [지침 추가](add-guidelines.md)를 참조하십시오.
 
 ## [!DNL Personas] 지침
 
-개별 사용자 지침에서는 GenStudio에 [!DNL Personas]에 대한 명확한 그림을 제공합니다.
+개별 성향 가이드라인은 성능 마케터용 GenStudio에 [!DNL Personas]에 대한 명확한 그림을 제공합니다.
 
 이 지침은 각 지침 범주 및 관련 예제를 자세히 설명합니다. 예들은 생성된 콘텐츠의 출력을 형성하는 샘플 입력들이다. [!DNL Personas] 지침을 알리기 위해 사용하세요.
 

@@ -2,17 +2,17 @@
 title: ' [!DNL Insights] 개요'
 description: 실시간 콘텐츠 성능 지표를 기반으로 경험을 최적화하는 방법을 알아봅니다.
 feature: Attributes, Insights, Experiences, Assets
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
 
 
-# GenStudio [!DNL Insights]
+# 성능 마케터 [!DNL Insights]에 대한 Adobe GenStudio
 
-GenStudio [!DNL Insights]은(는) 데이터 기반 결정을 내리는 데 도움이 되는 콘텐츠 성능에 대한 고급 분석 및 통찰력을 제공합니다.
+성능 마케터 Adobe GenStudio [!DNL Insights]은(는) 데이터 중심의 의사 결정을 내리는 데 도움이 되는 콘텐츠 성능에 대한 고급 분석 및 통찰력을 제공합니다.
 
 [!DNL Insights] 대시보드에서 다음을 수행할 수 있습니다.
 
@@ -22,7 +22,7 @@ GenStudio [!DNL Insights]은(는) 데이터 기반 결정을 내리는 데 도�
 
 >[!TIP]
 >
->GenStudio에서 현재 마케팅 캠페인, 에셋 및 경험으로부터 데이터를 받을 수 있도록 하는 단계는 [채널 계정 연결](connect-channel.md)을 참조하십시오.
+>성능 마케터용 GenStudio에서 현재 마케팅 캠페인, 자산 및 경험으로부터 데이터를 받을 수 있도록 하는 단계는 [채널 계정 연결](connect-channel.md)을 참조하십시오.
 
 ## 대시보드
 

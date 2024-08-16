@@ -2,9 +2,9 @@
 title: 에셋 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content, Assets, Experiences
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 에셋 및 경험 관리
 
-GenStudio [!DNL Content]은(는) 디지털 마케팅 여정에서 사용 및 재사용을 위해 브랜드 승인 에셋을 간편하게 관리하고 개선합니다.
+성능 마케터 [!DNL Content]을(를) 위한 Adobe GenStudio은 디지털 마케팅 여정에서 사용 및 재사용을 위해 브랜드 승인 에셋을 간편하게 관리하고 개선합니다.
 
 ## 에셋 추가
 
@@ -26,11 +26,11 @@ GenStudio [!DNL Content]은(는) 디지털 마케팅 여정에서 사용 및 재
 
 1. 검색 기능을 향상시키려면 **추가 정보** 섹션에서 _브랜드 이름_, _가상 사용자_, _지역_ 및 _키워드_&#x200B;와 같은 선택적 세부 정보를 추가하십시오.
 
-   자세히 제공할수록 GenStudio의 강력한 기능을 더 많이 경험하게 됩니다. 목록에서 세부 정보를 하나 이상 선택하거나, 해당하는 경우 키워드 등과 같이 새 세부 정보를 입력합니다. 추가하는 각 세부 사항은 목록 아래에 표시됩니다. 세부 정보를 제거하려면 **`x`**&#x200B;을(를) 클릭하십시오.
+   자세히 제공할수록 성능 마케터를 위한 GenStudio의 강력한 기능을 경험하게 됩니다. 목록에서 세부 정보를 하나 이상 선택하거나, 해당하는 경우 키워드 등과 같이 새 세부 정보를 입력합니다. 추가하는 각 세부 사항은 목록 아래에 표시됩니다. 세부 정보를 제거하려면 **`x`**&#x200B;을(를) 클릭하십시오.
 
    추가하는 모든 세부 사항은 이 작업에 추가된 모든 자산에 적용됩니다.
 
-   [메타데이터 세부 정보](/help/user-guide/content/asset-details.md#genstudio-metadata)를 참조하세요.
+   [메타데이터 세부 정보](/help/user-guide/content/asset-details.md#system-metadata)를 참조하세요.
 
 1. **[!UICONTROL 자산 추가]**&#x200B;를 클릭합니다.
 1. 에셋 업로드가 완료되면 **완료**&#x200B;를 클릭하세요.
@@ -59,7 +59,3 @@ In the future, need guidance on template upload errors. For now, the UI just say
 1. 전체 보기 및 세부 정보 목록을 위한 에셋을 선택합니다.
 
    로컬 워크스테이션에서 자산을 사용하려면 **[!UICONTROL 다운로드]**(아래쪽 화살표)를 클릭합니다.
-
-<!-- 
-There is more here, but not ready yet.
--->

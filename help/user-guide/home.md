@@ -1,22 +1,22 @@
 ---
 title: Adobe GenStudio 사용 안내서
-description: 엔터프라이즈 가드레일 및 거버넌스를 통해 브랜드 내 콘텐츠에 셀프서비스 방식으로 액세스하여 높은 성과를 거둘 수 있는 Adobe의 AI 우선 애플리케이션인 GenStudio을 통해 마케터와 수퍼차지 크리에이티브를 구현할 수 있습니다.
-source-git-commit: 1e30db88fac8e6d47a845d4eb5d54defcc256244
+description: 엔터프라이즈 가드레일 및 거버넌스를 통해 브랜드 내 콘텐츠에 셀프서비스 방식으로 액세스하여 높은 성과를 거둘 수 있도록 하는 Adobe의 AI 우선 애플리케이션인 GenStudio for Performance Marketers를 통해 마케터와 수퍼차지 크리에이티브를 수행할 수 있습니다.
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
-# GenStudio 사용 안내서
+# 성능 마케터용 Adobe GenStudio 사용 안내서
 
-Adobe GenStudio은 기업이 브랜드 표준을 준수하고 기업 정책을 준수하는 마케팅 콘텐츠를 자율적으로 생성하고 관리할 수 있도록 지원하는 AI 기반 플랫폼으로 효과적인 마케팅 전략을 원활하게 지원한다.
+성과 마케터용 Adobe GenStudio은 기업이 브랜드 표준을 준수하고 기업 정책을 준수하는 마케팅 콘텐츠를 자율적으로 생성하고 관리할 수 있도록 지원하는 AI 기반 플랫폼으로 효과적인 마케팅 전략을 원활하게 지원합니다.
 
-GenStudio을 통해 마케터와 크리에이티브는 콘텐츠 만들기 프로세스를 간소화하여 특정 대상에게 매력적이고 문화적으로 관련성이 있으며 맞춤화된 마케팅 콘텐츠를 만드는 동시에 고품질과 브랜드 무결성을 유지할 수 있습니다.
+GenStudio for Performance Marketers를 통해 마케터와 크리에이티브는 콘텐츠 만들기 프로세스를 간소화하여 특정 대상에게 매력적이고 문화적으로 관련되며 맞춤화된 마케팅 콘텐츠를 만드는 동시에 고품질과 브랜드 무결성을 유지할 수 있습니다.
 
-GenStudio은 AI 기술을 활용하여 콘텐츠 생성 및 관리의 복잡성을 간소화하고 크리에이티브가 혁신에 집중할 수 있는 포괄적인 도구 모음을 제공합니다.
+GenStudio for Performance Marketters는 AI 기술을 활용하여 콘텐츠 생성 및 관리의 복잡성을 간소화하고 크리에이티브가 혁신에 집중할 수 있는 포괄적인 도구 모음을 제공합니다.
 
-## GenStudio 기능 살펴보기
+## 기능 살펴보기
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
@@ -99,7 +99,7 @@ GenStudio은 AI 기술을 활용하여 콘텐츠 생성 및 관리의 복잡성�
       </a>
    </div>
    <p>
-      <em>GenStudio에 지침(브랜드, 제품 및 가상 사용자)을 추가하는 방법을 알아봅니다.</em>
+      <em>성과 마케터를 위해 GenStudio에 브랜드, 제품 및 가상 사용자를 추가하는 방법에 대해 알아봅니다.</em>
    </p>
 </td>
 <td valign="top">

@@ -1,27 +1,27 @@
 ---
-title: ' [!DNL Create] 개요'
-description: GenStudio [!DNL Create]에서 생성 AI를 사용하여 고성능의 브랜드 내 콘텐츠를 빠르게 생성합니다.
+title: 성능 마케터용 GenStudio 개요 [!DNL Create]
+description: 성과 마케터용 Adobe GenStudio [!DNL Create]에서 생성 AI를 사용하여 성과가 좋은 브랜드 내 콘텐츠를 빠르게 생성합니다.
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
-source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '503'
 ht-degree: 1%
 
 ---
 
 
-# GenStudio [!DNL Create]
+# 성능 마케터용 GenStudio [!DNL Create]
 
-GenStudio [!DNL Create]은(는) Adobe GenAI의 기능을 활용하여 마케터와 분산 팀이 고성능의 브랜드 내 경험을 만들 수 있도록 합니다.
+GenStudio for Performance Marketers [!DNL Create]은(는) Adobe GenAI의 기능을 활용하여 마케터와 분산 팀이 브랜드 내 고성능 경험을 만들 수 있도록 합니다.
 
-GenStudio [!DNL Create]을(를) 사용하면 다음 채널에 대한 콘텐츠를 생성할 수 있습니다.
+[!DNL Create]을(를) 사용하면 다음 채널에 대한 콘텐츠를 생성할 수 있습니다.
 
 * 이메일
 * 메타 광고
 <!-- * Social media images and ads
 * Display ads -->
 
-[!DNL Create]은(는) GenStudio [지침](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] 및 [!DNL Personas]—[콘텐츠](/help/user-guide/content/overview.md), [검토 및 승인](/help/user-guide/approvals/overview.md) 및 [인사이트](/help/user-guide/insights/overview.md)의 강력한 기능과 함께 효과적인 브랜드 중심 마케팅 콘텐츠 생성을 용이하게 합니다.
+[지침](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] 및 [!DNL Personas]—[콘텐츠](/help/user-guide/content/overview.md), [검토 및 승인](/help/user-guide/approvals/overview.md) 및 [인사이트](/help/user-guide/insights/overview.md)의 강력한 기능과 함께 [!DNL Create]을(를) 통해 효과적인 브랜드 중심 마케팅 콘텐츠를 만들 수 있습니다.
 
 ## [!DNL Create] 사용 사례
 
@@ -60,13 +60,13 @@ GenStudio [!DNL Create]을(를) 사용하면 다음 채널에 대한 콘텐츠�
 </tr>
 </table>
 
-GenStudio을 사용하면 마케터가 **새 마케팅 콘텐츠를 만들**&#x200B;수 있습니다. 이 사용 사례에서는 정의된 [지침](/help/user-guide/guidelines/overview.md) 및 영감 이미지를 사용하여 브랜드 맞춤 콘텐츠 작성을 알리십시오.
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content. 
+성능 마케터용 GenStudio을 사용하면 마케터가 **새 마케팅 콘텐츠를 만들**&#x200B;수 있습니다. 이 사용 사례에서는 정의된 [지침](/help/user-guide/guidelines/overview.md) 및 영감 이미지를 사용하여 브랜드 맞춤 콘텐츠 작성을 알리십시오.
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketers and use the power of Adobe generative AI technology to revise and improve existing content. 
 * **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## [!DNL Create] 기능
 
-GenStudio [!DNL Create]은(는) 사용자가 콘텐츠를 생성하는 데 도움이 되도록 GenStudio의 다양한 구성 요소를 통합합니다.
+[!DNL Create]은(는) 사용자가 콘텐츠를 생성하는 데 도움이 되도록 성능 마케터용 GenStudio의 다양한 구성 요소를 통합합니다.
 
 ### 초안
 
@@ -88,15 +88,15 @@ _에서 제작할 콘텐츠 채널을 선택한 후 오늘 제작할 콘텐츠�
 
 ### 매개변수
 
-프롬프트 영역에서 [!DNL Brands], [!DNL Products] 및 [!DNL Personas](GenStudio 지침)과 같은 _매개 변수_ 또는 자산을 추가하여 생성된 경험을 형성할 수 있습니다.
+프롬프트 영역에서 [!DNL Brands], [!DNL Products] 및 [!DNL Personas](지침)과 같은 _매개 변수_ 또는 자산을 추가하여 생성된 경험을 형성할 수 있습니다.
 
 _매개 변수_&#x200B;에 업로드된 이미지는 생성된 변형에 사용되며 변형에 대해 생성된 콘텐츠(텍스트) 복사를 알려줍니다.
 
-이렇게 추가된 매개 변수는 생성 프로세스에 [지침](/help/user-guide/guidelines/overview.md) 및 자산을 삽입하여 브랜드의 포괄적인 ID에 맞게 콘텐츠를 사용자 지정하도록 합니다. 적합한 온브랜드 콘텐츠 생성을 크게 향상시키므로 GenStudio에 지침을 추가하여 콘텐츠 생성 프로세스 중에 사용하는 것이 좋습니다.
+이렇게 추가된 매개 변수는 생성 프로세스에 [지침](/help/user-guide/guidelines/overview.md) 및 자산을 삽입하여 브랜드의 포괄적인 ID에 맞게 콘텐츠를 사용자 지정하도록 합니다. 적절한 온브랜드 콘텐츠 생성을 크게 향상시키므로 성능 마케터용 GenStudio에 지침을 추가하여 콘텐츠 생성 프로세스 중에 사용하는 것이 좋습니다.
 
 ### 브랜드 유효성 검사
 
-GenStudio은 브랜드 ID의 다양한 측면에 대해 브랜드 유효성 검사를 수행합니다([지침](/help/user-guide/guidelines/overview.md)에 정의됨). [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md) 정보는 생성된 모든 콘텐츠에 사용할 수 있으며, 이는 브랜드 지침을 준수하고 텍스트와 이미지 간의 일관성을 나타냅니다. 이 정보를 사용하여 생성된 경험을 수정하거나 개선하여 브랜드에 더 잘 부합하도록 할 수 있습니다.
+GenStudio for Performance Marketters는 브랜드 ID의 다양한 측면에 대한 브랜드 유효성 검사를 수행합니다([지침](/help/user-guide/guidelines/overview.md)에 정의됨). [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md) 정보는 생성된 모든 콘텐츠에 사용할 수 있으며, 이는 브랜드 지침을 준수하고 텍스트와 이미지 간의 일관성을 나타냅니다. 이 정보를 사용하여 생성된 경험을 수정하거나 개선하여 브랜드에 더 잘 부합하도록 할 수 있습니다.
 
 ### 검토 및 승인
 

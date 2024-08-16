@@ -1,13 +1,13 @@
 ---
-source-git-commit: 135502f6743f2d45860c900a49a8c19a024a58dc
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 37%
+source-wordcount: '310'
+ht-degree: 36%
 
 ---
-# GenStudio 설명서
+# 성능 마케터용 GenStudio 설명서
 
-이 사이트에는 GenStudio 제품에 대한 최신 설명서가 포함되어 있습니다.
+이 사이트에는 성능 마케터용 GenStudio 제품에 대한 최신 설명서가 포함되어 있습니다.
 
 ## Adobe 오픈 소스 행동 수칙
 
@@ -37,8 +37,8 @@ Adobe 제품 팀의 테크니컬 라이터, 프로그램 관리자 또는 개발
 
 이 저장소의 모든 문서는 GitHub 버전의 Markdown을 사용합니다. 마크다운에 익숙하지 않은 경우 다음을 참조하십시오.
 
-- [마크다운 기본 사항](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [인쇄 가능한 마크다운 치트시트 ](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
+- [Markdown 기본 사항](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [인쇄 가능 Markdown 치트시트](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
 
 ## 레이블
 

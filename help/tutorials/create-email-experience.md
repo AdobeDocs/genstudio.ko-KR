@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # 이메일 경험 만들기
 
-이 튜토리얼에서는 GenStudio [[!DNL Create]](/help/user-guide/create/overview.md)(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 이메일 경험을 생성하는 방법을 보여 줍니다.
+이 튜토리얼에서는 성능 마케터 [[!DNL Create]](/help/user-guide/create/overview.md)용 GenStudio(왼쪽 탐색 영역에 있는 페인트 브러쉬 아이콘)를 사용하여 브랜드 이메일 경험을 생성하는 방법을 보여 줍니다.
 
-효과적인 이메일 경험을 만들려면 시작하기 전에 [GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 만들기의 기본 사항](/help/user-guide/effective-prompts.md)을 살펴보는 것이 좋습니다.
+효과적인 이메일 경험을 만들려면 [성능 마케터를 위한 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 시작하기 전에 [프롬프트 작성의 기본 사항](/help/user-guide/effective-prompts.md)을 살펴보는 것이 좋습니다.
 
 ## 템플릿 선택
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 1. _매개 변수_ 아이콘을 클릭하여 프롬프트 영역을 확장합니다.
 1. _매개 변수_ 섹션에서 콘텐츠 생성을 알리는 지침—[!DNL Brands], [!DNL Personas] 및 [!DNL Products]을(를) 선택하십시오.
 
-   이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
+   이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [성능 마케터를 위한 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
 
 1. 콘텐츠 생성에 영향을 미치려면 **[!UICONTROL 콘텐츠 선택]**&#x200B;을 클릭하여 *및* 경험에 사용할 콘텐츠를 추가합니다.
    * [!DNL Content]에 이미 게시된 자산(이미지)을 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하세요. 필터를 사용하여 검색 결과의 범위를 좁힐 수 있습니다.

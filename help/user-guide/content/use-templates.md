@@ -1,10 +1,10 @@
 ---
 title: 템플릿 작업
-description: 템플릿을 사용하여 GenStudio에서 매력적인 경험을 만드는 방법을 알아봅니다.
+description: 템플릿을 사용하여 성능 마케터를 위한 Adobe GenStudio에서 매력적인 경험을 만드는 방법을 알아봅니다.
 feature: Templates, Content
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '459'
 ht-degree: 2%
 
 ---
@@ -17,8 +17,8 @@ GenStudio 템플릿은 콘텐츠 작성자가 일관된 온브랜드 마케팅 �
 이 안내서에서는 다음 방법에 대한 자세한 정보를 제공합니다.
 
 * [이메일 템플릿](email-template.md) 또는 메타 광고 템플릿 준비
-* GenStudio용 [템플릿 사용자 지정](customize-template.md)
-* GenStudio에 [템플릿 업로드](#upload-a-template)
+* Performance Marketerstudio용 GenStudio에 대해 [템플릿 사용자 지정](customize-template.md)
+* 성능 마케터를 위해 GenStudio에 [템플릿 업로드](#upload-a-template)
 * [템플릿을 사용하여 경험 만들기](#use-a-template)
 
 ## 템플릿 해부학
@@ -38,11 +38,11 @@ GenStudio 템플릿은 콘텐츠 작성자가 일관된 온브랜드 마케팅 �
 
 >[!NOTE]
 > 
->GenStudio에서 콘텐츠 자리 표시자에 대한 텍스트를 생성할 수 있도록 각 채널의 콘텐츠에 특정 필드를 포함하는 것이 좋습니다. 포함하기 위해 권장되는 필드를 보려면 [인식된 필드 이름](customize-template.md#recognized-field-names)을(를) 참조하십시오.
+>성능 마케터용 GenStudio에서 컨텐츠 자리 표시자에 대한 텍스트를 생성할 수 있도록 각 채널의 컨텐츠에 특정 필드를 포함하는 것이 좋습니다. 포함하기 위해 권장되는 필드를 보려면 [인식된 필드 이름](customize-template.md#recognized-field-names)을(를) 참조하십시오.
 
 ## 템플릿 업로드
 
-GenStudio은 HTML 형식의 템플릿을 허용합니다.
+성능 마케터용 GenStudio은 HTML 형식의 템플릿을 허용합니다.
 
 **템플릿을 추가하려면**:
 
@@ -80,7 +80,6 @@ GenStudio은 HTML 형식의 템플릿을 허용합니다.
 >[!TIP]
 >
 >템플릿을 사용한 전체 튜토리얼은 [[!DNL Create] 이메일 경험](/help/tutorials/create-email-experience.md) 또는 [[!DNL Create] 메타 광고 경험](/help/tutorials/create-meta-ad.md)을 참조하십시오.
-
 <!--  The create button in Content Template view does not work yet.
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 -->

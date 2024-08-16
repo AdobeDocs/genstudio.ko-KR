@@ -1,12 +1,12 @@
 ---
-title: GenStudio 콘텐츠의 변형 생성
-description: ' [!DNL GenStudio] Adobe에서 만들어진 컨텐츠의 변형을 생성하는 방법을 알아봅니다.'
+title: 성능 마케터 콘텐츠에 대한 Adobe GenStudio 변형 생성
+description: 성과 마케터를 위한 Adobe GenStudio에서 생성된 콘텐츠의 변형을 생성하는 방법에 대해 알아봅니다.
 feature: Content, Brands Service, Variant Generation, Content Generation
 role: User
 level: Beginner
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## 이메일
 
-기본적으로 GenStudio은 4개의 이메일 변형을 생성합니다. 새로운 프롬프트와 _매개 변수_&#x200B;를 혼합하여 수동으로 수정하거나 다시 생성하여 스타일적인 목표나 브랜드 준수를 달성할 수 있습니다.
+기본적으로 성능 마케터용 GenStudio은 4개의 이메일 변형을 생성합니다. 새로운 프롬프트와 _매개 변수_&#x200B;를 혼합하여 수동으로 수정하거나 다시 생성하여 스타일적인 목표나 브랜드 준수를 달성할 수 있습니다.
 
 **생성된 전자 메일 변형을 수정하려면:**
 

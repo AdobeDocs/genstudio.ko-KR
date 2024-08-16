@@ -1,9 +1,9 @@
 ---
 title: 성능 마케터를 위한 Adobe GenStudio Beta 릴리스 노트
 description: 성능 마케터를 위한 Adobe GenStudio의 최신 기능과 개선 사항에 대해 알아봅니다.
-source-git-commit: cbae3aeb1b8282fb64f2a6405a7ad9e07a48dbbd
+source-git-commit: 75d966e8474687e8e88ccec6fe6a96fda030dbcf
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # 성능 마케터를 위한 Adobe GenStudio Beta 릴리스 노트
 
-이들 노트는 8월 16일이 끝나는 주에 대한 중요한 Adobe GenStudio 수정 사항 및 개선 사항을 강조 표시합니다.
+이 노트에서는 8월 16일로 끝나는 주에 대한 성능 마케터의 수정 사항 및 개선 사항에 대한 중요 Adobe GenStudio을 강조 표시합니다.
 
 ## 강조 표시
 
@@ -26,8 +26,6 @@ ht-degree: 0%
 * **업데이트된 브랜드 추출 인터페이스**: 이제 브랜드 추출에 추출 프로세스 완료가 백분율로 표시됩니다.
 
 * **추출 중 증분 브랜드 로드**: 이제 브랜드 가이드라인이 사용자 인터페이스에 점진적으로 로드됩니다.
-
-* **지침 복사 스키마 간소화**: `unique attributes` 및 `frequent keywords` 필드가 지침 복사 스키마에서 제거되어 지침 설정 프로세스가 간소화되었습니다.
 
 ### [!DNL Create]
 
@@ -57,19 +55,8 @@ ht-degree: 0%
 
 다음 알려진 문제는 GenStudio for Performance Marketers GA 릴리스에서 해결됩니다.
 
-### 분석
-
-* **[!UICONTROL 템플릿 추가]** 및 **[!UICONTROL 업로드]** 단추에 의해 트리거된 작업은 현재 추적되지 않습니다. <!-- GS-3505 -->
-
 ### [!DNL Insights]
 
 * _Assets_&#x200B;에서 비디오를 재생할 수 없습니다. <!-- GS-3846 -->
 
 * 사용자가 Facebook에도 로그인할 때 두 번 로그인해야 합니다. **해결 방법**: [!DNL Insights]에 로그인하기 전에 Facebook에서 로그아웃합니다.
-
-* **캠페인 수준에서 지출** 값이 정확하지 않습니다. 현재 Facebook 광고 관리자와 데이터 레이크 간에 데이터가 일관되지 않습니다. <!-- GS-3202 -->
-
-### [!DNL Reviews and Approvals]
-
-* 작성자는 게시 전에 에셋을 승인한 후 변경할 수 있습니다. 승인자에게는 이러한 변경 사항에 대한 알림이 전송되지 않습니다.
-

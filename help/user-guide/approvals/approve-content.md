@@ -2,9 +2,9 @@
 title: 콘텐츠 승인
 description: 콘텐츠를 승인하는 방법을 알아봅니다.
 feature: Approval
-source-git-commit: 0d6eff35e66d3657aa4f5fda65f91f0caab4a7e1
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -24,5 +24,5 @@ ht-degree: 0%
 
 1. 초안 상태를 **작업 필요**&#x200B;에서 **승인됨**(으)로 변경합니다.
 
-승인자로서의 작업이 완료되었습니다. GenStudio이 초안 작성자에게 승인을 알립니다. [!DNL Content] 또는 _게시_&#x200B;에 저장하는 프로세스에 대한 개요는 [Publish 콘텐츠](./publish-content.md)를 참조하십시오.
+승인자로서의 작업이 완료되었습니다. GenStudio for Performance Marketters는 초안 작성자에게 승인을 알립니다. [!DNL Content] 또는 _게시_&#x200B;에 저장하는 프로세스에 대한 개요는 [Publish 콘텐츠](./publish-content.md)를 참조하십시오.
 

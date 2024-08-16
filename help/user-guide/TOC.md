@@ -1,23 +1,23 @@
 ---
-user-guide-title: Adobe GenStudio 사용 안내서
+user-guide-title: 성능 마케터용 Adobe GenStudio 사용 안내서
 breadcrumb-title: 사용 안내서
 user-guide-description: 실시간 콘텐츠 성능 인사이트를 기반으로 온브랜드 에셋을 빠르게 찾아 생성하고, 변형을 만들고, 경험을 최적화하는 방법에 대해 알아봅니다.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 3283f1ff0ddbc8825e084add893b322dd20066d0
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '122'
 ht-degree: 9%
 
 ---
 
 
-# Adobe GenStudio 안내서 {#user-guide}
+# 성능 마케터용 Adobe GenStudio 안내서 {#user-guide}
 
-+ [GenStudio 안내서](home.md)
++ [성능 마케터용 GenStudio 안내서](home.md)
 + [시작하기](get-started.md)
 + 소개 {#intro}
-   + [GenStudio 개념](concepts.md)
+   + [개념](concepts.md)
    + [유효 프롬프트](effective-prompts.md)
    + [튜토리얼](https://experienceleague.adobe.com/docs/genstudio/learning/tutorials.html)
 + 지침 {#guidelines}
