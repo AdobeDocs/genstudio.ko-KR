@@ -3,7 +3,7 @@ title: 성능 마케터를 위한 Adobe GenStudio을 위한 이메일 템플릿 
 description: 성능 마케터용 Adobe GenStudio을 위한 사용자 정의 이메일 템플릿을 구축하는 방법을 알아봅니다.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
@@ -48,13 +48,13 @@ ht-degree: 0%
 생성된 콘텐츠 영역을 정의하려면
 
 * 헤드라인이나 CTA과 같이 GenStudio for Performance Marketters가 자동으로 생성해야 하는 템플릿의 텍스트 요소를 식별합니다.
-* Handblebars 구문을 사용하여 자리 표시자를 삽입하여 HTML 템플릿을 조정합니다.
+* Handlebars 구문을 사용하여 자리 표시자를 삽입하여 HTML 템플릿을 조정합니다.
 
 [콘텐츠 자리 표시자](/help/user-guide/content/customize-template.md#content-placeholders)를 참조하십시오.
 
 ## 템플릿 미리 보기
 
-기본 제공 도우미를 활용하여 특정 콘텐츠 영역의 가시성을 제어합니다. 예를 들어 깔끔한 미리 보기 링크를 유지하면서 내보낸 템플릿의 링크에 대한 추적 매개 변수를 포함할 수 있습니다.
+기본 제공 도우미를 통해 특정 콘텐츠 영역의 가시성을 제어합니다. 예를 들어 깔끔한 미리 보기 링크를 유지하면서 내보낸 템플릿의 링크에 대한 추적 매개 변수를 포함할 수 있습니다.
 
 [템플릿 미리 보기](/help/user-guide/content/customize-template.md#template-preview)를 참조하세요.
 

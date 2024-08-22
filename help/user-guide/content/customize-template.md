@@ -3,9 +3,9 @@ title: 템플릿 사용자 정의
 description: 성능 마케터용 Adobe GenStudio을 위한 사용자 지정 템플릿을 구축하는 방법에 대해 알아봅니다.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 44390d551e638fcff47cff5844fcfda4ed9f98f3
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 _Handlebars_ 템플릿 언어를 사용하여 성능 마케터의 Adobe GenStudio에 맞게 HTML 템플릿을 조정하십시오. Handlebars 구문에서는 컨텐츠 자리 표시자로 이중 중괄호가 있는 일반 텍스트를 사용합니다. 템플릿을 준비하는 방법은 _Handlebars 언어 안내서_&#x200B;의 [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars)을(를) 참조하십시오.
 
-<!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->If you do not have an HTML template ready to use in GenStudio for Performance Marketers, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
+성능 마케터용 GenStudio에서 사용할 수 있는 HTML 템플릿이 없는 경우 HTML 태그를 사용하여 템플릿의 구조를 정의하는 것부터 시작할 수 있습니다. `DOCTYPE`, `html`, `head` 및 `body`. 다음은 모양을 사용자 지정할 수 있는 CSS 스타일이 포함된 기본 이메일 템플릿입니다.
 
 ```html
 <!DOCTYPE html>
@@ -30,8 +29,6 @@ _Handlebars_ 템플릿 언어를 사용하여 성능 마케터의 Adobe GenStudi
 </body>
 </html>
 ```
-
-[템플릿 예제](#template-examples)를 참조하십시오.
 
 >[!TIP]
 >
@@ -47,13 +44,11 @@ _Handlebars_ 템플릿 언어를 사용하여 성능 마케터의 Adobe GenStudi
 <div>{{ headline }}</div>
 ```
 
-### 필드 이름
+### 인식된 필드 이름
 
 사용자 지정 템플릿에서 허용되는 최대 필드 수는 20개입니다.
 
-#### 인식된 필드 이름
-
-다음 표에는 템플릿으로의 작성을 위해 GenStudio for Performance Marketers에서 인식하는 필드 이름이 나열되어 있습니다.
+다음 표에는 템플릿에 모집단을 지정하기 위해 GenStudio for Performance Marketers에서 인식하는 필드 이름이 나열되어 있습니다.
 
 | 필드 | 역할 | 채널 템플릿 |
 | -------------- | ---------------------- | -------------------- |
@@ -63,12 +58,12 @@ _Handlebars_ 템플릿 언어를 사용하여 성능 마케터의 Adobe GenStudi
 | `cta` | 클릭 유도 문안 | 이메일(권장)<br>메타 광고 |
 | `on_image_text` | 이미지 텍스트에서 | 메타 광고(권장) |
 | `image` | 이미지 | 이메일(권장)<br>메타 광고(권장) |
-| `brand_logo` | 선택한 브랜드의 로고 | 이메일<br>메타데이터 |
+| `brand_logo` | 선택한 브랜드의 로고<br>권장 사용 방법은 [필드 이름](#brand-logo-field-name)을 참조하세요. | 이메일<br>메타데이터 |
 
 성능 마케터용 GenStudio은 템플릿의 특정 필드를 자동으로 채우므로 템플릿 디자인에 포함할 필요가 없습니다.
 
-* `subject` 필드(전자 메일 템플릿)
-* `headline`, `body` 및 `CTA` 필드(메타 광고 템플릿)
+- `subject` 필드(전자 메일 템플릿)
+- `headline`, `body` 및 `CTA` 필드(메타 광고 템플릿)
 
 >[!WARNING]
 >
@@ -76,55 +71,53 @@ _Handlebars_ 템플릿 언어를 사용하여 성능 마케터의 Adobe GenStudi
 
 #### 브랜드 로고 필드 이름
 
-템플릿에 브랜드 로고를 추가하려면 다음 방법 중 하나를 사용하여 기본 로고를 렌더링합니다.
+다음 예제에서는 브랜드 로고를 조건부로 렌더링하고, 소스를 확인하고, 브랜드 로고를 사용할 수 없는 경우 기본 또는 대체 로고를 제공하고, 스타일을 적용하는 두 가지 방법을 보여 줍니다.
 
-_예_:
+_예_: HTML `img src` 정의에서
 
-```bash
-<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```html
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;"> 
 ```
 
-_예_:
+_예_: Handlebars 조건
 
-```bash
+```handlebars
 {{#if brand_logo}}
-
-                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{else}}
-
-                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
-
-                {{/if}}
+    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+    {{else}}
+    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+{{/if}}
 ```
 
 #### 수동 필드 이름
 
-다른 모든 필드 이름은 수동으로 채워진 필드로 처리됩니다. 섹션을 편집할 수 있게 하려면 편집할 섹션 주위에 이중 대괄호를 추가합니다.
+다른 모든 필드 이름은 수동으로 채워진 필드로 처리됩니다. 편집 가능한 섹션을 만들려면 섹션 이름 주위에 이중 대괄호를 추가합니다.
 
-_예_: ``{{customVariable}}``(`customVariable`은(는) 수동으로 편집할 수 있는 섹션입니다.)
+```handlebars
+{{customVariable}}
+```
 
 ## 섹션 또는 그룹
 
-_섹션_ GenStudio for Performance Marketers에게 이 섹션의 필드에 높은 수준의 일관성이 필요하다는 것을 알립니다. 이러한 관계를 구축하면 AI가 해당 섹션의 크리에이티브 요소와 일치하는 콘텐츠를 생성할 수 있습니다.
+_섹션_ GenStudio for Performance Marketers에게 이 섹션의 필드에 높은 수준의 일관성이 필요하다는 것을 알립니다. 이러한 관계를 구축하면 AI가 섹션의 크리에이티브 요소와 일치하는 콘텐츠를 생성할 수 있습니다.
 
 필드 이름에 선택한 접두사를 사용하여 필드가 섹션 또는 그룹의 일부임을 나타냅니다.
 
 예를 들어 강조 표시된 영역에 나타나는 컨텐츠를 강조표시할 수 있습니다.
 
-* `spotlight_headline`
-* `spotlight_body`
+- `spotlight_headline`
+- `spotlight_body`
 
 각 섹션에는 각 필드 유형 중 하나만 있을 수 있습니다. 위의 예에서 `spotlight` 접두사는 하나의 `spotlight_headline` 필드만 가질 수 있습니다.
 
 템플릿에는 최대 3개의 섹션이 포함될 수 있습니다.
 
-* `headline`
-* `body`
-* `spotlight_headline`
-* `spotlight_body`
-* `news_headline`
-* `news_body`
+- `headline`
+- `body`
+- `spotlight_headline`
+- `spotlight_body`
+- `news_headline`
+- `news_body`
 
 성능 마케터용 GenStudio은 `spotlight_headline`이(가) `news_body`보다 `spotlight_body`과(와) 더 밀접하게 관련되어 있음을 이해합니다.
 
@@ -263,7 +256,6 @@ _섹션_ GenStudio for Performance Marketers에게 이 섹션의 필드에 높�
     <div class="ad-body">"{{ body }}"</div>
     <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
 </div>
-
 </body>
 </html>
 ```
