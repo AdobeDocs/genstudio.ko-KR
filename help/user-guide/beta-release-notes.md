@@ -1,7 +1,7 @@
 ---
 title: 성능 마케터를 위한 Adobe GenStudio Beta 릴리스 노트
 description: 성능 마케터를 위한 Adobe GenStudio의 최신 기능과 개선 사항에 대해 알아봅니다.
-source-git-commit: 44cee6fa5b543372b1264745dd42ca6d3c754ec5
+source-git-commit: 17d2cb3afd6c3ce8a8c5efe8c5b406f6cdf5aa76
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 * 이제 _경험 세부 정보_ 페이지 피드 배치 이름이 Facebook 또는 Instagram 피드를 지정합니다. (8/16)
 
-* 사용자가 _자산 개요_ 보기에서 _자산 세부 정보_ 보기로 이동할 때 더 큰 이미지와 비디오를 자르기가 일관됩니다.  (8/16)
+* 사용자가 _자산 개요_ 보기에서 _자산 세부 정보_ 보기로 이동할 때 더 큰 이미지와 비디오를 자르기가 일관됩니다. (8/16)
 
 * 사용자가 로그인하기 전에 특성 화면 검색 결과 수에 더 이상 `0 of`이(가) 표시되지 않습니다.  (8/16) <!-- GS- 3665 -->
 
