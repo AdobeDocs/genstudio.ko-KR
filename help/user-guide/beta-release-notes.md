@@ -1,7 +1,7 @@
 ---
 title: 성능 마케터를 위한 Adobe GenStudio Beta 릴리스 노트
 description: 성능 마케터를 위한 Adobe GenStudio의 최신 기능과 개선 사항에 대해 알아봅니다.
-source-git-commit: 071871f91f0624c1bdb3be3f5ed2d9742352afea
+source-git-commit: 44cee6fa5b543372b1264745dd42ca6d3c754ec5
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -27,11 +27,11 @@ ht-degree: 0%
 
 ### 해결된 알려진 문제
 
-* 전자 메일을 만드는 동안 프롬프트 영역([!DNL Brands]) 드롭다운 메뉴에 ([!DNL Brands] 목록 끝에 회전기가 표시됩니다. (8/22 수정) <!-- GS-4077 -->
+* 전자 메일을 만드는 동안 프롬프트 영역([!DNL Brands]) 드롭다운 메뉴에 ([!DNL Brands]) 목록의 끝에 회전기가 표시됩니다. (8/22 수정) <!-- GS-4077 -->
 
-## 이전 베타 릴리스
+## 이전 Beta 릴리스
 
-이전 베타 릴리스에는 다음과 같은 특징 및 수정 사항이 포함되었습니다.
+이전 Beta 릴리스에는 다음과 같은 특징 및 수정 사항이 포함되었습니다.
 
 ### 강조 표시
 
