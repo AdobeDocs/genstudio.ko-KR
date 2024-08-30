@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 4745e7cab9cd605c3bc7e93cb610e510566c9302
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '955'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,8 @@ ht-degree: 0%
 
 상단 메뉴 모음의 메타 광고 채널 옵션을 **Facebook** 또는 **Instagram**(으)로 전환하여 각 채널의 생성된 초안을 관리합니다.
 
+[메타 광고를 수정](#revise-generated-meta-ads)할 때 Facebook 및 Instagram 광고의 종횡비를 변경할 수 있습니다.
+
 ## 생성된 메타 광고 수정
 
 승인 또는 [!DNL Content]에 게시하기 위해 보낼 항목을 선택하기 전에 메타 광고를 편집하거나 생성된 광고 집합에서 변형을 삭제할 수 있습니다.
@@ -81,6 +83,7 @@ ht-degree: 0%
   제목 줄과 사전 머리글은 편집하려면 한 번 클릭만 하면 되지만 머리글과 본문 복사본은 두 번 클릭해야 합니다.
 
 * **콜 투 액션을 변경하거나 선택하려면** 콜 투 액션 버튼을 클릭하고 사용 가능한 버튼에서 선택하십시오.
+* **크기 및 종횡비를 변경하려면** _[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
 * **메타 광고를 삭제하려면** 광고 제목(예: &quot;메타 4&quot;)을 클릭하여 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.
 
 ## 브랜드 정렬 확인
