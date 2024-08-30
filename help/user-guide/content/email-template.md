@@ -3,9 +3,9 @@ title: 성능 마케터를 위한 Adobe GenStudio을 위한 이메일 템플릿 
 description: 성능 마케터용 Adobe GenStudio을 위한 사용자 정의 이메일 템플릿을 구축하는 방법을 알아봅니다.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
+source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 일반적으로 디자이너는 Adobe XD과 같은 디자인 프로그램에서 템플릿의 시각적 디자인을 만듭니다. 이메일 템플릿을 디자인, 코딩 및 테스트한 후 GenStudio for Performance Marketters에서 업로드하고 사용할 수 있도록 준비할 수 있습니다.
 
-[템플릿 구조](/help/user-guide/content/use-templates.md#anatomy-of-a-template)를 참조하십시오.
+[템플릿 요소](use-templates.md#template-elements)를 참조하십시오.
 
 ## 지침 추가
 

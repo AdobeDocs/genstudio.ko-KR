@@ -1,10 +1,10 @@
 ---
 title: 액세스 가능한 템플릿 만들기
-description: 성능 마케터용 Adobe GenStudio에 사용할 모든 대상에 연결할 수 있는 템플릿을 작성합니다.
+description: 더 많은 대상자에게 도달하고 최적의 경험을 제공할 수 있는 성능 마케터를 위한 Adobe GenStudio 템플릿을 작성합니다.
 feature: Templates, Content
-source-git-commit: 26d1b9c7b392e93e87ffcd9444f391c2980d1c3c
+source-git-commit: c891f876fe5a7c75487fcba6552a213533f0b609
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---

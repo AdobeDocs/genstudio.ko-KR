@@ -3,9 +3,9 @@ title: 성과 마케터를 위한 Adobe GenStudio을 위한 메타 광고 템플
 description: 성능 마케터용 Adobe GenStudio을 위해 사용자 지정 메타 광고 템플릿을 구축하는 방법에 대해 알아봅니다.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
+source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 일반적으로 디자이너는 Adobe XD과 같은 디자인 프로그램에서 템플릿의 시각적 디자인을 만듭니다.
 
-[템플릿 구조](/help/user-guide/content/use-templates.md#anatomy-of-a-template) 및 [템플릿 예제](/help/user-guide/content/customize-template.md#template-examples)를 참조하십시오.
+[템플릿 요소](use-templates.md#template-elements) 및 [템플릿 예제](/help/user-guide/content/customize-template.md#template-examples)를 참조하십시오.
 
 ### 광고 사양
 

@@ -2,9 +2,9 @@
 title: 성능 마케터를 위한 Adobe GenStudio 개요 [!DNL Content]
 description: 하나의 직관적인 포털에서 브랜드로 승인된 에셋을 찾고, 편집하고, 재사용하고, 공유하는 방법에 대해 알아봅니다.
 feature: Attributes, Content, Templates
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: c34fd3ac0925624c685ae27d56d9964896796786
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -20,45 +20,43 @@ ht-degree: 1%
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-      <img alt="돋보기" src="../../assets/icons/icon-search.svg" width="35">
+         <img alt="돋보기" src="../../assets/icons/icon-search-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md#search">
          <strong>콘텐츠 찾기</strong>
          </a>
-      </div>
+      </p>
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-      <img alt="더하기 기호가 있는 이미지" src="../../assets/icons/icon-addContent.svg" width="35">
+         <img alt="더하기 기호가 있는 이미지" src="../../assets/icons/icon-addContent-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md">
          <strong>에셋 추가</strong>
          </a>
-      </div>
+      </p>
    </td>
-<!--
    <td align="center" valign="top" width="100">
-      <a href="../content/manage-assets.md#search">
-      <img alt="sparkle and new asset" src="../../assets/icons/icon-AIVariation.svg" width="35">
+      <a href="../content/customize-template.md">
+         <img alt="자산의 번개" src="../../assets/icons/icon-template-35.svg" width="35">
       </a>
-      <div>
-         <a href="../content/manage-assets.md#search">
-         <strong>Refresh content</strong>
+      <p>
+         <a href="../content/customize-template.md">
+         <strong>템플릿 사용자 지정</strong>
          </a>
-      </div>
+      </p>
    </td>
--->
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-      <img alt="자산의 번개" src="../../assets/icons/icon-template.svg" width="35">
+         <img alt="더하기 기호가 있는 자산의 번개" src="../../assets/icons/icon-addTemplate-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/use-templates.md#upload-a-template">
          <strong>템플릿 업로드</strong>
          </a>
-      </div>
+      </p>
    </td>
 </tr>
 </table>
@@ -77,4 +75,4 @@ ht-degree: 1%
 
 ### 템플릿 작업
 
-템플릿은 생성 프로세스의 속도를 높여 여러 채널에서 일관된 콘텐츠를 생성할 수 있도록 합니다. 템플릿은 사전 구성된 레이아웃 및 디자인 요소를 사용하여 만들기 프로세스의 시작점을 제공합니다.
+템플릿은 생성 프로세스의 속도를 높여 여러 채널에서 일관된 콘텐츠를 생성할 수 있도록 합니다. 미리 구성된 레이아웃 및 디자인 요소를 사용하여 만들기 프로세스의 시작점으로 사용할 사용자 지정 템플릿을 업로드합니다.
