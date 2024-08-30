@@ -2,9 +2,9 @@
 title: 유효한 프롬프트 작성
 description: 성능 마케터를 위한 Adobe GenStudio에 대한 효과적인 프롬프트를 작성하는 방법을 알아봅니다.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 306b64b44e69dbcec3984d1a0b54230fe0dbe48c
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 >[!NOTE]
 >
->프롬프트 영역의 _매개 변수_&#x200B;에 지침이 추가된 경우 프롬프트에 있는 지침에 대한 참조를 포함할 필요가 없습니다. 성능 마케터용 GenStudio은 콘텐츠 생성에서 해당 [!DNL Brands], [!DNL Products] 및 [!DNL Personas]을(를) 활용합니다.
+>프롬프트 영역의 _매개 변수_&#x200B;에 지침이 추가된 경우 프롬프트에 해당 지침에 대한 참조를 포함할 필요가 없습니다. 성능 마케터용 GenStudio은 콘텐츠 생성에서 해당 [!DNL Brands], [!DNL Products] 및 [!DNL Personas]을(를) 활용합니다.
 
 ### 지침
 
@@ -57,15 +57,7 @@ GenStudio for Performance Marketers 지침은 생성 AI가 에셋 구성을 개�
 
 ## 다시 시도
 
-프롬프트는 반복적인 프로세스입니다. 결과가 예상과 맞지 않으면 프롬프트를 검토하고 일부 내용을 변경하거나 세부 정보를 추가하십시오. 예제 또는 추가 정보 소스로 URL을 제공하여 프롬프트를 구체화할 수 있습니다.
-
-```bash
-Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery.
-
-Use information from https://www.adobe.com/products/photoshop.html to inspire users with the latest features.
-```
-
-또는 캠페인 개요의 섹션에 붙여넣을 수 있습니다. 성능 마케터용 GenStudio에 특정 단어, 요소 또는 테마를 피하도록 요청할 수도 있습니다.
+프롬프트는 반복적인 프로세스입니다. 결과가 예상과 맞지 않으면 프롬프트를 검토하고 일부 내용을 변경하거나 세부 정보를 추가하십시오. 또는 캠페인 개요의 섹션에 붙여넣을 수 있습니다. 성능 마케터용 GenStudio에 특정 단어, 요소 또는 테마를 피하도록 요청할 수도 있습니다.
 
 ## 모범 사례
 
