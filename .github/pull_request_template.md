@@ -1,7 +1,7 @@
 ---
-source-git-commit: 57c1780d010e6c95160b4c0cc45b2c9e9b528d3c
+source-git-commit: 5637f43a059fd747f7d656852d5428784525771a
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '17'
 ht-degree: 0%
 
 ---
@@ -9,19 +9,17 @@ ht-degree: 0%
 
 이 가져오기 요청 ...
 
-## 관련 문제
+## 추가 컨텍스트
 
-관련 문제 또는 코드에 대한 링크를 제공합니다.
+관련 문제 또는 코드에 대한 링크:
 
-<!-- 
-Provide links to any issues tracking this work.
+<!-- Provide links to any issues tracking this work.
 
 If you are fixing a GitHub issue, using the [GitHub keyword format](https://help.github.com/en/articles/closing-issues-using-keywords#closing-an-issue-in-a-different-repository) closes the issue when this pull request is merged. Example: `Fixes #1234`. -->
 
-## 추가 컨텍스트
+스크린샷:
 
-스크린샷이나 수정 사항을 보여 주는 테스트 결과와 같은 다른 컨텍스트를 추가합니다.
+<!-- Add any other context, such as screenshots or test results that demonstrate a fix.
 
-<!--
 Thank you for taking the time to contribute to our documentation.
 -->

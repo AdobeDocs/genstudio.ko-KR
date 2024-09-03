@@ -2,17 +2,20 @@
 name: New topic
 about: Propose a new topic
 labels: 'enhancement'
-source-git-commit: b955344c95f8e04540e786963f76d65d46eb2389
+source-git-commit: 5637f43a059fd747f7d656852d5428784525771a
 workflow-type: tm+mt
-source-wordcount: '34'
-ht-degree: 8%
+source-wordcount: '40'
+ht-degree: 0%
 
 ---
 
 
-## 주제 제목
+# 새 주제
 
-## 설명
+제안된 제목: ...
+제안된 목차 위치: ...
+
+## 새 주제 설명
 
 <!-- (REQUIRED) Describe the new content. Provide as much detail and as many resources as you can. -->
 
@@ -22,7 +25,5 @@ ht-degree: 8%
 - [ ] 이 항목에서는 ____ 단계를 제공합니다.
 - [ ] 항목에는 ____을 보여 주는 코드 샘플이 포함되어 있습니다.
 - [ ] 기타(구체적으로 지정):
-
-## 추가 정보
 
 <!-- Thank you for taking the time to report the issue. -->

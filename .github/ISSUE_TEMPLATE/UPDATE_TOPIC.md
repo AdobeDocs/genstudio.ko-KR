@@ -1,13 +1,17 @@
 ---
 name: Topic update or clarification
 about: Request to clarify or correct a documentation topic
-source-git-commit: 4a73d0c55fc664c4c046f361c33be776ba2fd7b7
+source-git-commit: 5637f43a059fd747f7d656852d5428784525771a
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 7%
+source-wordcount: '23'
+ht-degree: 0%
 
 ---
 
+
+# 항목 업데이트
+
+<!-- Add link to topic. -->
 
 ## 문제 설명
 
@@ -15,15 +19,12 @@ ht-degree: 7%
 
 다음을 확인하십시오.
 
-- [ ] 영향을 받는 콘텐츠에 대한 링크를 제공합니다.
 - [ ] 스크린샷 추가
 - [ ] 잘못되거나 누락된 정보를 설명합니다.
 - [ ] 소스에 대한 링크를 제공합니다.
 
 ## 솔루션 제안
 
-<!-- (OPTIONAL) What would a solution for this issue look like? -->
-
-## 추가 정보
+<!-- (OPTIONAL) Describe your solution for this issue. -->
 
 <!-- Thank you for taking the time to report the issue. -->
