@@ -1,9 +1,9 @@
 ---
 title: 성능 마케터를 위한 Adobe GenStudio Beta 릴리스 노트
 description: 성능 마케터를 위한 Adobe GenStudio의 최신 기능과 개선 사항에 대해 알아봅니다.
-source-git-commit: 21b81ab6776d504656ba8c3017f8b2897dc173ea
+source-git-commit: 16f44baf646d696da3572ac2c17a5efb7c8f7fc6
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -11,36 +11,21 @@ ht-degree: 0%
 
 # 성능 마케터를 위한 Adobe GenStudio Beta 릴리스 노트
 
-이 노트에서는 8월 30일로 끝나는 주에 대한 성능 마케터의 수정 사항 및 개선 사항에 대한 중요 Adobe GenStudio을 강조 표시합니다.
-
-## 강조 표시
-
-* Instagram 및 Facebook 채널 지침이 메타 브랜드 지침으로 결합되었습니다.
-
-* 캔버스 만들기 탐색 요소가 간소화되었습니다. [!DNL Create] 랜딩 페이지에 왼쪽 탐색 패널이 표시되지만, 이제 사용자는 **[!UICONTROL 뒤로]** 단추를 사용하여 다른 [!DNL Create] 작업 영역에서 이 스페이스로 이동합니다.  <!-- GS-1189 -->
-
-* 탐색 요소가 다음과 같은 제품 영역을 포함하여 제품 전체에서 작업을 수행하는 동안 사용자 포커스를 지원하도록 개선되었습니다.
-
-   * [!DNL Content]의 자산, 경험, 템플릿 세부 정보
-   * [!DNL Insights]의 경험, 자산, 특성 세부 정보
-   * [!DNL Brands]의 브랜드 세부 정보
-   * [!DNL Products] 및 [!DNL Personas] <!-- GS-1189 -->의 제품 및 사용자 세부 정보
-
-* 사용자는 [!DNL Content]에서 경험에 대한 업데이트를 보려면 더 이상 **[!UICONTROL 새로 고침]** 단추를 클릭할 필요가 없습니다. <!-- GS-4218 -->
-
-* 이제 _경험 세부 정보_ 페이지에서 외부 에셋 썸네일을 HTML으로 렌더링합니다. <!-- GS-3092 -->
-
-* Assets 및 경험 추가 또는 삭제 후 UI 지연 시간이 개선되었습니다. <!-- GS-3389 -->
-
-* 이제 템플릿 미리보기에 더 설명적인 기본 텍스트가 포함됩니다. <!-- GS-4028 -->
+이 노트에서는 9월 6일이 끝나는 주에 대한 성능 마케터의 수정 사항 및 개선 사항에 대한 중요한 Adobe GenStudio을 강조 표시합니다.
 
 ## 알려진 문제
 
 다음 알려진 문제는 GenStudio for Performance Marketers GA 릴리스에서 해결될 예정입니다.
 
+* 편집자는 이미지를 생성하는 동안 [!DNL Create Canvas]에서 &quot;문제가 발생했습니다&quot; 오류 메시지가 표시되는 경우가 있습니다. **해결 방법**: 오류가 반복되면 사용자가 로그아웃한 다음 GenStudio에 다시 로그인하여 이미지를 다시 생성할 수 있습니다.  <!-- GS-4813 -->
+
+* [!DNL Create Canvas]이(가) 메타광고의 이미지를 잘못 렌더링합니다. <!-- GS-4864 -->
+
+* 캠페인이 없는 Assets을 [!DNL Content]에 업로드했지만 사용자에게 표시되지 않을 수 있습니다. <!-- GS-4815 -->
+
 * MetaAds 캔버스 미리 보기와 내보낸 보기 간에 불일치가 있습니다. <!-- GS-4492 4401 -->
 
-* [!DNL Insights] 보기에서 캠페인 썸네일이 누락되었습니다. <!-- GS-4648 -->
+* 캠페인 썸네일이 [!DNL Insights]에서 누락되었습니다. <!-- GS-4648 -->
 
 * 사용자는 현재 크기를 조정해야 하는 작은 에셋을 선택할 수 있지만 해당 에셋의 확대는 지원되지 않습니다. <!-- GS-3131 -->
 
