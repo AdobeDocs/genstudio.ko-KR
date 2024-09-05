@@ -1,14 +1,14 @@
 ---
 title: ' [!DNL Insights] 개요'
 description: 실시간 콘텐츠 성능 지표를 기반으로 경험을 최적화하는 방법을 알아봅니다.
-feature: Attributes, Insights, Experiences, Assets
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+feature: Attributes, Insights, Experiences, Assets, Channels
+exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
+source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '533'
 ht-degree: 0%
 
 ---
-
 
 # 성능 마케터 [!DNL Insights]에 대한 Adobe GenStudio
 
@@ -26,21 +26,23 @@ ht-degree: 0%
 
 ## 대시보드
 
-[!DNL Insights] 대시보드에는 각 콘텐츠 형식(채널, 경험, Assets 및 특성)에 대해 구성 가능한 그리드가 있습니다.
+[!DNL Insights] 대시보드에는 각 콘텐츠 형식에 대해 구성 가능한 테이블이 있습니다. [!UICONTROL 채널], [!UICONTROL 경험], [!UICONTROL Assets] 및 [!UICONTROL 특성].
 
 ![[!DNL Insights] 대시보드](/help/assets/insights-dashboard.png)
 
-각 보기에는 키워드, 필터링 및 날짜 범위별로 검색할 수 있는 해당 그리드가 표시됩니다. 표 오른쪽 위에 있는 톱니바퀴 아이콘을 클릭하여 볼 수 있는 열 유형을 전환할 수 있습니다. _[!UICONTROL 요약]_ 행은 열의 합계 또는 평균을 표시할 수 있습니다.
+각 보기에는 키워드, 필터링 및 날짜 범위별로 검색할 수 있는 해당 테이블이 표시됩니다. 표 오른쪽 위의 설정(cog) 아이콘을 클릭하여 볼 수 있는 열 유형을 전환할 수 있습니다. _[!UICONTROL 요약]_ 행은 열의 합계 또는 평균을 표시할 수 있습니다.
 
-그리드의 각 열 유형에 대한 설명은 [데이터 열  [!DNL Insights]](data-columns.md)을(를) 참조하십시오.
+테이블의 각 열 유형에 대한 설명은 [데이터 열  [!DNL Insights]](data-columns.md)을(를) 참조하십시오.
+
+[!UICONTROL 경험], [!UICONTROL Assets] 및 [!UICONTROL 특성]에는 이미지 또는 비디오 썸네일이 있는 카드를 사용하여 자산을 검색하고 정렬할 수 있는 갤러리 보기가 포함되어 있습니다. 각 카드에 세 개의 주요 지표 중 하나를 표시할 수 있는 옵션이 있습니다. `Click-through rate`, `Cost per click` 및 `Spend`.
 
 ### 채널
 
-[!DNL Insights] _[!UICONTROL 채널]_ 보기는 기본 보기이며 목표, 예산, 시작 날짜 및 활동과 같은 활성 캠페인 세부 정보 목록을 표시합니다.
+[!DNL Insights] _[!UICONTROL 채널]_ 보기는 기본 보기이며 목표, 예산, 시작 날짜 및 활동과 같은 활성 캠페인 세부 정보 목록을 표시합니다. [채널 개요](channels.md)를 참조하세요.
 
 ### 경험
 
-[!DNL Insights] _[!UICONTROL 경험]_ 보기는 경험의 효과를 평가하는 데 중점을 둡니다. 이 보기를 사용하면 지정된 날짜 범위 내의 광고 배치를 기반으로 경험의 지표를 분석할 수 있습니다. **[!UICONTROL 자산 성과 보기]**&#x200B;를 클릭하면 선택한 경험에서 사용된 자산 목록에 액세스하여 전체 성공에 기여한 구성 요소를 식별할 수 있습니다.
+[!DNL Insights] _[!UICONTROL 경험]_ 보기는 경험의 효과를 평가하는 데 중점을 둡니다. [!UICONTROL 경험] 보기를 사용하면 지정된 날짜 범위 내의 광고 배치를 기반으로 경험의 지표를 분석할 수 있습니다. _[!UICONTROL 광고 이름]_&#x200B;을(를) 클릭하면 선택한 경험에서 사용된 자산 목록에 액세스하여 전체 성공에 기여한 구성 요소를 식별할 수 있습니다.
 
 ### 자산
 
@@ -50,10 +52,10 @@ ht-degree: 0%
 
 ![자산 보기](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
 
-에셋 보기의 왼쪽에는 에셋의 클로즈업과 속성 목록이 표시됩니다. 강조 표시된 지표가 세 개 있습니다. `Click-through rate`, `Cost per click` 및 `Spend`. 성능 강조 표시는 선택한 기간(기본값: `Last 30 days`) 동안 실제 값(실선)과 평균 값(점선)을 비교하는 방법을 보여줍니다.
+에셋 보기의 왼쪽에는 에셋의 썸네일과 속성 목록이 표시됩니다. 강조 표시된 지표가 세 개 있습니다. `Click-through rate`, `Cost per click` 및 `Spend`. 성능 강조 표시는 선택한 기간(기본값: `Last 30 days`) 동안 실제 값(실선)과 평균 값(점선)을 비교하는 방법을 보여줍니다.
 
 ### 속성
 
-콘텐츠 _특성_&#x200B;을(를) 사용하면 색상, 색조, 컴포지션(제목, 글꼴, 시각적 요소) 및 기타 주요 구성 요소와 같은 고유한 세부 사항으로 자산을 식별할 수 있습니다. 속성은 종종 가장 적게 측정되고 분석되는 콘텐츠 정보 세트입니다.
+콘텐츠 _특성_&#x200B;을(를) 사용하면 색상, 색조, 컴포지션(예: 제목, 글꼴, 시각적 요소) 및 기타 주요 구성 요소와 같은 고유한 세부 사항으로 자산을 식별할 수 있습니다. 속성은 종종 가장 적게 측정되고 분석되는 콘텐츠 정보 세트입니다.
 
-[!DNL Insights] _[!UICONTROL 특성]_ 보기를 통해 특정 대상, 채널, 지역에서 어떤 특성이 더 잘 작동하는지 조사하고 식별하고 계절 트렌드를 강조 표시할 수 있습니다. 이러한 통찰력을 통해 수행자 속성을 사용하여 변형을 만들거나 특정 대상을 타기팅하거나 다른 캠페인 전략으로 실험할 수 있습니다.
+[!DNL Insights] _[!UICONTROL 특성]_ 보기를 통해 특정 대상, 채널, 지역에서 어떤 특성이 더 잘 작동하는지 조사하고 식별하는 데 도움이 되며, 계절별 트렌드를 강조 표시하는 데 도움이 될 수 있습니다. 이러한 통찰력을 통해 수행자 속성을 사용하여 변형을 만들거나 특정 대상을 타기팅하거나 다른 캠페인 전략으로 실험할 수 있습니다.

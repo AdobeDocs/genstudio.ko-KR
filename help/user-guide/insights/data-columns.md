@@ -1,26 +1,26 @@
 ---
 title: ' [!DNL Insights]에 대한 데이터 열'
-description: ' [!DNL Insights] 표의 각 열이 무엇을 나타내는지 이해합니다.'
+description: ' [!DNL Insights] 테이블의 각 열이 성능 마케터용 GenStudio에서 무엇을 나타내는지 이해합니다.'
 feature: Attributes, Insights
 recommendations: noDisplay
-source-git-commit: 4d5de6fc053297c823be9005c628dafcecc3f7a7
+exl-id: 138ad192-b178-45c9-9293-96d89ed7f2aa
+source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 3%
+source-wordcount: '282'
+ht-degree: 2%
 
 ---
 
-
 # [!DNL Insights]의 데이터 열
 
-[!DNL Insights]은(는) 채널, 경험, Assets 및 특성 등 각 보기에 대해 사용자 지정 가능한 그리드를 표시합니다.
+[!DNL Insights]은(는) 채널, 경험, Assets 및 특성 등 각 보기에 대해 사용자 지정 가능한 테이블을 표시합니다.
 
-그리드 사용자 정의:
+표 맞춤화:
 
-- 크기 조정 및 정렬 옵션을 사용하여 바로 가기 메뉴에 액세스하려면 열 머리글을 클릭합니다.
-- 표 오른쪽의 톱니바퀴 아이콘을 클릭하고 _[!UICONTROL 표 구성]_ 메뉴를 열어 볼 수 있는 열을 전환합니다.
+- _크기 조정_ 및 _정렬_ 옵션을 사용하여 바로 가기 메뉴에 액세스하려면 열 제목을 클릭하십시오.
+- 표 위의 오른쪽에 있는 설정(cog) 아이콘을 클릭하고 _[!UICONTROL 표 구성]_ 메뉴를 열어 볼 수 있는 열을 전환합니다.
 
-사용 가능한 열은 다음과 같습니다.
+## 채널 테이블 보기
 
 | 열 | 설명 |
 | ----------- | ------------ |
@@ -32,5 +32,7 @@ ht-degree: 3%
 | CTR | 클릭스루 비율은 광고의 모든 클릭수로 측정됩니다 |
 | 전환 | 구매, 구독 또는 리드와 같은 고객 여정의 끝에 대한 가치 있는 고객 작업을 나타내는 이벤트입니다. |
 | 노출 횟수 | 등록된 노출을 통해 시청자에게 캠페인 광고가 표시된 횟수입니다. |
+| 시작 | 캠페인 시작일. |
 | 목표 | 캠페인 또는 프로젝트의 목표입니다. 캠페인 또는 프로젝트를 만들 때 목표를 설정합니다.<br>목표 형식: `Awareness`, `Traffic`, `Engagement`, `Leads`, `App promotion`, `Sales` |
 | 지출 | 캠페인 내의 모든 광고에 대한 총 지출 금액(USD). |
+| 비디오 재생 | 클릭하거나 자동 재생에 의해 비디오가 재생되기 시작하는 횟수입니다. |
