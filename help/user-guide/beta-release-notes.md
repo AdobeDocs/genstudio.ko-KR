@@ -2,9 +2,9 @@
 title: 성능 마케터를 위한 Adobe GenStudio Beta 릴리스 노트
 description: 성능 마케터를 위한 Adobe GenStudio의 최신 기능과 개선 사항에 대해 알아봅니다.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ca5e746850925252679facc321d7522b251cd57a
+source-git-commit: 62793ab56b635f17e037b63beb56c09ff2d45621
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '731'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ## 새로운 기능
 
-* GenStudio은 이제 [!DNL Insights]에서 미디어 자산을 미리 보는 옵션을 지원합니다. 비디오 축소판에는 음소거 옵션이 있는 **재생** 단추가 포함되어 있습니다. <!-- GS-4398 -->
-
-* 이제 Assets을 [!DNL Insights]에서 `video` 유형별로 필터링할 수 있습니다. <!-- GS-4398 -->
+* 이제 GenStudio에서 [!DNL Insights] 테이블 및 갤러리 보기에서 미디어 에셋을 미리 보는 옵션을 지원합니다. 비디오 축소판에는 음소거 옵션이 있는 **재생** 단추가 포함되어 있습니다. <!-- GS-4398 -->
 
 ## 알려진 문제
 
