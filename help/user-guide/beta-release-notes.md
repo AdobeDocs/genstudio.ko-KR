@@ -2,9 +2,9 @@
 title: 성능 마케터를 위한 Adobe GenStudio Beta 릴리스 노트
 description: 성능 마케터를 위한 Adobe GenStudio의 최신 기능과 개선 사항에 대해 알아봅니다.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 2e40260db0f9972675b103c51f09acbfa83a1cb5
+source-git-commit: 2861dd76dde9428e0c39af18c1d5e21dc2b32b91
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 * [!DNL Create Canvas]이(가) 메타광고의 이미지를 잘못 렌더링합니다. <!-- GS-4864 -->
 
-* 캠페인이 없는 Assets을 [!DNL Content]에 업로드했지만 사용자에게 표시되지 않을 수 있습니다. <!-- GS-4815 -->
+* 템플릿을 업로드할 수 있지만 볼 수 없습니다. <!-- GS-4815 -->
 
 * MetaAds 캔버스 미리 보기와 내보낸 보기 간에 불일치가 있습니다. <!-- GS-4492 4401 -->
 
