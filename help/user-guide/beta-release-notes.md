@@ -2,9 +2,9 @@
 title: 성능 마케터를 위한 Adobe GenStudio Beta 릴리스 노트
 description: 성능 마케터를 위한 Adobe GenStudio의 최신 기능과 개선 사항에 대해 알아봅니다.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 62793ab56b635f17e037b63beb56c09ff2d45621
+source-git-commit: 2e40260db0f9972675b103c51f09acbfa83a1cb5
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '718'
 ht-degree: 0%
 
 ---
@@ -42,8 +42,6 @@ ht-degree: 0%
 * _Assets 추가_ 팝업이 예상대로 현지화되었습니다. <!-- GS-3834 -->
 
 * 메타 광고 경험 템플릿 크기 조정 문제가 해결되었습니다. <!-- GS-4174 -->
-
-* 템플릿에 대해 만들어진 콘텐츠 조각 모델을 이제 AEM에 정확하게 표시할 수 있습니다. <!-- GS-4716 -->
 
 * 다중 파트 이메일용 CSV 내보내기 파일의 텍스트 필드가 이제 예상대로 순서가 지정됩니다. <!-- GS-4013 -->
 
