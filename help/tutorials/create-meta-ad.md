@@ -7,9 +7,9 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
+source-git-commit: 3827d8222bd548caf83288656d5f2af8d2248dec
 workflow-type: tm+mt
-source-wordcount: '1005'
+source-wordcount: '979'
 ht-degree: 0%
 
 ---
@@ -86,8 +86,8 @@ ht-degree: 0%
 
 * **콜 투 액션을 변경하거나 선택하려면** 콜 투 액션 버튼을 클릭하고 사용 가능한 버튼 텍스트 옵션에서 선택하십시오. _[!UICONTROL 링크]_&#x200B;에서 클릭 유도 문안 텍스트에 대한 링크를 입력합니다.
 * **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
-* **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
-<!-- * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
+* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
 * **메타 광고를 삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 클릭하여 광고 제목(예: &quot;메타 4&quot;)을 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭하십시오.[
 
 ## 브랜드 정렬 확인

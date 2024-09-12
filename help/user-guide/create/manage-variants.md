@@ -2,9 +2,9 @@
 title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Content, Assets, Experiences
-source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
+source-git-commit: 3827d8222bd548caf83288656d5f2af8d2248dec
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -38,24 +38,24 @@ ht-degree: 0%
 1. 새 텍스트를 입력합니다.
 1. 텍스트 필드를 클릭하여 저장합니다.
 
-## 섹션 재생성
+<!-- ## Re-generate sections
 
-GenStudio for Performance Marketters에는 _[!UICONTROL 제안된 편집 내용]_&#x200B;과 새 프롬프트를 사용하여 생성된 변형의 단일 섹션을 재생성하는 기본 제공 기능이 있습니다.
+GenStudio for Performance Marketers has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
 
-예를 들어, 한 메타 광고 변형의 헤드라인 섹션을 다시 생성하여 _[!UICONTROL 권장 편집]_ 옵션—_[!UICONTROL 구문 변경]_, _[!UICONTROL 단축]_ 또는 _[!UICONTROL 길이]_&#x200B;를 사용하여 특정 배경 자산과 어떻게 보이는지 확인하고 새 프롬프트를 입력할 수 있습니다.
+For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset using the _[!UICONTROL Suggested edits]_ options—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_—and entering a new prompt.
 
-**개별 변형 섹션을 다시 생성하려면**:
+**To re-generate individual variant sections**:
 
-1. 변형 세트를 생성한 후 변형에서 편집 가능한 텍스트를 한 번 클릭합니다.
-1. (_선택 사항_) 다시 생성된 콘텐츠의 포커스를 변경하려면 새 프롬프트를 입력하십시오.
-1. _[!UICONTROL 권장 편집]_ 옵션 선택—_[!UICONTROL 구문 변경]_, _[!UICONTROL 단축]_ 또는 _[!UICONTROL 길이]_.
-1. **[!UICONTROL 생성]**&#x200B;을 클릭합니다.
-1. 결과를 다시 생성하려면 _결과_ 옆에 있는 다시 생성 아이콘을 클릭합니다.
-1. 표시되는 _결과_&#x200B;에서 원하는 옵션을 선택하고 **[!UICONTROL 바꾸기]**&#x200B;를 클릭합니다.
+1. After generating a set of variants, single-click editable text in a variant.
+1. (_Optional_) Enter a new prompt to change the focus of the regenerated content.
+1. Select a _[!UICONTROL Suggested edits]_ option—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_.
+1. Click **[!UICONTROL Generate]**.
+1. If you want to regenerate results again, click the regenerate icon adjacent to _Results_.
+1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   변형이 수정된 텍스트로 업데이트되었습니다.
+   The variant is updated with the revised text.
 
-<!-- ## Crop assets
+## Crop assets
 
 You can manually crop and reposition image assets in individual generated variants.
 
