@@ -6,13 +6,13 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 5026afb4eb71df73063559aee34971039511b31a
+exl-id: 34446202-da98-45ff-869a-b43496a477f8
+source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '816'
 ht-degree: 0%
 
 ---
-
 
 # 이메일 경험 만들기
 
@@ -69,16 +69,14 @@ ht-degree: 0%
 
 ## 생성된 이메일 수정
 
-승인을 위해 또는 [!DNL Content]에 게시하기 위해 보낼 항목을 선택하기 전에 전자 메일 조각을 편집하거나 생성된 전자 메일 집합에서 변형을 삭제할 수 있습니다.
+[!DNL Content]에 게시하거나 승인을 위해 보낼 항목을 선택하기 전에 전자 메일 섹션을 편집하거나 생성된 전자 메일 집합에서 변형을 삭제할 수 있습니다.
 
 **생성된 변형을 수정하려면**:
 
-* **전자 메일 초안 이름을 편집하려면** 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **전자 메일을 수동으로 편집하려면** 전자 메일 조각(제목 줄, 머리글 또는 본문 복사본 등)을 두 번 클릭하고 필요에 따라 편집합니다.
-
-  제목란과 사전 헤더는 한 번의 클릭만으로 편집할 수 있지만 헤더, 본문 복사 및 콜 투 액션은 두 번 클릭해야 합니다.
-
-* **전자 메일을 삭제하려면** 전자 메일 제목(예: &quot;전자 메일 1/4&quot;)을 클릭하여 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.
+* **전자 메일 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
+* **전자 메일을 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)**, 편집 가능한 텍스트 필드(제목 줄, 머리글 또는 본문 복사본 등)를 두 번 클릭하고 필요에 따라 편집합니다.[
+* **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
+* **전자 메일을 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 전자 메일 제목(예: &quot;전자 메일 1/4&quot;)을 클릭하여 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.
 
 ## 브랜드 정렬 확인
 
@@ -87,7 +85,7 @@ ht-degree: 0%
 **브랜드 정렬을 확인하려면**:
 
 1. 변형에 대한 [**[!UICONTROL [!DNL Brand] 지침 확인]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) 아이콘을 클릭하고 브랜드에 대해 확인할 때 해당 변형이 수행되는 방식에 대한 요약을 확인합니다.
-1. 개선이 필요한 조각과 지침에 대한 세부 정보를 보려면 **[!UICONTROL 검토]** _또는_&#x200B;를 클릭하고 상단 메뉴 모음의 브랜드 유효성 검사 아이콘을 클릭하여 [_브랜드 유효성 검사 패널_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)&#x200B;을 여십시오.
+1. 개선이 필요한 섹션 및 지침에 대한 세부 정보를 보려면 **[!UICONTROL 검토]** _또는_&#x200B;를 클릭하고 상단 메뉴 막대에서 브랜드 유효성 검사 아이콘을 클릭하여 [_브랜드 유효성 검사 패널_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)&#x200B;을 엽니다.
 
 1. 각 이메일을 전환하여 생성된 콘텐츠를 보다 브랜드 맞춤형으로 개선하는 방법을 살펴보십시오.
 1. [전자 메일을 수동으로 수정](#revise-generated-emails)하여 전자 메일이 브랜드와 긴밀하게 정렬되도록 합니다.

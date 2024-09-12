@@ -6,13 +6,13 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 4745e7cab9cd605c3bc7e93cb610e510566c9302
+exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
+source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
 workflow-type: tm+mt
-source-wordcount: '955'
+source-wordcount: '1014'
 ht-degree: 0%
 
 ---
-
 
 # 메타 광고 경험 만들기
 
@@ -77,14 +77,16 @@ ht-degree: 0%
 
 **생성된 변형을 수정하려면**:
 
-* **메타 광고 초안 이름을 편집하려면** 캔버스 맨 위에서 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **메타 광고를 수동으로 편집하려면** 광고 조각(제목 줄, 머리글 또는 본문 복사본 등)을 두 번 클릭하고 필요에 따라 편집합니다.
+* **메타 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
+* **메타 광고를 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;광고 섹션(제목 줄, 머리글 또는 본문 복사본 등)을 두 번 클릭하고 필요에 따라 편집합니다.[
 
   제목 줄과 사전 머리글은 편집하려면 한 번 클릭만 하면 되지만 머리글과 본문 복사본은 두 번 클릭해야 합니다.
 
-* **콜 투 액션을 변경하거나 선택하려면** 콜 투 액션 버튼을 클릭하고 사용 가능한 버튼에서 선택하십시오.
-* **크기 및 종횡비를 변경하려면** _[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
-* **메타 광고를 삭제하려면** 광고 제목(예: &quot;메타 4&quot;)을 클릭하여 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.
+* **콜 투 액션을 변경하거나 선택하려면** 콜 투 액션 버튼을 클릭하고 사용 가능한 버튼 텍스트 옵션에서 선택하십시오. _[!UICONTROL 링크]_&#x200B;에서 클릭 유도 문안 텍스트에 대한 링크를 입력합니다.
+* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
+* **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
+* **이미지를 [자르거나 위치를 바꾸려면](/help/user-guide/create/manage-variants.md#crop-assets)** 이미지 위로 마우스를 가져간 후 **[!UICONTROL 자르기 적용]**&#x200B;을 클릭하고 이미지 크기와 배치를 조정하십시오.
+* **메타 광고를 삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 클릭하여 광고 제목(예: &quot;메타 4&quot;)을 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭하십시오.[
 
 ## 브랜드 정렬 확인
 
@@ -93,7 +95,7 @@ ht-degree: 0%
 **브랜드 정렬을 확인하려면**:
 
 1. 변형에 대한 [**[!UICONTROL [!DNL Brand] 지침 확인]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) 아이콘을 클릭하고 브랜드에 대해 확인할 때 해당 변형이 수행되는 방식에 대한 요약을 확인합니다.
-1. 개선이 필요한 조각과 지침에 대한 세부 정보를 보려면 **[!UICONTROL 검토]** _또는_&#x200B;를 클릭하고 상단 메뉴 모음의 브랜드 유효성 검사 아이콘을 클릭하여 [_브랜드 유효성 검사 패널_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)&#x200B;을 여십시오.
+1. 개선이 필요한 섹션 및 지침에 대한 세부 정보를 보려면 **[!UICONTROL 검토]** _또는_&#x200B;를 클릭하고 상단 메뉴 막대에서 브랜드 유효성 검사 아이콘을 클릭하여 [_브랜드 유효성 검사 패널_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)&#x200B;을 엽니다.
 
 1. 각 광고를 전환하여 생성된 콘텐츠를 브랜드 맞춤형으로 개선하는 방법을 확인합니다.
 1. [수동으로 광고를 수정](#revise-generated-meta-ads)하여 브랜드에 맞게 광고를 조정할 수 있습니다.
