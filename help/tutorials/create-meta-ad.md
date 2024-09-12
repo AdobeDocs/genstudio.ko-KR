@@ -1,15 +1,15 @@
 ---
 title: 메타 광고 경험 만들기
-description: 생성 AI를 사용하여 Facebook 또는 Instagram에 대한 새로운 온브랜드 메타 광고 경험을 생성하는 방법에 대해 알아봅니다.
-feature: Content, Brands Service, Guidelines, Content Generation
+description: 성능 마케터용 Adobe GenStudio을 사용하여 Facebook 또는 Instagram과 같은 새로운 브랜드 내 메타 광고 경험을 만드는 방법에 대해 알아봅니다.
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '1005'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 0%
    * [!DNL Content]에 이미 게시된 자산(이미지)을 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하세요. 필터를 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
    * 파일을 찾아보고 사용할 자산을 선택하려면 **[!UICONTROL 업로드]**&#x200B;를 클릭하세요. 장치 탐색과 함께 Microsoft OneDrive 또는 Dropbox에서 가져올 수도 있습니다.
    * 자산을 _콘텐츠_ 섹션으로 끌어다 놓습니다.
+1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
 매개 변수를 모두 추가했으면 _매개 변수_ 아이콘을 다시 클릭하여 프롬프트 영역을 축소할 수 있습니다.
 
@@ -67,7 +68,7 @@ ht-degree: 0%
 
 메타 광고를 생성할 때 Facebook 또는 Instagram 광고 중에서 선택할 수 있습니다.
 
-상단 메뉴 모음의 메타 광고 채널 옵션을 **Facebook** 또는 **Instagram**(으)로 전환하여 각 채널의 생성된 초안을 관리합니다.
+오른쪽 메뉴 모음(Facebook 및 Instagram 아이콘)에서 메타 광고 채널 옵션(**Facebook**&#x200B;과 **Instagram** 사이)을 전환하여 각 채널의 변형을 보고 관리합니다.
 
 [메타 광고를 수정](#revise-generated-meta-ads)할 때 Facebook 및 Instagram 광고의 종횡비를 변경할 수 있습니다.
 
@@ -77,6 +78,7 @@ ht-degree: 0%
 
 **생성된 변형을 수정하려면**:
 
+
 * **메타 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
 * **메타 광고를 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;광고 섹션(제목 줄, 머리글 또는 본문 복사본 등)을 두 번 클릭하고 필요에 따라 편집합니다.[
 
@@ -85,7 +87,7 @@ ht-degree: 0%
 * **콜 투 액션을 변경하거나 선택하려면** 콜 투 액션 버튼을 클릭하고 사용 가능한 버튼 텍스트 옵션에서 선택하십시오. _[!UICONTROL 링크]_&#x200B;에서 클릭 유도 문안 텍스트에 대한 링크를 입력합니다.
 * **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
-* **이미지를 [자르거나 위치를 바꾸려면](/help/user-guide/create/manage-variants.md#crop-assets)** 이미지 위로 마우스를 가져간 후 **[!UICONTROL 자르기 적용]**&#x200B;을 클릭하고 이미지 크기와 배치를 조정하십시오.
+<!-- * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
 * **메타 광고를 삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 클릭하여 광고 제목(예: &quot;메타 4&quot;)을 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭하십시오.[
 
 ## 브랜드 정렬 확인

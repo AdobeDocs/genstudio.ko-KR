@@ -3,9 +3,9 @@ title: 성능 마케터용 GenStudio 개요 [!DNL Create]
 description: 성과 마케터용 Adobe GenStudio [!DNL Create]에서 생성 AI를 사용하여 성과가 좋은 브랜드 내 콘텐츠를 빠르게 생성합니다.
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '554'
 ht-degree: 1%
 
 ---
@@ -18,8 +18,7 @@ GenStudio for Performance Marketers [!DNL Create]은(는) Adobe GenAI의 기능�
 
 * 이메일
 * 메타 광고
-<!-- * Social media images and ads
-* Display ads -->
+* 광고 표시
 
 [지침](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] 및 [!DNL Personas]—[콘텐츠](/help/user-guide/content/overview.md), [검토 및 승인](/help/user-guide/approvals/overview.md) 및 [인사이트](/help/user-guide/insights/overview.md)의 강력한 기능과 함께 [!DNL Create]을(를) 통해 효과적인 브랜드 중심 마케팅 콘텐츠를 만들 수 있습니다.
 
@@ -108,12 +107,13 @@ GenStudio for Performance Marketters는 브랜드 ID의 다양한 측면에 대�
 
 GenStudio for Performance Marketers를 사용하면 [개별 변형의 섹션을 포괄적으로 제어할 수 있습니다](/help/user-guide/create/manage-variants.md).
 
-단일 변형의 섹션을 수정하고, 개별 섹션의 콘텐츠를 다시 생성하고, 제안된 편집 내용을 사용하여 메시지 개선, 에셋 자르기 및 크기 조정 등을 수행할 수 있습니다.
+단일 변형의 섹션을 수정하고, 개별 섹션의 콘텐츠를 다시 생성하고, 제안된 편집 내용을 사용하여 메시지, 에셋 크기 조정 등을 캔버스 내에서 모두 개선할 수 있습니다.
 
 ## 튜토리얼
 
 * [이메일 경험 만들기](/help/tutorials/create-email-experience.md)
 * [메타 광고 경험 만들기](/help/tutorials/create-meta-ad.md)
+* [디스플레이 광고 경험 만들기](/help/tutorials/create-display-ad.md)
 
 <!-- ### Anatomy of an email experience
 

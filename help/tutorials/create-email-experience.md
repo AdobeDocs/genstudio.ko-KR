@@ -1,15 +1,15 @@
 ---
 title: 이메일 경험 만들기
-description: ' [!DNL GenStudio] Adobe에서 전자 메일 경험을 만드는 방법을 알아봅니다.'
-feature: Content, Brands Service, Guidelines, Content Generation
+description: 성능 마케터를 위해 Adobe [!DNL GenStudio] 에서 전자 메일 경험을 만드는 방법을 알아봅니다.
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 9624429977e21af614173c5078c6b470c8b5a147
 workflow-type: tm+mt
-source-wordcount: '816'
+source-wordcount: '879'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 0%
    * [!DNL Content]에 이미 게시된 자산(이미지)을 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하세요. 필터를 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
    * 파일을 찾아보고 사용할 자산을 선택하려면 **[!UICONTROL 업로드]**&#x200B;를 클릭하세요. 장치 탐색과 함께 Microsoft OneDrive 또는 Dropbox에서 가져올 수도 있습니다.
    * 자산을 _콘텐츠_ 섹션으로 끌어다 놓습니다.
+1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
 >[!NOTE]
 >
@@ -77,6 +78,12 @@ ht-degree: 0%
 * **전자 메일을 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)**, 편집 가능한 텍스트 필드(제목 줄, 머리글 또는 본문 복사본 등)를 두 번 클릭하고 필요에 따라 편집합니다.[
 * **변형의 섹션을 [다시 생성하려면](/help/user-guide/create/manage-variants.md#re-generate-sections)**&#x200B;편집 가능한 텍스트 필드를 클릭하고 _[!UICONTROL 권장 편집]_ 옵션을 사용하거나 새 프롬프트를 입력하고 **[!UICONTROL 생성]**&#x200B;을 클릭하십시오.
 * **전자 메일을 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 전자 메일 제목(예: &quot;전자 메일 1/4&quot;)을 클릭하여 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.
+
+## 장치 미리 보기
+
+이메일 경험을 수정하고 준비할 때, 데스크톱 보기와 모바일 보기 간에 전환하여 초안 변형의 일관성과 시각적 효과를 보장할 수 있습니다.
+
+**데스크톱 및 모바일 장치의 변형을 미리 보려면** 오른쪽 메뉴 모음(컴퓨터 및 휴대폰 아이콘)에서 장치 미리 보기 옵션(**데스크톱**&#x200B;과 **모바일** 사이)을 전환하여 변형이 표시되는 방식을 미리 봅니다.
 
 ## 브랜드 정렬 확인
 

@@ -2,9 +2,9 @@
 title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Content, Assets, Experiences
-source-git-commit: a6cf07179e888599860bc699ec17a3e8e4167e7b
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -55,30 +55,35 @@ GenStudio for Performance Marketters에는 _[!UICONTROL 제안된 편집 내용]
 
    변형이 수정된 텍스트로 업데이트되었습니다.
 
-## 자산 자르기
+<!-- ## Crop assets
 
-생성된 개별 변형에서 이미지 에셋을 수동으로 자르고 위치를 변경할 수 있습니다.
+You can manually crop and reposition image assets in individual generated variants.
 
-**변형에서 이미지를 자르고 위치를 변경하려면**:
+**To crop and reposition images in variants**:
 
-1. 변형 세트를 생성한 후 변형 내의 이미지 위로 마우스를 가져갑니다.
-1. **[!UICONTROL 자르기 적용]**&#x200B;을 클릭합니다.
-1. 이미지를 확대/축소하고 원하는 위치로 드래그합니다.
-1. **[!UICONTROL 적용]**&#x200B;을 클릭합니다.
+1. After generating a set of variants, hover over an image within a variant.
+1. Click **[!UICONTROL Apply Crop]**.
+1. Zoom in and out and drag the image into the desired position.
+1. Click **[!UICONTROL Apply]**.
 
-   잘린 이미지는 변형에 대해 자동으로 저장되고 표시됩니다.
+   The cropped image is automatically saved and visible for the variant. -->
 
 ## 종횡비 변경
 
 원하는 광고 크기를 수용하도록 메타 광고의 종횡비를 빠르게 변경할 수 있습니다.
 
-사용 가능한 종횡비는 다음과 같습니다.
+사용 가능한 크기/종횡비는 다음과 같습니다.
 
-* 1:1 정사각형
-* 4:5 세로
-* 9:16 수직
+* 1:1 정사각형(메타)
+* 4:5 수직(메타)
+* 9:16 세로(메타)
+* 250 x 980(디스플레이 광고)
 
-**생성된 메타 광고의 종횡비를 변경하려면**:
+>[!NOTE]
+>
+>다른 종횡비 및 크기는 이용 가능한 템플릿에 기초하여 이용 가능할 수 있다.
+
+**생성된 변형의 종횡비를 변경하려면**:
 
 1. 변형 세트를 생성한 후 캔버스의 왼쪽에 있는 종횡비 크기 조정 아이콘(상자 모서리를 가리키는 화살표)을 선택합니다.
 
