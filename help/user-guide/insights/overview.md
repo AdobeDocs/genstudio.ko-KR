@@ -3,9 +3,9 @@ title: ' [!DNL Insights] 개요'
 description: 실시간 콘텐츠 성능 지표를 기반으로 경험을 최적화하는 방법을 알아봅니다.
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
+source-git-commit: 0713b18ed1ca5a0b695fdcef4bd488cf87bf2040
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ### 경험
 
-[!DNL Insights] _[!UICONTROL 경험]_ 보기는 경험의 효과를 평가하는 데 중점을 둡니다. [!UICONTROL 경험] 보기를 사용하면 지정된 날짜 범위 내의 광고 배치를 기반으로 경험의 지표를 분석할 수 있습니다. _[!UICONTROL 광고 이름]_&#x200B;을(를) 클릭하면 선택한 경험에서 사용된 자산 목록에 액세스하여 전체 성공에 기여한 구성 요소를 식별할 수 있습니다.
+[!DNL Insights] _[!UICONTROL 경험]_ 보기는 경험의 효과를 평가하는 데 중점을 둡니다. [!UICONTROL 경험] 보기를 사용하면 지정된 날짜 범위 내의 광고 배치를 기반으로 경험의 지표를 분석할 수 있습니다. _[!UICONTROL 광고 이름]_&#x200B;을 클릭하면 광고 성능 지표, 광고 배치별 성능 및 특성을 볼 수 있습니다.
 
 ### 자산
 

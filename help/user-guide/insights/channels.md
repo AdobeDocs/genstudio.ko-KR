@@ -2,13 +2,13 @@
 title: 채널 개요
 description: 성과 마케터를 위한 Adobe GenStudio에서 마케팅 캠페인에 대한 고객 참여, 성과, 예산 및 지출에 대한 개요를 참조하십시오.
 feature: Insights, Channels
-source-git-commit: 2e76eadcc3281ea935dca383eb3db8c41b83e679
+exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
+source-git-commit: 13e49dd7bd36e842513baa6311373671da827926
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '688'
 ht-degree: 0%
 
 ---
-
 
 # 채널 개요
 
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 [!UICONTROL 채널] 테이블은 채널 기반 광고 캠페인을 사용하여 구성됩니다. 테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 [!UICONTROL 계정], [!UICONTROL 상태] 및 [!UICONTROL 목표] 목록에서 선택하여 테이블의 캠페인을 필터링할 수 있습니다.
 
-![채널 필터 및 테이블](../../assets/insights-channel-filter.png)
+![채널 필터 및 테이블](../../assets/insights-channels-filter.png)
 
-캠페인을 선택하면 해당 캠페인과 연결된 광고 이름 목록이 있는 [!UICONTROL 경험] 탭이 열립니다.
+캠페인을 선택하면 해당 캠페인과 연결된 광고 이름 목록이 [[!UICONTROL 경험] 탭](experiences.md)에 열리고 전체 성공에 기여한 경험을 식별할 수 있습니다.
 
 ## 목표
 
