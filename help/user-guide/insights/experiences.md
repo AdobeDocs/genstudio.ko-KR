@@ -2,7 +2,7 @@
 title: 경험 개요
 description: 성능 마케터를 위한 Adobe GenStudio에서 경험 및 자산 성능에 대한 고객 참여, 예산 및 지출에 대한 개요를 참조하십시오.
 feature: Insights, Experiences
-source-git-commit: 70ce82b026b2ee1f088cda75caa22bbb1b9c5ef3
+source-git-commit: ed0ddb10ee65c2691f8ecbfe23533508e9174bf9
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%

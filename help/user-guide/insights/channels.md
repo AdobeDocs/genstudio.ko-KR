@@ -3,7 +3,7 @@ title: 채널 개요
 description: 성과 마케터를 위한 Adobe GenStudio에서 마케팅 캠페인에 대한 고객 참여, 성과, 예산 및 지출에 대한 개요를 참조하십시오.
 feature: Insights, Channels
 exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
-source-git-commit: 13e49dd7bd36e842513baa6311373671da827926
+source-git-commit: 7b8850f7da22e2257d50a0b4f8535ae02f9a2665
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 0%
