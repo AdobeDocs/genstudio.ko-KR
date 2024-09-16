@@ -1,15 +1,15 @@
 ---
 title: 이메일 경험 만들기
-description: 성능 마케터를 위해 Adobe [!DNL GenStudio] 에서 전자 메일 경험을 만드는 방법을 알아봅니다.
-feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
+description: ' [!DNL GenStudio] Adobe에서 전자 메일 경험을 만드는 방법을 알아봅니다.'
+feature: Content, Brands Service, Guidelines, Content Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 3827d8222bd548caf83288656d5f2af8d2248dec
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '813'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,6 @@ ht-degree: 0%
    * [!DNL Content]에 이미 게시된 자산(이미지)을 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하세요. 필터를 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
    * 파일을 찾아보고 사용할 자산을 선택하려면 **[!UICONTROL 업로드]**&#x200B;를 클릭하세요. 장치 탐색과 함께 Microsoft OneDrive 또는 Dropbox에서 가져올 수도 있습니다.
    * 자산을 _콘텐츠_ 섹션으로 끌어다 놓습니다.
-1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
 >[!NOTE]
 >
@@ -70,20 +69,16 @@ ht-degree: 0%
 
 ## 생성된 이메일 수정
 
-[!DNL Content]에 게시하거나 승인을 위해 보낼 항목을 선택하기 전에 전자 메일 섹션을 편집하거나 생성된 전자 메일 집합에서 변형을 삭제할 수 있습니다.
+승인을 위해 또는 [!DNL Content]에 게시하기 위해 보낼 항목을 선택하기 전에 전자 메일 조각을 편집하거나 생성된 전자 메일 집합에서 변형을 삭제할 수 있습니다.
 
 **생성된 변형을 수정하려면**:
 
-* **전자 메일 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **전자 메일을 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)**, 편집 가능한 텍스트 필드(제목 줄, 머리글 또는 본문 복사본 등)를 두 번 클릭하고 필요에 따라 편집합니다.[
-<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **전자 메일을 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 전자 메일 제목(예: &quot;전자 메일 1/4&quot;)을 클릭하여 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.
+* **전자 메일 초안 이름을 편집하려면** 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
+* **전자 메일을 수동으로 편집하려면** 전자 메일 조각(제목 줄, 머리글 또는 본문 복사본 등)을 두 번 클릭하고 필요에 따라 편집합니다.
 
-## 장치 미리 보기
+  제목란과 사전 헤더는 한 번의 클릭만으로 편집할 수 있지만 헤더, 본문 복사 및 콜 투 액션은 두 번 클릭해야 합니다.
 
-이메일 경험을 수정하고 준비할 때, 데스크톱 보기와 모바일 보기 간에 전환하여 초안 변형의 일관성과 시각적 효과를 보장할 수 있습니다.
-
-**데스크톱 및 모바일 장치의 변형을 미리 보려면** 오른쪽 메뉴 모음(컴퓨터 및 휴대폰 아이콘)에서 장치 미리 보기 옵션(**데스크톱**&#x200B;과 **모바일** 사이)을 전환하여 변형이 표시되는 방식을 미리 봅니다.
+* **전자 메일을 삭제하려면** 전자 메일 제목(예: &quot;전자 메일 1/4&quot;)을 클릭하여 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.
 
 ## 브랜드 정렬 확인
 
@@ -92,7 +87,7 @@ ht-degree: 0%
 **브랜드 정렬을 확인하려면**:
 
 1. 변형에 대한 [**[!UICONTROL [!DNL Brand] 지침 확인]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) 아이콘을 클릭하고 브랜드에 대해 확인할 때 해당 변형이 수행되는 방식에 대한 요약을 확인합니다.
-1. 개선이 필요한 섹션 및 지침에 대한 세부 정보를 보려면 **[!UICONTROL 검토]** _또는_&#x200B;를 클릭하고 상단 메뉴 막대에서 브랜드 유효성 검사 아이콘을 클릭하여 [_브랜드 유효성 검사 패널_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)&#x200B;을 엽니다.
+1. 개선이 필요한 조각과 지침에 대한 세부 정보를 보려면 **[!UICONTROL 검토]** _또는_&#x200B;를 클릭하고 상단 메뉴 모음의 브랜드 유효성 검사 아이콘을 클릭하여 [_브랜드 유효성 검사 패널_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)&#x200B;을 여십시오.
 
 1. 각 이메일을 전환하여 생성된 콘텐츠를 보다 브랜드 맞춤형으로 개선하는 방법을 살펴보십시오.
 1. [전자 메일을 수동으로 수정](#revise-generated-emails)하여 전자 메일이 브랜드와 긴밀하게 정렬되도록 합니다.

@@ -4,7 +4,7 @@ description: 성과 마케터용 GenStudio을 설정하여 새로운 브랜드 �
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
 source-wordcount: '1106'
 ht-degree: 1%
@@ -38,7 +38,7 @@ AI 기반 도구를 처음 사용하거나 GenStudio for Performance Marketers�
 
 ### GenStudio 편집기
 
-**편집자**&#x200B;에게는 성능 마케터 [!DNL Brands], [!DNL Campaigns] 및 [!DNL Content] 자산에 대한 GenStudio을 만드는 데 필요한 핵심 권한이 있습니다. 자신이 만든 에셋을 편집하고 삭제할 수도 있습니다. GenStudio for Performance Marketters는 수백 개의 컨텐츠를 신속하게 만들 수 있도록 지원합니다. 이러한 사용자는 특정 마케팅 캠페인의 요구 사항을 충족하도록 승인된 콘텐츠의 개별 조각을 오케스트레이션하는 콘텐츠 섹션 또는 전체 경험을 생성할 수 있습니다.
+**편집자**&#x200B;에게는 성능 마케터 [!DNL Brands], [!DNL Campaigns] 및 [!DNL Content] 자산에 대한 GenStudio을 만드는 데 필요한 핵심 권한이 있습니다. 자신이 만든 에셋을 편집하고 삭제할 수도 있습니다. GenStudio for Performance Marketters는 수백 개의 컨텐츠를 신속하게 만들 수 있도록 지원합니다. 이러한 사용자는 특정 마케팅 캠페인의 요구 사항을 충족하도록 승인된 콘텐츠의 개별 조각을 오케스트레이션하는 콘텐츠 조각 또는 전체 경험을 생성할 수 있습니다.
 
 편집자는 _확인_&#x200B;을 통해 성능 마케터의 생성 AI 기술을 위해 GenStudio과 상호 작용합니다. 캔버스의 프롬프트 영역은 특정 캠페인 지침의 컨텍스트에 프롬프트를 배치하는 도구를 제공합니다. 따라서 생성된 콘텐츠의 품질과 성공은 조직이 업로드한 브랜드 지침의 품질과 프롬프트의 특수성에 따라 부분적으로 달라집니다.
 
