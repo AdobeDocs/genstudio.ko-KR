@@ -4,7 +4,7 @@ breadcrumb-title: 사용 안내서
 user-guide-description: 실시간 콘텐츠 성능 인사이트를 기반으로 온브랜드 에셋을 빠르게 찾아 생성하고, 변형을 만들고, 경험을 최적화하는 방법에 대해 알아봅니다.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: a531ef2a7869a3f8e19fccd17b7acda54a767f6b
+source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 10%
@@ -15,6 +15,8 @@ ht-degree: 10%
 # 성능 마케터용 Adobe GenStudio 안내서 {#user-guide}
 
 + [성능 마케터용 GenStudio 안내서](home.md)
++ 릴리스 정보 {#release-notes}
+   + [Beta 릴리스 노트](beta-release-notes.md)
 + [시작하기](get-started.md)
 + 소개 {#intro}
    + [개념](concepts.md)
@@ -55,5 +57,3 @@ ht-degree: 10%
    + [채널](insights/channels.md)
    + [경험](insights/experiences.md)
    + [데이터 열](insights/data-columns.md)
-+ 릴리스 정보 {#release-notes}
-   + [Beta 릴리스 노트](beta-release-notes.md)

@@ -1,20 +1,24 @@
 ---
 title: Adobe GenStudio 사용 안내서
 description: 엔터프라이즈 가드레일 및 거버넌스를 통해 브랜드 내 콘텐츠에 셀프서비스 방식으로 액세스하여 높은 성과를 거둘 수 있도록 하는 Adobe의 AI 우선 애플리케이션인 GenStudio for Performance Marketers를 통해 마케터와 수퍼차지 크리에이티브를 수행할 수 있습니다.
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
+source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 0%
+source-wordcount: '237'
+ht-degree: 1%
 
 ---
 
 # 성능 마케터용 Adobe GenStudio 사용 안내서
 
-성과 마케터용 Adobe GenStudio은 기업이 브랜드 표준을 준수하고 기업 정책을 준수하는 마케팅 콘텐츠를 자율적으로 생성하고 관리할 수 있도록 지원하는 AI 기반 플랫폼으로 효과적인 마케팅 전략을 원활하게 지원합니다.
+성능 마케터용 Adobe GenStudio 는 브랜드 표준을 준수하고 엔터프라이즈 정책을 준수하는 마케팅 콘텐츠를 생성하고 관리할 수 있는 AI 기반 플랫폼입니다.
 
-GenStudio for Performance Marketers를 통해 마케터와 크리에이티브는 콘텐츠 만들기 프로세스를 간소화하여 특정 대상에게 매력적이고 문화적으로 관련되며 맞춤화된 마케팅 콘텐츠를 만드는 동시에 고품질과 브랜드 무결성을 유지할 수 있습니다.
+GenStudio for Performance Marketters는 Adobe AI 기술을 활용하여 크리에이티브가 혁신에 집중할 수 있도록 컨텐츠 생성 및 관리의 복잡성을 간소화하는 포괄적인 도구 모음을 제공합니다.
 
-GenStudio for Performance Marketters는 AI 기술을 활용하여 콘텐츠 생성 및 관리의 복잡성을 간소화하고 크리에이티브가 혁신에 집중할 수 있는 포괄적인 도구 모음을 제공합니다.
+## 새로운 기능
+
+- [[!DNL Insights Channels]](insights/channels.md) —마케팅 캠페인에 대한 고객 참여, 성과, 예산 및 지출에 대한 새로운 개요.
+- [[!DNL Insights Experiences]](insights/experiences.md) —경험 및 광고 성능과 관련된 통찰력에 대한 새로운 개요.
 
 ## 기능 살펴보기
 
