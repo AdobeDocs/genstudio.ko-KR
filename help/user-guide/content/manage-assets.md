@@ -2,19 +2,45 @@
 title: 에셋 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content, Assets, Experiences
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
+source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '722'
 ht-degree: 0%
 
 ---
-
 
 # 에셋 및 경험 관리
 
 성능 마케터 [!DNL Content]을(를) 위한 Adobe GenStudio은 디지털 마케팅 여정에서 사용 및 재사용을 위해 브랜드 승인 에셋을 간편하게 관리하고 개선합니다.
 
-## 에셋 추가
+## Assets 갤러리
+
+[!UICONTROL Assets] 갤러리에 승인된 자산의 인벤토리가 표시됩니다. 테이블 왼쪽 위의 필터(단계) 아이콘은 **[!UICONTROL 필터]** 메뉴를 엽니다. 이 메뉴에서 여러 범주 중 선택하여 갤러리에 표시된 에셋을 필터링할 수 있습니다. 검색(돋보기) 아이콘을 클릭하여 키워드를 사용하여 에셋을 찾습니다.
+
+다음은 [!UICONTROL Assets] 갤러리에서 `dog`이라는 용어에 대한 검색을 보여 줍니다.
+
+![dog에서 검색이 포함된 Assets 보기](../../assets/content-assets.png)
+
+### Assets 위치
+
+기본적으로 [!DNL Create] 프로세스 또는 업로드를 통해 [!DNL Content]에 추가하는 자산은 `GenStudio assets` 저장소에 저장됩니다. `GenStudio assets` 저장소는 성능 마케터용 GenStudio의 읽기-쓰기 저장소입니다. 즉, `GenStudio assets` 저장소에서 에셋을 저장, 편집 및 삭제할 수 있습니다.
+
+오른쪽의 갤러리 위에 있는 **[!UICONTROL 위치]** 목록을 사용하면 연결된 Adobe Experience Manager(AEM) [!DNL Assets Content Hub] 리포지토리에서 선택할 수 있습니다. AEM 저장소를 선택하면 갤러리에 해당 저장소의 자산 인벤토리가 표시되므로 이러한 저장소에서 승인된 자산을 콘텐츠 작성 입력으로 활용할 수 있습니다. 필터 옵션이 [!DNL AEM Assets Content Hub]에 구성된 범주를 반영하도록 변경됩니다.
+
+AEM 저장소는 읽기 전용입니다. 즉, 초안, 새 에셋 또는 메타데이터를 AEM 저장소에 저장할 수 없습니다. 에셋, 경험 및 템플릿에 대한 모든 초안 및 최종 업데이트는 새 [시스템 메타데이터](asset-details.md#system-metadata)를 사용하여 `GenStudio assets` 저장소에 저장됩니다.
+
+성능 마케터를 위해 GenStudio에 [!DNL AEM Assets Content Hub] 저장소를 추가하는 방법에 대한 지침은 [AEM 저장소 연결](connect-aem-repo.md)을 참조하십시오.
+
+## Assets 관리
+
+[!UICONTROL 콘텐츠]에서 성능 마케터는 디지털 자산을 쉽게 저장, 검색 및 관리할 수 있습니다. `GenStudio assets` 리포지토리와 AEM 리포지토리를 모두 활용함으로써 사용자는 다양한 마케팅 캠페인에 맞게 에셋을 잘 구성하고 액세스할 수 있습니다. 이 다중 저장소 접근 방식은 여러 환경에서 에셋 사용에 대한 유연성과 제어 기능을 제공하여 승인된 최신 에셋만 마케팅 활동에 사용하도록 합니다.
+
+### 에셋 추가
+
+자산을 [!DNL Content]에 추가하면 기본적으로 `GenStudio assets` 저장소에 저장됩니다. _[!UICONTROL 자산 추가]_ 단추는 _[!UICONTROL 위치]_&#x200B;이(가) `GenStudio assets` 저장소인 경우에만 사용할 수 있습니다.
+
+![위치 필드](../../assets/content-location.png){width="350" align="center"}
 
 **하나 이상의 자산을 추가하려면**:
 
@@ -40,15 +66,21 @@ ht-degree: 0%
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-## 자산 검색
+### 자산 검색
 
 [!DNL Content] 검색 인터페이스는 빠르고 반응적이며 생산적인 검색 우선 환경을 제공합니다.
 
-필터를 적용하고 에셋 세부 정보의 메타데이터 태그를 사용하여 검색 결과의 범위를 좁힙니다. 예를 들어 캠페인에 대한 새 경험을 구축하는 데 도움이 되는 자산을 찾을 수 있습니다.
+필터를 적용하고 에셋 세부 정보의 메타데이터 태그를 사용하여 검색 결과의 범위를 좁힙니다. 예를 들어, 캠페인에 대한 새로운 경험을 구축하는 데 도움이 되는 특정 파일 유형 또는 제목의 자산을 찾을 수 있습니다.
 
 **재사용할 콘텐츠를 검색하려면**:
 
 1. _[!DNL Content]_에서&#x200B;**[!UICONTROL Assets]**섹션을 선택합니다.
+
+1. **[!UICONTROL 위치]** 목록에서 자산 리포지토리를 선택하거나 올바른 자산 리포지토리를 보고 있는지 확인하십시오. `GenStudio assets`이(가) 기본 리포지토리입니다.
+
+   >[!IMPORTANT]
+   >
+   >_위치_ 목록은 [AEM 저장소에 연결](connect-aem-repo.md)하는 경우에만 사용할 수 있습니다.
 
 1. 키워드나 설명을 입력하려면 **[!UICONTROL 검색]**(돋보기)을 클릭하십시오.
 

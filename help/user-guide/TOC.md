@@ -4,10 +4,10 @@ breadcrumb-title: 사용 안내서
 user-guide-description: 실시간 콘텐츠 성능 인사이트를 기반으로 온브랜드 에셋을 빠르게 찾아 생성하고, 변형을 만들고, 경험을 최적화하는 방법에 대해 알아봅니다.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
+source-git-commit: 476d36dd64607221be0b16f38f251db40e2cf907
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 10%
+source-wordcount: '132'
+ht-degree: 9%
 
 ---
 
@@ -39,8 +39,9 @@ ht-degree: 10%
    + [Publish 승인 콘텐츠](approvals/publish-content.md)
 + 콘텐츠 {#content}
    + [컨텐츠 개요](content/overview.md)
-   + [자산 세부 사항](content/asset-details.md)
    + [자산 관리](content/manage-assets.md)
+   + [AEM 저장소 연결](content/connect-aem-repo.md)
+   + [자산 세부 사항](content/asset-details.md)
    + 템플릿 {#templates}
       + [템플릿 작업](content/use-templates.md)
       + [템플릿 사용자 정의](content/customize-template.md)

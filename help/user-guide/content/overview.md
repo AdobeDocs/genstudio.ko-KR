@@ -2,13 +2,13 @@
 title: 성능 마케터를 위한 Adobe GenStudio 개요 [!DNL Content]
 description: 하나의 직관적인 포털에서 브랜드로 승인된 에셋을 찾고, 편집하고, 재사용하고, 공유하는 방법에 대해 알아봅니다.
 feature: Attributes, Content, Templates
-source-git-commit: 6ee651ab67a92e2eca9929c3cfc6c66fb90d785e
+exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
+source-git-commit: c8c23be561dfb77ceb8f1abe6a85b9321201bb40
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 1%
 
 ---
-
 
 # 성능 마케터 [!DNL Content]에 대한 Adobe GenStudio
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-         <img alt="돋보기" src="../../assets/icons/icon-search.png" width="35">
+         <img alt="돋보기" src="../../assets/icons/icon-search.png">
       </a>
       <p>
          <a href="../content/manage-assets.md#search">
@@ -30,7 +30,7 @@ ht-degree: 1%
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-         <img alt="더하기 기호가 있는 이미지" src="../../assets/icons/icon-addContent.png" width="35">
+         <img alt="더하기 기호가 있는 이미지" src="../../assets/icons/icon-addContent.png">
       </a>
       <p>
          <a href="../content/manage-assets.md">
@@ -40,7 +40,7 @@ ht-degree: 1%
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/customize-template.md">
-         <img alt="자산의 번개" src="../../assets/icons/icon-template.png" width="35">
+         <img alt="자산의 번개" src="../../assets/icons/icon-template.png">
       </a>
       <p>
          <a href="../content/customize-template.md">
@@ -50,7 +50,7 @@ ht-degree: 1%
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-         <img alt="더하기 기호가 있는 자산의 번개" src="../../assets/icons/icon-addTemplate.png" width="35">
+         <img alt="더하기 기호가 있는 자산의 번개" src="../../assets/icons/icon-addTemplate.png">
       </a>
       <p>
          <a href="../content/use-templates.md#upload-a-template">
