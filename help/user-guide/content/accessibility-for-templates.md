@@ -2,13 +2,13 @@
 title: 액세스 가능한 템플릿 만들기
 description: 더 많은 대상자에게 도달하고 최적의 경험을 제공할 수 있는 성능 마케터를 위한 Adobe GenStudio 템플릿을 작성합니다.
 feature: Templates, Content
-source-git-commit: c891f876fe5a7c75487fcba6552a213533f0b609
+exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
+source-git-commit: 088049a25635f5e9469c16c6ddfe9db86afdc143
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
-
 
 # 액세스 가능한 템플릿 만들기
 
@@ -27,6 +27,13 @@ GenStudio for Performance Marketers에서 다양한 경험에 대한 콘텐츠�
 ```
 
 ![아이디어, 책, 큰 연필 들고 있는 남자, 컴퓨터 콜라주](../../assets/card-create-assets.png){width="400"}
+
+## 명암비
+
+텍스트와 배경 간의 적절한 대비를 제공합니다. 다음과 같은 최소 명암비를 사용합니다.
+
+- 텍스트 및 이미지 텍스트: 대비 비율 최소 4.5:1
+- 큰 텍스트 및 큰 텍스트 이미지: 대비 비율 최소 3:1
 
 ## 링크 목적(링크만)
 
