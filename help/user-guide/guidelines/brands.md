@@ -3,10 +3,10 @@ title: 성능 마케터용 GenStudio [!DNL Brands]
 description: GenStudio for Performance Marketers [!DNL Brands] 는 브랜드 자산(마케팅 카피, 이미지, 경험 등)의 포괄적인 컬렉션으로, 브랜드에 맞게 조정된 콘텐츠를 만들 수 있도록 알려 줍니다.
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: 1991e59c0badc0cdde92b863d6c8528e7ca31a38
 workflow-type: tm+mt
 source-wordcount: '800'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ GenStudio for Performance Marketters는 브랜드의 풍부한 브랜드 정보�
 
 1. 왼쪽 탐색 영역에서 **[!UICONTROL [!DNL Brands]]**&#x200B;을(를) 클릭합니다.
 1. 브랜드의 개요 정보를 보려면 를 클릭하여 정의된 브랜드를 엽니다.
-1. 개별 세부 정보를 보거나 브랜드를 수정하려면 맨 위에서 **[!UICONTROL 브랜드 음성 지침]**, **[!UICONTROL 채널 지침]**, **[!UICONTROL 이미지 지침]** 또는 **[!UICONTROL 로고]**&#x200B;를 클릭하십시오.
+1. 개별 세부 정보를 보거나 브랜드를 수정하려면 맨 위에서 [**[!UICONTROL 브랜드 음성 지침]**](#brand-voice-guidelines), [**[!UICONTROL 채널 지침]**](#channel-guidelines), **[!UICONTROL 이미지 지침]** 또는 **[!UICONTROL 로고]**&#x200B;를 클릭하십시오.
 
 브랜드 지침 문서(최대 3개의 PDF 또는 DOC 파일)를 성능 마케터용 GenStudio에 업로드하여 자동으로 브랜드를 생성할 수 있습니다. 성능 마케터용 GenStudio에 브랜드를 추가하고, 수정하고, 게시하는 방법 등을 알아보려면 [지침 추가](add-guidelines.md)를 참조하십시오.
 
@@ -45,9 +45,9 @@ GenStudio for Performance Marketters는 브랜드의 풍부한 브랜드 정보�
 
 각 채널에는 채널 자산 구성에 영향을 주는 특정 기본 지침이 있습니다.
 
-다음 표는 각 채널 조각, 사용 가능한 채널, 조각 설명, 지침 예 및 예제 결과를 보여 줍니다.
+다음 표는 각 채널 섹션, 사용 가능한 채널, 섹션에 대한 설명, 지침 예 및 예제 결과를 보여 줍니다.
 
-| 조각 | 채널 | 설명 | 모범 사례 |
+| 섹션 | 채널 | 설명 | 모범 사례 |
 | ------------------| --------- | --------- | -------- |
 | 일반 | 이메일, 소셜 광고 | 두 번째 제목란 또는 이메일 미리 보기 텍스트 | 이메일 전체에서 일관되도록 전반적인 톤/감정을 정의합니다(2-5 지침).<br>_예_: &quot;친숙하고 접근 가능한 톤 유지&quot;, &quot;지나치게 형식적인 언어 사용 안 함&quot;<br><br> |
 | 제목 | 이메일 | 이메일 콘텐츠를 요약하는 매력적이고 흥미로운 제목 | 톤, 길이 등에 대한 구체적인 지침(2~5개 지침)을 제공합니다. 더 나은 품질의 출력을 위해 _예_ 섹션에 이전에 성공한 제목을 추가하십시오.<br>_예_: &quot;제목을 전자 메일 본문에 맞춤&quot; |

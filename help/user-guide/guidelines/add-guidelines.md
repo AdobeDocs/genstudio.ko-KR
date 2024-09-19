@@ -4,13 +4,13 @@ description: 성능 마케터를 위한 Adobe GenStudio에서 지침—[!DNL Bra
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
+exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
+source-git-commit: 7fd93bae4d81021d328e941710152e7d3aa20b76
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '968'
 ht-degree: 0%
 
 ---
-
 
 # 지침 추가
 
@@ -25,6 +25,9 @@ ht-degree: 0%
 성능 마케터용 GenStudio에 브랜드를 추가하려면 지침을 선택하고 브랜드 세부 정보를 입력하여 [브랜드 가이드를 업로드](#upload-brand-guidelines)하거나 [수동으로 브랜드를 만들기](#manually-add-brand)할 수 있습니다. [브랜드를 Publish](#publish-brand)에서 [!DNL Content]까지 활성화하여 향후 콘텐츠 생성에 사용할 수 있도록 합니다.
 
 왼쪽 탐색 영역에서 **[!DNL Brands]**&#x200B;을(를) 클릭합니다. _[!DNL Brands]_패널에서&#x200B;**브랜드 추가**를 선택합니다.
+
+>[!TIP]
+>각 브랜드는 계층적인 관계 없이 독립적으로 운영됩니다. 상위 브랜드에서 하위 브랜드를 만들려면 만들기 프로세스 중에 상위 브랜드의 정보를 포함하십시오.
 
 ### 업로드를 통해 브랜드 추가
 

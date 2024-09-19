@@ -3,9 +3,9 @@ title: 성능 마케터용 GenStudio 개요 [!DNL Create]
 description: 성과 마케터용 Adobe GenStudio [!DNL Create]에서 생성 AI를 사용하여 성과가 좋은 브랜드 내 콘텐츠를 빠르게 생성합니다.
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: dab19da0063d6f4f4497112c4063bfc9c285e651
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '547'
 ht-degree: 1%
 
 ---
@@ -103,6 +103,12 @@ GenStudio for Performance Marketters는 브랜드 ID의 다양한 측면에 대�
 기본 제공 [검토 및 승인](/help/user-guide/approvals/overview.md) 기능을 사용하여 작성 프로세스 동안 검토를 요청하고 검토 의견을 추적하고 승인을 받습니다.
 
 콘텐츠 변형을 생성한 후 관련자의 승인을 위해 초안을 보내면 [!DNL Content]에 저장되고 마케팅 활동에서 구현될 수 있습니다.
+
+### 변형 관리
+
+GenStudio for Performance Marketers를 사용하면 [개별 변형의 섹션을 포괄적으로 제어할 수 있습니다](/help/user-guide/create/manage-variants.md).
+
+단일 변형의 섹션을 수정하고, 개별 섹션의 콘텐츠를 다시 생성하고, 제안된 편집 내용을 사용하여 메시지, 에셋 크기 조정 등을 캔버스 내에서 모두 개선할 수 있습니다.
 
 ## 튜토리얼
 

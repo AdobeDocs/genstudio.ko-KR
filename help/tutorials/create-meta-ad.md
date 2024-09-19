@@ -1,15 +1,15 @@
 ---
 title: 메타 광고 경험 만들기
-description: 생성 AI를 사용하여 Facebook 또는 Instagram에 대한 새로운 온브랜드 메타 광고 경험을 생성하는 방법에 대해 알아봅니다.
-feature: Content, Brands Service, Guidelines, Content Generation
+description: 성과 마케터용 Adobe GenStudio을 사용하여 Facebook 또는 Instagram과 같은 브랜드 내 메타 광고 경험을 만드는 방법에 대해 알아봅니다.
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: c102556fb1c95b70dc724252e4ecdc9ce10c89e7
 workflow-type: tm+mt
-source-wordcount: '955'
+source-wordcount: '952'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 0%
    * [!DNL Content]에 이미 게시된 자산(이미지)을 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하세요. 필터를 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
    * 파일을 찾아보고 사용할 자산을 선택하려면 **[!UICONTROL 업로드]**&#x200B;를 클릭하세요. 장치 탐색과 함께 Microsoft OneDrive 또는 Dropbox에서 가져올 수도 있습니다.
    * 자산을 _콘텐츠_ 섹션으로 끌어다 놓습니다.
+1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
 매개 변수를 모두 추가했으면 _매개 변수_ 아이콘을 다시 클릭하여 프롬프트 영역을 축소할 수 있습니다.
 
@@ -67,7 +68,7 @@ ht-degree: 0%
 
 메타 광고를 생성할 때 Facebook 또는 Instagram 광고 중에서 선택할 수 있습니다.
 
-상단 메뉴 모음의 메타 광고 채널 옵션을 **Facebook** 또는 **Instagram**(으)로 전환하여 각 채널의 생성된 초안을 관리합니다.
+오른쪽 메뉴 모음(Facebook 및 Instagram 아이콘)에서 메타 광고 채널 옵션(**Facebook**&#x200B;과 **Instagram** 사이)을 전환하여 각 채널의 변형을 보고 관리합니다.
 
 [메타 광고를 수정](#revise-generated-meta-ads)할 때 Facebook 및 Instagram 광고의 종횡비를 변경할 수 있습니다.
 
@@ -77,14 +78,13 @@ ht-degree: 0%
 
 **생성된 변형을 수정하려면**:
 
-* **메타 광고 초안 이름을 편집하려면** 캔버스 맨 위에서 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **메타 광고를 수동으로 편집하려면** 광고 조각(제목 줄, 머리글 또는 본문 복사본 등)을 두 번 클릭하고 필요에 따라 편집합니다.
-
-  제목 줄과 사전 머리글은 편집하려면 한 번 클릭만 하면 되지만 머리글과 본문 복사본은 두 번 클릭해야 합니다.
-
-* **콜 투 액션을 변경하거나 선택하려면** 콜 투 액션 버튼을 클릭하고 사용 가능한 버튼에서 선택하십시오.
-* **크기 및 종횡비를 변경하려면** _[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
-* **메타 광고를 삭제하려면** 광고 제목(예: &quot;메타 4&quot;)을 클릭하여 선택하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭합니다.
+* **메타 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
+* **메타 광고를 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;광고 섹션(제목 줄, 머리글 또는 본문 복사본 등)을 두 번 클릭하고 필요에 따라 편집합니다.[
+* **콜 투 액션을 변경하거나 선택하려면** 콜 투 액션 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _[!UICONTROL Link]_&#x200B;에서 클릭 유도 문안 텍스트의 URL을 입력하십시오.
+* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
+* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
+* **메타 광고를 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 광고 제목(예: &quot;메타 4&quot;)을 클릭하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭하십시오.
 
 ## 브랜드 정렬 확인
 
@@ -93,7 +93,7 @@ ht-degree: 0%
 **브랜드 정렬을 확인하려면**:
 
 1. 변형에 대한 [**[!UICONTROL [!DNL Brand] 지침 확인]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) 아이콘을 클릭하고 브랜드에 대해 확인할 때 해당 변형이 수행되는 방식에 대한 요약을 확인합니다.
-1. 개선이 필요한 조각과 지침에 대한 세부 정보를 보려면 **[!UICONTROL 검토]** _또는_&#x200B;를 클릭하고 상단 메뉴 모음의 브랜드 유효성 검사 아이콘을 클릭하여 [_브랜드 유효성 검사 패널_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)&#x200B;을 여십시오.
+1. 개선이 필요한 섹션 및 지침에 대한 세부 정보를 보려면 **[!UICONTROL 검토]** _또는_&#x200B;를 클릭하고 상단 메뉴 막대에서 브랜드 유효성 검사 아이콘을 클릭하여 [_브랜드 유효성 검사 패널_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)&#x200B;을 엽니다.
 
 1. 각 광고를 전환하여 생성된 콘텐츠를 브랜드 맞춤형으로 개선하는 방법을 확인합니다.
 1. [수동으로 광고를 수정](#revise-generated-meta-ads)하여 브랜드에 맞게 광고를 조정할 수 있습니다.

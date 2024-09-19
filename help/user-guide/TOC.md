@@ -4,9 +4,9 @@ breadcrumb-title: 사용 안내서
 user-guide-description: 실시간 콘텐츠 성능 인사이트를 기반으로 온브랜드 에셋을 빠르게 찾아 생성하고, 변형을 만들고, 경험을 최적화하는 방법에 대해 알아봅니다.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 476d36dd64607221be0b16f38f251db40e2cf907
+source-git-commit: 81cbd495027e50afae2a178d4465703f3df0c950
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '134'
 ht-degree: 9%
 
 ---
@@ -31,6 +31,7 @@ ht-degree: 9%
    + [브랜드 유효성 검사](guidelines/brand-validation.md)
 + {#create} 만들기
    + [[!DNL Create] 개요](create/overview.md)
+   + [변형 관리](create/manage-variants.md)
 + 리뷰 및 승인 {#approve}
    + [검토 및 승인 개요](approvals/overview.md)
    + [콘텐츠 검토 및 승인 요청](approvals/request-review.md)
