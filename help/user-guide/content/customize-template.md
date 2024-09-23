@@ -3,13 +3,13 @@ title: 템플릿 사용자 정의
 description: 성과 마케터를 위한 Adobe GenStudio을 위해 템플릿을 개인화하고 최적화하는 방법을 알아봅니다.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 909ac53580e672df1adf0c73e67a32f2c045dc35
+exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
+source-git-commit: 8ea0c17b60b18928540070448ad1ce0206208b00
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
 
 ---
-
 
 # 템플릿 사용자 정의
 
@@ -98,21 +98,21 @@ _섹션_ GenStudio for Performance Marketers에게 이 섹션의 필드에 높�
 
 필드 이름에 선택한 접두사를 사용하여 필드가 섹션 또는 그룹의 일부임을 나타냅니다. 예를 들어 강조 표시된 영역에 나타나는 컨텐츠를 강조표시할 수 있습니다.
 
-- `spotlight_headline`
-- `spotlight_body`
+- `pod1_headline`
+- `pod1_body`
 
-각 섹션은 각 필드 유형 중 하나만 사용할 수 있습니다. 위의 예에서 `spotlight` 섹션은 하나의 `spotlight_headline` 필드만 사용할 수 있습니다.
+각 섹션은 각 필드 유형 중 하나만 사용할 수 있습니다. 위의 예에서 `pod1` 섹션은 하나의 `pod1_headline` 필드만 사용할 수 있습니다.
 
 템플릿에는 최대 3개의 섹션이 포함될 수 있습니다.
 
 - `headline`
 - `body`
-- `spotlight_headline`
-- `spotlight_body`
-- `news_headline`
-- `news_body`
+- `pod1_headline`
+- `pod1_body`
+- `pod2_headline`
+- `pod2_body`
 
-성능 마케터용 GenStudio은 `spotlight_headline`이(가) `news_body`보다 `spotlight_body`과(와) 더 밀접하게 관련되어 있음을 이해합니다.
+성능 마케터용 GenStudio은 `pod1_headline`이(가) `pod2_body`보다 `pod1_body`과(와) 더 밀접하게 관련되어 있음을 이해합니다.
 
 ## 템플릿 미리 보기
 
@@ -224,14 +224,18 @@ _섹션_ GenStudio for Performance Marketers에게 이 섹션의 필드에 높�
                 width="600" height="600"
                 border="0"/></p>
         <p>{{ body }}</p>
+    <!-- Pod1 -->
         <div class="pod">
-            <h2>{{ pod1_headline }}</h2>
-            <p>This is Pod 1 content.</p>
+            <h2>{{ pod1_header }}</h2>
+            <p>{{ pod1_body }}</p>
         </div>
+        <!-- End of Pod1 -->
+    <!-- Pod2 -->
         <div class="pod">
-            <h2>{{ pod2_headline }}</h2>
-            <p>This is Pod 2 content.</p>
+            <h2>{{ pod2_header }}</h2>
+            <p>{{ pod2_body }}</p>
         </div>
+        <!-- End of Pod2 -->
     </div>
 </body>
 </html>
@@ -293,4 +297,3 @@ _섹션_ GenStudio for Performance Marketers에게 이 섹션의 필드에 높�
 ```
 
 +++
-
