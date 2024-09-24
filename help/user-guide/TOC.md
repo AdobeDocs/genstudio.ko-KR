@@ -1,13 +1,13 @@
 ---
-user-guide-title: 성능 마케터용 Adobe GenStudio 사용 안내서
+user-guide-title: 성과 마케터를 위한 Adobe GenStudio 사용 안내서
 breadcrumb-title: 사용 안내서
-user-guide-description: 실시간 콘텐츠 성능 인사이트를 기반으로 온브랜드 에셋을 빠르게 찾아 생성하고, 변형을 만들고, 경험을 최적화하는 방법에 대해 알아봅니다.
+user-guide-description: 실시간 콘텐츠 성과 인사이트를 기반으로 온브랜드 자산을 빠르게 찾아 생성하고, 변형을 만들고, 경험을 최적화하는 방법을 알아봅니다.
 feature-set: GenStudio
 feature: Generative AI
 source-git-commit: 81cbd495027e50afae2a178d4465703f3df0c950
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 9%
+ht-degree: 29%
 
 ---
 
