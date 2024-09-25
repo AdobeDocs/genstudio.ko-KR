@@ -1,9 +1,9 @@
 ---
-title: 성능 마케터를 위한 Adobe GenStudio의 브랜드 유효성 검사
-description: GenStudio for Performance Marketers에서 내장된 브랜드 유효성 검사 시스템이 작동하는 방식을 알아봅니다.
+title: 성과 마케팅을 위한 Adobe GenStudio의 브랜드 유효성 검사
+description: GenStudio for Performance Marketing에서 기본 제공 브랜드 유효성 검사 시스템이 작동하는 방식을 알아봅니다.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: a00d4fcaabb97eae69294ddc9689179842d49512
+source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # 브랜드 유효성 검사
 
-GenStudio for Performance Marketers에서 브랜드 유효성 검사는 생성 AI 기능 및 지침 [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) 및 [[!DNL Personas]](/help/user-guide/guidelines/personas.md)과(와) 함께 작동하는 필수 구성 요소입니다. 이렇게 하면 모든 콘텐츠가 브랜드 정체성에 맞게 조정됩니다.
+성과 마케팅을 위한 GenStudio에서 브랜드 유효성 검사는 생성 AI 기능 및 지침—[[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) 및 [[!DNL Personas]](/help/user-guide/guidelines/personas.md)과(와) 함께 작동하는 필수 구성 요소입니다. 이렇게 하면 모든 콘텐츠가 브랜드 정체성에 맞게 조정됩니다.
 
-GenStudio for Performance Marketters는 다음을 비롯한 다양한 측면에서 브랜드 유효성 검사를 수행합니다.
+GenStudio for Performance Marketing은 다음을 포함한 다양한 측면에서 브랜드 유효성 검사를 수행합니다.
 
 * 각 고객별 브랜드 지침
 * 다양한 채널 플랫폼을 위한 지침 복사

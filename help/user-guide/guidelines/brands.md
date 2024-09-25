@@ -1,20 +1,20 @@
 ---
-title: 성능 마케터용 GenStudio [!DNL Brands]
-description: GenStudio for Performance Marketers [!DNL Brands] 는 브랜드 자산(마케팅 카피, 이미지, 경험 등)의 포괄적인 컬렉션으로, 브랜드에 맞게 조정된 콘텐츠를 만들 수 있도록 알려 줍니다.
+title: 성능 마케팅을 위한 GenStudio [!DNL Brands]
+description: GenStudio for Performance Marketing [!DNL Brands] 은(는) 브랜드 자산(마케팅 카피, 이미지, 경험 등)의 포괄적인 컬렉션으로, 브랜드에 맞게 조정된 콘텐츠를 만들 수 있도록 알려 줍니다.
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 1991e59c0badc0cdde92b863d6c8528e7ca31a38
+source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
 workflow-type: tm+mt
 source-wordcount: '800'
 ht-degree: 0%
 
 ---
 
-# 성능 마케터용 GenStudio [!DNL Brands]
+# 성능 마케팅 [!DNL Brands]용 GenStudio
 
 브랜드는 조직, 제품, 서비스 또는 개념을 다른 브랜드와 구별합니다. 브랜드의 일부 측면이 로고와 같이 객관적인 반면, 다른 측면은 목소리 톤과 같이 주관적인 것입니다.
 
-GenStudio for Performance Marketters는 브랜드의 풍부한 브랜드 정보를 사용하여 [!DNL Product] 및 [!DNL Persona] 정보와 파트너 관계를 맺고 포괄적인 브랜드 정체성을 구축합니다. 이 브랜드 정체성은 Adobe의 생성 AI 기술을 사용하여 온브랜드 콘텐츠 생성을 알리는 데 사용됩니다.
+GenStudio for Performance Marketing은 브랜드의 풍부한 브랜드 정보를 사용하여 [!DNL Product] 및 [!DNL Persona] 정보와 파트너 관계를 맺고 포괄적인 브랜드 정체성을 구축합니다. 이 브랜드 정체성은 Adobe의 생성 AI 기술을 사용하여 온브랜드 콘텐츠 생성을 알리는 데 사용됩니다.
 
 **브랜드를 보거나 수정하려면**:
 
@@ -22,11 +22,11 @@ GenStudio for Performance Marketters는 브랜드의 풍부한 브랜드 정보�
 1. 브랜드의 개요 정보를 보려면 를 클릭하여 정의된 브랜드를 엽니다.
 1. 개별 세부 정보를 보거나 브랜드를 수정하려면 맨 위에서 [**[!UICONTROL 브랜드 음성 지침]**](#brand-voice-guidelines), [**[!UICONTROL 채널 지침]**](#channel-guidelines), **[!UICONTROL 이미지 지침]** 또는 **[!UICONTROL 로고]**&#x200B;를 클릭하십시오.
 
-브랜드 지침 문서(최대 3개의 PDF 또는 DOC 파일)를 성능 마케터용 GenStudio에 업로드하여 자동으로 브랜드를 생성할 수 있습니다. 성능 마케터용 GenStudio에 브랜드를 추가하고, 수정하고, 게시하는 방법 등을 알아보려면 [지침 추가](add-guidelines.md)를 참조하십시오.
+브랜드 가이드라인 문서(최대 3개의 PDF 또는 DOC 파일)를 성과 마케팅을 위해 GenStudio에 업로드하여 브랜드를 자동으로 생성할 수 있습니다. 성과 마케팅을 위해 GenStudio에 브랜드를 추가하고, 수정하고, 게시하는 방법 등을 알아보려면 [지침 추가](add-guidelines.md)를 참조하십시오.
 
 ## [!DNL Brands] 지침
 
-지침은 GenStudio for Performance Marketers에게 브랜드별 접근 방식, 톤, 시각적 느낌 등에 대한 명확한 그림을 제공합니다.
+지침은 성과 마케팅을 위한 GenStudio에 브랜드별 접근 방식, 톤, 시각적 느낌 등에 대한 명확한 그림을 제공합니다.
 
 다음 지침 섹션에서는 각 지침 카테고리, 예제 지침 및 잠재적 결과에 대해 자세히 설명합니다. 지침 예는 결과 출력의 형태를 지정하는 샘플 입력(아래 결과 예)이며, 이를 사용하여 고유한 브랜드 지침을 제공합니다.
 
@@ -72,16 +72,16 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio for Performance Marketers](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
+![Image guidelines in GenStudio for Performance Marketing](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
 
 ### Logos
 
 Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![Logo guidelines in GenStudio for Performance Marketers](/help/assets/logos.png){width="650" zoomable="yes"} -->
+![Logo guidelines in GenStudio for Performance Marketing](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
 ## 브랜드 유효성 검사
 
-GenStudio for Performance Marketers에서 브랜드 유효성 검사는 [!DNL Brands], [!DNL Products] 및 [!DNL Personas]의 생성 AI 기능과 함께 중요한 역할을 합니다. 모든 콘텐츠가 브랜드 정체성과 일관성을 유지하도록 합니다.
+성과 마케팅을 위한 GenStudio에서 브랜드 유효성 검사는 [!DNL Brands], [!DNL Products] 및 [!DNL Personas]의 생성 AI 기능과 함께 중요한 역할을 합니다. 모든 콘텐츠가 브랜드 정체성과 일관성을 유지하도록 합니다.
 
 [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md)를 참조하십시오.

@@ -1,13 +1,13 @@
 ---
 title: 메타 광고 경험 만들기
-description: 성과 마케터용 Adobe GenStudio을 사용하여 Facebook 또는 Instagram과 같은 브랜드 내 메타 광고 경험을 만드는 방법에 대해 알아봅니다.
+description: 성과 마케팅을 위한 Adobe GenStudio을 사용하여 Facebook 또는 Instagram과 같은 브랜드 내 메타 광고 경험을 만드는 방법에 대해 알아봅니다.
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: c102556fb1c95b70dc724252e4ecdc9ce10c89e7
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # 메타 광고 경험 만들기
 
-이 튜토리얼에서는 성능 마케터 [[!DNL Create]](/help/user-guide/create/overview.md)용 GenStudio(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)를 사용하여 브랜드 메타 광고 경험을 생성하는 방법을 보여 줍니다.
+이 튜토리얼에서는 성능 마케팅 [[!DNL Create]](/help/user-guide/create/overview.md)용 GenStudio(왼쪽 탐색 영역에 있는 페인트 브러쉬 아이콘)를 사용하여 브랜드 메타 광고 경험을 생성하는 방법을 보여 줍니다.
 
-메타 광고 경험을 생성하기 전에 성능 마케터용 GenStudio에서 [지침을 통합](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 만들기](/help/user-guide/effective-prompts.md)의 기본 사항에 익숙해지는 것이 중요합니다.
+메타 광고 경험을 생성하기 전에 성능 마케팅을 위해 GenStudio에 [지침을 통합](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 만들기](/help/user-guide/effective-prompts.md)의 기본 사항에 익숙해지는 것이 중요합니다.
 
 ## 템플릿 선택
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 1. _매개 변수_ 아이콘을 클릭하여 프롬프트 영역을 확장합니다.
 1. _매개 변수_ 섹션에서 콘텐츠 생성을 알리는 지침—[!DNL Brands], [!DNL Personas] 및 [!DNL Products]을(를) 선택하십시오.
 
-   이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [성능 마케터를 위한 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
+   이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [성능 마케팅을 위해 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
 
 1. 콘텐츠 생성에 영향을 미치려면 **[!UICONTROL 콘텐츠 선택]**&#x200B;을 클릭하여 *및* 경험에 사용할 콘텐츠를 추가합니다.
    * [!DNL Content]에 이미 게시된 자산(이미지)을 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하세요. 필터를 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
@@ -125,6 +125,6 @@ ht-degree: 0%
 
 ## 메타 연결
 
-성능 마케터용 GenStudio을 메타에 연결하여 콘텐츠 성능에 대한 고급 분석 및 [인사이트](/help/user-guide/insights/overview.md)를 받을 수 있습니다.
+성능 마케팅용 GenStudio을 메타에 연결하여 콘텐츠 성능에 대한 고급 분석 및 [인사이트](/help/user-guide/insights/overview.md)를 받을 수 있습니다.
 
 자세한 내용은 [채널 계정 연결](/help/user-guide/insights/connect-channel.md)을 참조하십시오.

@@ -2,7 +2,7 @@
 title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Content, Assets, Experiences
-source-git-commit: bf22e0006f2abe96f8cffd3607d0a8ee7e138583
+source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 변형 관리
 
-성능 마케터 [!DNL Create]을(를) 위한 Adobe GenStudio 기능을 사용하면 디지털 마케팅 이니셔티브에 사용할 수 있도록 생성된 변형(이메일, 메타 광고 등)을 사용자 정의하고 향상시킬 수 있습니다.
+성능 마케팅 Adobe GenStudio [!DNL Create]을(를) 사용하면 디지털 마케팅 이니셔티브에 사용할 수 있도록 생성된 변형(이메일, 메타 광고 등)을 사용자 정의하고 향상시킬 수 있습니다.
 
 [경험 만들기](/help/tutorials/tutorials.md)를 할 때 생성된 변형의 콘텐츠와 에셋을 개별적으로 또는 일괄적으로 수정할 수 있습니다. 개별 마이크로 수준에서 변형을 관리하는 기능을 사용하면 생성된 각 콘텐츠를 명시적으로 관리할 수 있습니다.
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 <!-- ## Re-generate sections
 
-GenStudio for Performance Marketers has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
+GenStudio for Performance Marketing has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
 
 For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset using the _[!UICONTROL Suggested edits]_ options—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_—and entering a new prompt.
 
