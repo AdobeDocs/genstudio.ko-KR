@@ -2,13 +2,13 @@
 title: 유효한 프롬프트 작성
 description: 성능 마케터를 위한 Adobe GenStudio에 대한 효과적인 프롬프트를 작성하는 방법을 알아봅니다.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: 306b64b44e69dbcec3984d1a0b54230fe0dbe48c
+exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
+source-git-commit: 016cd2b5415651ed3cf157244f868315234330fa
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '758'
 ht-degree: 0%
 
 ---
-
 
 # 유효한 프롬프트 작성
 
@@ -54,6 +54,44 @@ GenStudio for Performance Marketers 지침은 생성 AI가 에셋 구성을 개�
 >[!TIP]
 >
 >성능 마케터용 GenStudio에서 [!DNL Brand] 지침을 사용하는 방법과 시기를 제어할 수 있습니다. 브랜드 지침을 구성하고 관리하는 방법은 [지침](/help/user-guide/guidelines/overview.md)을 참조하세요.
+
+### 구조화된 프롬프트
+
+여러 섹션 이메일의 경우 이메일의 각 섹션에 대해 다양한 콘텐츠를 생성하기 위해 섹션별 지침을 제공하는 프롬프트를 구성할 수 있습니다. 구조화된 프롬프트는 생성된 콘텐츠를 해당 콘텐츠 자리 표시자에 삽입할 수 있도록 전자 메일 템플릿의 [섹션 이름](/help/user-guide/content/email-template.md#multi-section-emails)을(를) 직접 참조해야 합니다.
+
+예를 들어, GenStudio for Performance Marketing에 이메일의 첫 번째 섹션에서 새 제품을 홍보하는 콘텐츠를 생성하고 두 번째 이메일 섹션에서 제품의 비용 절감 이점을 자세히 설명하는 콘텐츠를 생성하도록 지시할 수 있습니다.
+
+구조화된 프롬프트는 다음과 같습니다.
+
+- 이메일 템플릿의 섹션 이름에 다음 참조 중 하나를 사용하십시오.
+   - Pod
+   - 그룹
+   - 섹션
+   - 모듈
+
+  예를 들어 템플릿에서 `moduleA` 또는 `Group-3`을(를) 섹션 이름으로 사용하는 경우 프롬프트에서 해당 섹션 이름을 참조할 수 있습니다.
+
+- 권장되는 규칙/구조를 따르십시오. 프롬프트 구조가 제공된 형식을 준수하지 않는 경우 프롬프트는 *모두* 이메일 섹션에 적용되며 여전히 콘텐츠 생성을 용이하게 합니다.
+- 섹션 이름을 전자 메일 템플릿에 정의된 [대로 사용](/help/user-guide/content/email-template.md#code-an-email-template)합니다. 프롬프트 참조는 이메일 템플릿에 코딩된 섹션 이름과 일치해야 합니다.
+- 대/소문자를 구분하지 마십시오. 예를 들어 전자 메일 템플릿과 구조화된 프롬프트에서 `Pod` 또는 `pod`을(를) 사용할 수 있습니다.
+- 먼저 일반 사용자 프롬프트를 참조한 다음 섹션별 지시문을 참조하십시오.
+- 콜론, 하이픈, 쉼표 또는 기타 구분(`,:;#$!~|@=-%&*^_`)을 섹션 이름 참조와 지시문을 구분하여 사용하십시오. 예를 들어 다음 명령을 섹션별 프롬프트 지시문으로 사용할 수 있습니다. `Pod1; Describe how to easily edit text and swap images.`
+
+다음은 권장 프롬프트 구조를 명확히 하고 `Pod1`, `Pod2` 및 `Pod3`과(와) 같이 식별 용어 `Pod`을(를) 사용하는 이메일 템플릿을 활용하는 샘플 프롬프트입니다.
+
+```properties
+Create an exciting multi-pod email focusing on Creative Cloud and its powerful generative AI capabilities.
+
+Encourage customers to convert to Photoshop or use a free Photoshop trial. We want to better educate them about app features.
+
+Pod1: Focus on Adobe Photoshop and its new generative AI tools that enable creators to bring images to life in minutes.
+
+Pod2: Focus on Adobe Illustrator and its new generative AI tools, such as Generative Shape Fill, which allows you to quickly fill your vector outline and explore a variety of options that match the look and feel of your own artwork.
+
+Pod3: Focus on Adobe Acrobat Pro. Make users aware that with Acrobat Pro they can edit images and text inside a PDF.
+```
+
+[전자 메일 템플릿 준비](/help/user-guide/content/email-template.md#code-an-email-template)를 참조하세요.
 
 ## 다시 시도
 

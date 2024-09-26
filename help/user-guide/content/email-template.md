@@ -3,13 +3,13 @@ title: 성능 마케터를 위한 Adobe GenStudio을 위한 이메일 템플릿 
 description: 성능 마케터용 Adobe GenStudio을 위한 사용자 정의 이메일 템플릿을 구축하는 방법을 알아봅니다.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
+exl-id: 8b1e8d32-5a23-45ce-a2d4-ae6de3698c45
+source-git-commit: 58833ed0c8e28061ab2584b7949f2a0cbd3d10cc
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '459'
 ht-degree: 0%
 
 ---
-
 
 # 성능 마케터를 위한 Adobe GenStudio을 위한 이메일 템플릿 준비
 
@@ -30,6 +30,14 @@ ht-degree: 0%
 템플릿이 디자인되면 HTML 및 인라인 CSS를 사용하여 코딩됩니다. 코드가 깨끗해야 하고 다양한 장치에 대해 반응해야 합니다.
 
 [템플릿 예제](/help/user-guide/content/customize-template.md#template-examples)를 참조하십시오.
+
+### 여러 섹션 이메일
+
+콘텐츠를 생성하는 동안 [구조화된 프롬프트](/help/user-guide/effective-prompts.md#structured-prompts)를 사용하여 GenStudio for Performance Marketing에서 전자 메일의 섹션별로 다양한 콘텐츠를 생성하도록 지시할 수 있습니다.
+
+예를 들어 전자 메일 템플릿의 섹션에 `Pod`—`Pod1` 및 `Pod2`이(가) 접두사로 추가된 경우 콘텐츠 생성을 위한 구조화된 프롬프트에 해당 전자 메일 섹션에 대한 특정 지시문이 포함될 수 있습니다. GenStudio for Performance Marketing은 프롬프트의 섹션별 지시문을 관련 이메일 섹션에 일치시키고 지시문에 정렬된 콘텐츠를 생성합니다.
+
+[구조화된 프롬프트](/help/user-guide/effective-prompts.md#structured-prompts)를 참조하십시오.
 
 ## 이메일 템플릿 테스트
 
