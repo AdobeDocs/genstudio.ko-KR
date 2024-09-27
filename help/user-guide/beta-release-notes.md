@@ -2,9 +2,9 @@
 title: Adobe GenStudio for Performance Marketing Beta 릴리스 노트
 description: Adobe GenStudio for Performance Marketing의 최신 기능과 개선 사항에 대해 알아봅니다.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: c95a99d4fa8030a35b7fe3690235102e1827422f
+source-git-commit: ca83beb4d6f5bd0d79a2da69658b6e18c3252f2e
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,6 @@ ht-degree: 0%
 * 이제 GenStudio은 업로드된 PDF에서 담당자 및 제품 정보를 추출하고 관련 필드를 채울 수 있습니다. <!-- GS-3806 -->
 
 * 이제 사용자는 자산을 업로드한 사용자의 이름으로 [!DNL Content]개의 자산 및 경험을 필터링할 수 있습니다. <!-- GS-1808 -->
-
-* 이제 메타 로그인 흐름에는 사용자가 로그인하는 동안 팝업을 차단 해제할 수 있는 **[!UICONTROL 새로 고침]** 단추가 포함되어 있습니다.
-
-* [!DNL Persona] 세부 정보 페이지에서 [!DNL Additional details] 섹션을 제거했습니다. <!-- GS-5133 5134 -->
 
 * [!DNL Products] 세부 정보 페이지에서 [!DNL Additional details] 섹션의 이름을 [!DNL Messaging preferences](으)로 변경했습니다. <!-- GS-5133 5134 -->
 
