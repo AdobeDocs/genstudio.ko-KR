@@ -2,9 +2,9 @@
 title: Adobe GenStudio for Performance Marketing Beta 릴리스 노트
 description: Adobe GenStudio for Performance Marketing의 최신 기능과 개선 사항에 대해 알아봅니다.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ca83beb4d6f5bd0d79a2da69658b6e18c3252f2e
+source-git-commit: f56f3733ead0bfcb4f37e10b66577e1ef597b76d
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '575'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,6 @@ ht-degree: 0%
 * 템플릿을 업로드할 수 있지만 볼 수 없습니다. **해결 방법**: **[!UICONTROL 캠페인]** 필드가 채워진 에셋을 업로드합니다. 그런 다음 템플릿을 다시 업로드합니다. <!-- GS-4815 5650-->
 
 * 사용자는 메타 광고의 크기를 조정한 후 수동으로 자를 수 없습니다. <!-- GS-5871 -->
-
-* 사용자는 [!DNL Content] 워크플로에서 새 [!DNL Campaign]을(를) 만들 수 있습니다. <!-- GS-5650 -->
 
 * facebook에 로그인할 때 채널 메타 광고 계정에 두 번 로그인해야 합니다. 해결 방법: 채널 메타 광고 계정에 로그인하기 전에 Facebook에서 로그아웃합니다. <!-- GS-3009 -->
 
@@ -68,7 +66,6 @@ ht-degree: 0%
 * 내보내기 후 메타 광고 생성 이미지의 이미지 렌더링을 수정했습니다. <!-- GS-5749 -->
 
 * 사용자가 C[!DNL Create] 캔버스에서 이메일 변형을 확대하거나 축소하면 DEU, FRA 및 ESP 로케일에서 `%` 기호가 올바르게 렌더링됩니다. <!-- GS-5007 -->
-
 
 #### 로컬라이제이션
 
