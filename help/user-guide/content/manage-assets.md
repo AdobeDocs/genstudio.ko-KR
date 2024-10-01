@@ -3,7 +3,7 @@ title: 에셋 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 에셋 및 경험 관리
 
-성능 마케터 [!DNL Content]을(를) 위한 Adobe GenStudio은 디지털 마케팅 여정에서 사용 및 재사용을 위해 브랜드 승인 에셋을 간편하게 관리하고 개선합니다.
+Adobe GenStudio for Performance Marketing [!DNL Content]은(는) 디지털 마케팅 여정에서 사용 및 재사용을 위해 브랜드 승인 에셋을 간편하게 관리하고 개선합니다.
 
 ## Assets 갤러리
 
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 ### Assets 위치
 
-기본적으로 [!DNL Create] 프로세스 또는 업로드를 통해 [!DNL Content]에 추가하는 자산은 `GenStudio assets` 저장소에 저장됩니다. `GenStudio assets` 저장소는 성능 마케터용 GenStudio의 읽기-쓰기 저장소입니다. 즉, `GenStudio assets` 저장소에서 에셋을 저장, 편집 및 삭제할 수 있습니다.
+기본적으로 [!DNL Create] 프로세스 또는 업로드를 통해 [!DNL Content]에 추가하는 자산은 `GenStudio assets` 저장소에 저장됩니다. `GenStudio assets` 리포지토리는 GenStudio for Performance Marketing의 읽기-쓰기 리포지토리입니다. 즉, `GenStudio assets` 저장소에서 에셋을 저장, 편집 및 삭제할 수 있습니다.
 
 오른쪽의 갤러리 위에 있는 **[!UICONTROL 위치]** 목록을 사용하면 연결된 Adobe Experience Manager(AEM) [!DNL Assets Content Hub] 리포지토리에서 선택할 수 있습니다. AEM 저장소를 선택하면 갤러리에 해당 저장소의 자산 인벤토리가 표시되므로 이러한 저장소에서 승인된 자산을 콘텐츠 작성 입력으로 활용할 수 있습니다. 필터 옵션이 [!DNL AEM Assets Content Hub]에 구성된 범주를 반영하도록 변경됩니다.
 
 AEM 저장소는 읽기 전용입니다. 즉, 초안, 새 에셋 또는 메타데이터를 AEM 저장소에 저장할 수 없습니다. 에셋, 경험 및 템플릿에 대한 모든 초안 및 최종 업데이트는 새 [시스템 메타데이터](asset-details.md#system-metadata)를 사용하여 `GenStudio assets` 저장소에 저장됩니다.
 
-성능 마케터를 위해 GenStudio에 [!DNL AEM Assets Content Hub] 저장소를 추가하는 방법에 대한 지침은 [AEM 저장소 연결](connect-aem-repo.md)을 참조하십시오.
+[!DNL AEM Assets Content Hub] 리포지토리를 GenStudio for Performance Marketing에 추가하는 방법에 대한 지침은 [AEM 리포지토리 연결](connect-aem-repo.md)을 참조하십시오.
 
 ## Assets 관리
 
@@ -52,7 +52,7 @@ AEM 저장소는 읽기 전용입니다. 즉, 초안, 새 에셋 또는 메타�
 
 1. 검색 기능을 향상시키려면 **추가 정보** 섹션에서 _브랜드 이름_, _가상 사용자_, _지역_ 및 _키워드_&#x200B;와 같은 선택적 세부 정보를 추가하십시오.
 
-   자세히 제공할수록 성능 마케터를 위한 GenStudio의 강력한 기능을 경험하게 됩니다. 목록에서 세부 정보를 하나 이상 선택하거나, 해당하는 경우 키워드 등과 같이 새 세부 정보를 입력합니다. 추가하는 각 세부 사항은 목록 아래에 표시됩니다. 세부 정보를 제거하려면 **`x`**&#x200B;을(를) 클릭하십시오.
+   자세히 제공할수록 GenStudio for Performance Marketing의 강력한 기능을 더 많이 경험하게 됩니다. 목록에서 세부 정보를 하나 이상 선택하거나, 해당하는 경우 키워드 등과 같이 새 세부 정보를 입력합니다. 추가하는 각 세부 사항은 목록 아래에 표시됩니다. 세부 정보를 제거하려면 **`x`**&#x200B;을(를) 클릭하십시오.
 
    추가하는 모든 세부 사항은 이 작업에 추가된 모든 자산에 적용됩니다.
 

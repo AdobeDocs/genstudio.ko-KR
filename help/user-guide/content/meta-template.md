@@ -1,27 +1,27 @@
 ---
-title: 성과 마케터를 위한 Adobe GenStudio을 위한 메타 광고 템플릿 준비
-description: 성능 마케터용 Adobe GenStudio을 위해 사용자 지정 메타 광고 템플릿을 구축하는 방법에 대해 알아봅니다.
+title: Adobe GenStudio for Performance Marketing용 메타 광고 템플릿 준비
+description: Adobe GenStudio for Performance Marketing용 사용자 지정 메타 광고 템플릿을 구축하는 방법에 대해 알아봅니다.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
+exl-id: e69039b0-272d-4f39-b0e4-916be710fd5f
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
 
 ---
 
+# Adobe GenStudio for Performance Marketing용 메타 광고 템플릿 준비
 
-# 성능 마케터를 위한 Adobe GenStudio을 위한 메타 광고 템플릿 준비
-
-메타 광고 템플릿 만들기에는 소셜 미디어에 맞춘 구조화된 접근 방식이 포함됩니다. 메타 광고 템플릿을 디자인하고 테스트한 후 GenStudio에서 성능 마케터용으로 업로드하고 사용할 수 있도록 준비할 수 있습니다.
+메타 광고 템플릿 만들기에는 소셜 미디어에 맞춘 구조화된 접근 방식이 포함됩니다. 메타 광고 템플릿을 디자인하고 테스트한 후 GenStudio for Performance Marketing에서 업로드하고 사용할 수 있도록 준비할 수 있습니다.
 
 ## 지침 추가
 
-메타 광고 템플릿을 준비하기 전에 성능 마케터용 GenStudio에 [지침](/help/user-guide/guidelines/overview.md)을(를) 추가하고 관련 브랜드에 대한 포괄적인 정보로 채워졌는지 확인하십시오. [브랜드 지침](/help/user-guide/guidelines/brands.md)은(는) 생성된 콘텐츠에 직접 영향을 줍니다.
+메타 광고 템플릿을 준비하기 전에 GenStudio for Performance Marketing에 [지침](/help/user-guide/guidelines/overview.md)을(를) 추가하고 관련 브랜드에 대한 포괄적인 정보로 채워졌는지 확인하십시오. [브랜드 지침](/help/user-guide/guidelines/brands.md)은(는) 생성된 콘텐츠에 직접 영향을 줍니다.
 
 **예**: 메타 광고 템플릿의 본문을 500자 이하로 유지하려면 &quot;본문&quot; 필드에 대한 [채널 지침](/help/user-guide/guidelines/brands.md#channel-guidelines)에 해당 요구 사항을 추가하십시오.
 
-성능 마케터용 GenStudio에 지침이 추가되지 않으면 기본값이 사용됩니다.
+GenStudio for Performance Marketing에 지침이 추가되지 않으면 기본값이 사용됩니다.
 
 ## 템플릿 디자인
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
 ### 광고 사양
 
-GenStudio for Performance Marketers는 메타 광고에 대해 다음과 같은 종횡비를 지원합니다.
+GenStudio for Performance Marketing은 메타 광고에 대해 다음과 같은 종횡비를 지원합니다.
 
 * 정사각형(1:1): 1080 x 1080픽셀
 * 세로(4:5): 1080 x 1350픽셀
 * 스토리(9:16): 1080 x 1920픽셀
 
-광고가 이러한 종횡비 중 하나로 디자인되지 않은 경우 GenStudio for Performance Marketers는 이미지를 적절한 크기로 자동으로 자릅니다.
+광고가 이러한 종횡비 중 하나로 디자인되지 않은 경우, GenStudio for Performance Marketing은 이미지를 적절한 크기로 자동으로 자릅니다.
 
 ## 메타 광고 템플릿 테스트
 
@@ -47,11 +47,11 @@ GenStudio for Performance Marketers는 메타 광고에 대해 다음과 같은 
 
 ## 생성된 콘텐츠 영역 정의
 
-이메일 템플릿에서 성능 마케터용 GenStudio의 콘텐츠로 동적으로 채워야 하는 영역을 정의합니다.
+이메일 템플릿에서 GenStudio for Performance Marketing의 콘텐츠로 동적으로 채워야 하는 영역을 정의합니다.
 
 생성된 콘텐츠 영역을 정의하려면
 
-* 헤드라인이나 CTA과 같이 GenStudio for Performance Marketters가 자동으로 생성해야 하는 템플릿의 텍스트 요소를 식별합니다.
+* 헤드라인이나 CTA과 같이 GenStudio for Performance Marketing이 자동으로 생성해야 하는 템플릿의 텍스트 요소를 식별합니다.
 * Handlebars 구문을 사용하여 자리 표시자를 삽입하여 HTML 템플릿을 조정합니다.
 
 [콘텐츠 자리 표시자](/help/user-guide/content/customize-template.md#content-placeholders)를 참조하십시오.
@@ -64,6 +64,6 @@ GenStudio for Performance Marketers는 메타 광고에 대해 다음과 같은 
 
 ## 템플릿 업로드 및 사용
 
-템플릿을 디자인하고 코딩하고 테스트하고 미리 본 후 새 마케팅 콘텐츠를 생성하는 데 사용할 수 있도록 성능 마케터용 GenStudio에 업로드하십시오.
+템플릿을 디자인하고 코딩하고 테스트하고 미리 본 후 GenStudio for Performance Marketing에 업로드하여 새 마케팅 콘텐츠를 생성하는 데 사용합니다.
 
 [템플릿 작업](use-templates.md)을 참조하세요.

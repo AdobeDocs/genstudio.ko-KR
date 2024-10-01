@@ -1,18 +1,18 @@
 ---
-title: AEM Assets Content Hub 저장소에 연결
-description: 성능 마케터용 GenStudio을 Adobe Experience Manager(AEM) Content Hub 저장소에 연결하고 기존의 승인된 콘텐츠를 활용하는 방법을 알아봅니다.
+title: " [!DNL AEM Assets Content Hub] 저장소에 연결"
+description: Adobe GenStudio for Performance Marketing을 AEM(Adobe Experience Manager) [!DNL Content Hub] 저장소에 연결하고 기존의 승인된 콘텐츠를 활용하는 방법을 알아봅니다.
 level: Experienced
 feature: Assets, Content
-source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
+source-git-commit: 0d8f04ab26e8d0dd533cfc4e388dd0b0a68adb3b
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
 # [!DNL AEM Assets Content Hub] 저장소에 연결
 
-Adobe Experience Manager(AEM)에 자산이 있는 경우 다음 단계에 따라 성능 마케터용 GenStudio에서 액세스할 수 있도록 할 수 있습니다.
+Adobe Experience Manager(AEM)에 자산이 있는 경우 다음 단계에 따라 GenStudio for Performance Marketing에서 액세스할 수 있도록 할 수 있습니다.
 
 >[!BEGINSHADEBOX]
 
@@ -37,7 +37,7 @@ Adobe Experience Manager(AEM)에 자산이 있는 경우 다음 단계에 따라
 
 ## 3단계: 에셋 승인
 
-[!DNL AEM Assets Content Hub]에서 사용할 자산을 승인하여 성능 마케터용 GenStudio에서 사용할 수 있도록 합니다. _AEM as a Cloud Service_ 설명서의 [Experience Manager에서 자산 승인](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets)을 참조하십시오.
+[!DNL AEM Assets Content Hub]에서 사용할 자산을 승인하면 GenStudio for Performance Marketing에서 사용할 수 있습니다. _AEM as a Cloud Service_ 설명서의 [Experience Manager에서 자산 승인](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/approve-assets)을 참조하십시오.
 
 ## 4단계: 자산 가시성 구성
 
@@ -45,4 +45,4 @@ _[!DNL AEM Assets Content Hub]_구성 옵션에서 필터, 자산 세부 사항,
 
 ## 5단계: 연결 확인
 
-GenStudio for Performance Marketers 콘텐츠에서 오른쪽의 갤러리 위에 _[!UICONTROL 위치]_ 목록을 사용할 수 있습니다. 액세스 권한이 없거나 조직이 [!DNL AEM Assets Content Hub] 리포지토리를 배포하고 연결하지 않은 경우 목록을 사용할 수 없습니다.
+GenStudio for Performance Marketing 콘텐츠에서 오른쪽에 있는 갤러리 위에 _[!UICONTROL 위치]_ 목록을 사용할 수 있습니다. 액세스 권한이 없거나 조직이 [!DNL AEM Assets Content Hub] 리포지토리를 배포하고 연결하지 않은 경우 목록을 사용할 수 없습니다.

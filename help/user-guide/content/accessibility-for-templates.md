@@ -1,9 +1,9 @@
 ---
 title: 액세스 가능한 템플릿 만들기
-description: 더 많은 대상자에게 도달하고 최적의 경험을 제공할 수 있는 성능 마케터를 위한 Adobe GenStudio 템플릿을 작성합니다.
+description: 더 많은 대상자에게 도달하고 최적의 경험을 제공할 수 있는 Adobe GenStudio for Performance Marketing의 템플릿을 작성합니다.
 feature: Templates, Content
 exl-id: eaaa5d9f-ad45-4fd0-826d-c250deb6d238
-source-git-commit: 088049a25635f5e9469c16c6ddfe9db86afdc143
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Adobe은 모든 대상자에게 최적의 경험을 제공하기 위해 최선을 다하고 있습니다. 자세한 내용은 [Adobe의 접근성 이니셔티브](https://www.adobe.com/trust/accessibility/initiatives.html)를 참조하십시오.
 
-GenStudio for Performance Marketers에서 다양한 경험에 대한 콘텐츠를 만들 수 있는 에셋과 템플릿을 업로드할 수 있습니다. 접근성 표준을 준수하면 콘텐츠가 의도한 최대 대상자에게 도달할 수 있습니다.
+GenStudio for Performance Marketing에서 다양한 경험을 위해 콘텐츠를 만들 수 있는 에셋과 템플릿을 업로드할 수 있습니다. 접근성 표준을 준수하면 콘텐츠가 의도한 최대 대상자에게 도달할 수 있습니다.
 
 최적의 접근성 표준을 사용하여 템플릿을 준비하려면 다음 권장 사항을 사용하십시오.
 

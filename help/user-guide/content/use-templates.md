@@ -1,18 +1,18 @@
 ---
 title: 템플릿 작업
-description: 템플릿을 효율적으로 사용하여 성과 마케터를 위한 Adobe GenStudio에서 크리에이티브 프로세스를 간소화하는 방법에 대해 알아봅니다.
+description: 템플릿을 효율적으로 사용하여 Adobe GenStudio for Performance Marketing에서 크리에이티브 프로세스를 간소화하는 방법에 대해 알아봅니다.
 feature: Templates, Content
-source-git-commit: 192568a65bbd5c8c2e9cfc050462eb2c3465245d
+exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 1%
 
 ---
 
-
 # 템플릿 작업
 
-GenStudio for Performance Marketters를 통해 콘텐츠 작성자는 _템플릿_&#x200B;을 사용하여 일관된 브랜드 내 마케팅 콘텐츠를 신속하게 만들 수 있습니다. 템플릿은 사전 구성된 레이아웃 및 디자인 요소를 포함하는 시작점을 제공하여 새 콘텐츠를 생성하는 데 필요한 시간과 노력을 크게 줄입니다.
+GenStudio for Performance Marketing을 사용하면 콘텐츠 작성자가 _템플릿_&#x200B;을 사용하여 일관된 브랜드 내 마케팅 콘텐츠를 신속하게 만들 수 있습니다. 템플릿은 사전 구성된 레이아웃 및 디자인 요소를 포함하는 시작점을 제공하여 새 콘텐츠를 생성하는 데 필요한 시간과 노력을 크게 줄입니다.
 
 ## 템플릿 요소
 
@@ -71,17 +71,17 @@ GenStudio for Performance Marketters를 통해 콘텐츠 작성자는 _템플릿
 
 >[!TIP]
 >
->각 채널 유형의 템플릿에 대해 GenStudio for Performance Marketers가 지원하는 [인식된 필드 이름](customize-template.md#recognized-field-names)을(를) 참조하십시오.
+>각 채널 유형의 템플릿에 대해 GenStudio for Performance Marketing에서 지원하는 [인식된 필드 이름](customize-template.md#recognized-field-names)을(를) 참조하십시오.
 
 ## 채널 지침 구성
 
-성능 마케터용 GenStudio에서 템플릿을 사용하기 전에 각 브랜드에 대해 [채널 지침](../guidelines/brands.md#channel-guidelines)을 구성하는 것이 좋습니다. 채널 지침은 템플릿을 사용할 때 생성되는 콘텐츠 유형에 직접 영향을 줍니다. 예를 들어 전자 메일 본문에 문자 제한을 설정할 수 있습니다.
+GenStudio for Performance Marketing에서 템플릿을 사용하기 전에 각 브랜드에 대해 [채널 지침](../guidelines/brands.md#channel-guidelines)을 구성하는 것이 좋습니다. 채널 지침은 템플릿을 사용할 때 생성되는 콘텐츠 유형에 직접 영향을 줍니다. 예를 들어 전자 메일 본문에 문자 제한을 설정할 수 있습니다.
 
 ![본문 사양](/help/assets/channel-email-body.png)
 
 ## 템플릿 맞춤화
 
-생성 AI가 콘텐츠를 삽입하는 데 사용하는 콘텐츠 자리 표시자 또는 필드를 삽입하여 성능 마케터용 GenStudio에서 사용할 수 있도록 [템플릿을 사용자 지정](customize-template.md)합니다. 성능 마케터용 GenStudio은 `body` 필드와 같은 특정 필드를 인식하고 선택한 브랜드에 대해 구성된 채널 지침을 준수합니다.
+생성 AI가 콘텐츠를 삽입하는 데 사용하는 콘텐츠 자리 표시자 또는 필드를 삽입하여 GenStudio for Performance Marketing에서 사용할 [템플릿을 사용자 지정](customize-template.md)합니다. GenStudio for Performance Marketing은 `body` 필드와 같은 특정 필드를 인식하고 선택한 브랜드에 대해 구성된 채널 지침을 준수합니다.
 
 >[!TIP]
 >
@@ -89,7 +89,7 @@ GenStudio for Performance Marketters를 통해 콘텐츠 작성자는 _템플릿
 
 ## 템플릿 업로드
 
-성능 마케터용 GenStudio의 템플릿을 준비할 때는 [템플릿 사용자 지정](customize-template.md)을(를) 안내서로 사용하십시오. 모든 대상자에게 더 나은 환경을 제공하는 방법에 대한 지침은 [템플릿에 대한 액세스 가능성 지침](accessibility-for-templates.md)을 참조하세요.
+GenStudio for Performance Marketing용 템플릿을 준비할 때 [템플릿 사용자 지정](customize-template.md)을(를) 안내서로 사용하십시오. 모든 대상자에게 더 나은 환경을 제공하는 방법에 대한 지침은 [템플릿에 대한 액세스 가능성 지침](accessibility-for-templates.md)을 참조하세요.
 
 **템플릿을 추가하려면**:
 
@@ -122,7 +122,7 @@ GenStudio for Performance Marketters를 통해 콘텐츠 작성자는 _템플릿
 
 ## 템플릿을 사용하여 만들기
 
-GenStudio for Performance Marketters에서 기존 템플릿을 찾아 사용하여 더 많은 경험을 만들 수 있습니다.
+GenStudio for Performance Marketing에서 기존 템플릿을 찾아 사용하여 더 많은 경험을 만듭니다.
 
 **템플릿을 사용하여 환경을 만들려면**:
 

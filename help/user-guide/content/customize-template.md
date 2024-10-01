@@ -1,10 +1,10 @@
 ---
 title: 템플릿 사용자 정의
-description: 성과 마케터를 위한 Adobe GenStudio을 위해 템플릿을 개인화하고 최적화하는 방법을 알아봅니다.
+description: Adobe GenStudio for Performance Marketing용 템플릿을 개인화하고 최적화하는 방법을 알아봅니다.
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 8ea0c17b60b18928540070448ad1ce0206208b00
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # 템플릿 사용자 정의
 
-_Handlebars_ 템플릿 언어를 사용하여 성능 마케터의 Adobe GenStudio에 맞게 HTML 템플릿을 조정하십시오. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은 _Handlebars 언어 안내서_&#x200B;의 [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars)을(를) 참조하십시오.
+_Handlebars_ 템플릿 언어를 사용하여 Adobe GenStudio for Performance Marketing에 대한 HTML 템플릿을 조정하십시오. [!DNL Handlebars] 구문은 중괄호가 있는 일반 텍스트를 콘텐츠 자리 표시자로 사용합니다. 템플릿을 준비하는 방법은 _Handlebars 언어 안내서_&#x200B;의 [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars)을(를) 참조하십시오.
 
-다음 몇 섹션에서는 콘텐츠 자리 표시자를 추가하고, 미리 보기에서 불필요한 요소를 숨기고, 정적 콘텐츠로 연결되는 링크를 관리하는 방법을 설명합니다. 템플릿이 준비되면 [성능 마케터용 GenStudio에 업로드](use-templates.md#upload-a-template)하고 사용자 지정 템플릿을 기반으로 개인화된 이메일을 생성할 수 있습니다.
+다음 몇 섹션에서는 콘텐츠 자리 표시자를 추가하고, 미리 보기에서 불필요한 요소를 숨기고, 정적 콘텐츠로 연결되는 링크를 관리하는 방법을 설명합니다. 템플릿이 준비되면 [GenStudio for Performance Marketing에 업로드](use-templates.md#upload-a-template)하고 사용자 지정 템플릿을 기반으로 개인화된 이메일을 생성할 수 있습니다.
 
 ## 콘텐츠 자리 표시자
 
-성능 마케터용 GenStudio은 템플릿 내의 특정 [요소](use-templates.md#template-elements)를 인식하지만, 인식된 필드 이름으로 식별하는 경우에만 인식됩니다.
+GenStudio for Performance Marketing은 템플릿 내의 특정 [요소](use-templates.md#template-elements)를 인식하지만, 인식된 필드 이름으로 식별하는 경우에만 인식합니다.
 
-템플릿의 헤드 또는 본문 내에서 [!DNL Handlebars] 구문을 성능 마케터용 GenStudio에서 실제 콘텐츠로 템플릿을 채워야 하는 콘텐츠 자리 표시자로 사용할 수 있습니다. GenStudio for Performance Marketters는 [인식된 _필드_ 이름](#recognized-field-names)을(를) 기반으로 콘텐츠 자리 표시자를 인식하고 해석합니다.
+템플릿의 헤드 또는 본문 내에서 [!DNL Handlebars] 구문을 GenStudio for Performance Marketing에서 실제 콘텐츠로 템플릿을 채우도록 하는 콘텐츠 자리 표시자로 사용할 수 있습니다. GenStudio for Performance Marketing은 [인식된 _필드_ 이름](#recognized-field-names)을(를) 기반으로 콘텐츠 자리 표시자를 인식하고 해석합니다.
 
 예를 들어 [!DNL Handlebars] 구문과 함께 `{{ headline }}`을(를) 사용하여 전자 메일의 제목을 배치할 위치를 나타낼 수 있습니다.
 
@@ -31,7 +31,7 @@ _Handlebars_ 템플릿 언어를 사용하여 성능 마케터의 Adobe GenStudi
 
 ### 인식된 필드 이름
 
-다음 표에는 템플릿에 모집단을 지정하기 위해 GenStudio for Performance Marketers에서 인식하는 필드 이름이 나열되어 있습니다. 콘텐츠를 생성하려면 성능 마케터용 GenStudio이 필요한 템플릿에 [!DNL Handlebars] 구문을 사용하여 이러한 필드 이름을 추가하십시오.
+다음 표에는 템플릿으로의 채우기에 대해 GenStudio for Performance Marketing에서 인식하는 필드 이름이 나열되어 있습니다. [!DNL Handlebars] 구문을 사용하여 이 필드 이름을 템플릿에 추가하십시오. 여기서 콘텐츠를 생성하는 GenStudio for Performance Marketing이 필요합니다.
 
 | 필드 | 역할 | 채널 템플릿 |
 | -------------- | ---------------------- | ------------------------------ |
@@ -43,7 +43,7 @@ _Handlebars_ 템플릿 언어를 사용하여 성능 마케터의 Adobe GenStudi
 | `image` | 이미지 | 전자 메일 <br>메타 광고 |
 | `brand_logo` | 선택한 브랜드의 로고<br>권장 사용 방법은 [브랜드 로고 필드 이름](#brand-logo-field-name)을 참조하세요. | 이메일<br>메타데이터 |
 
-성능 마케터용 GenStudio은 다음 템플릿에서 특정 필드를 자동으로 채웁니다.
+GenStudio for Performance Marketing은 다음 템플릿에서 특정 필드를 자동으로 채웁니다.
 
 - **전자 메일 템플릿**&#x200B;에서는 `subject` 필드를 식별할 필요가 없습니다.
 - **메타 광고 템플릿**&#x200B;에서는 `headline`, `body` 및 `CTA` 필드를 식별할 필요가 없습니다.
@@ -56,11 +56,11 @@ _Handlebars_ 템플릿 언어를 사용하여 성능 마케터의 Adobe GenStudi
 >
 >instagram 광고의 경우 생성된 헤드라인은 최종 경험에 표시되지 않습니다.
 
-성능 마케터용 GenStudio에 템플릿을 업로드할 때에는 20개의 필드 제한이 있습니다. `subject` 필드는 전자 메일에서 자동으로 생성되므로 하나의 필드로 계산됩니다. 즉, 이메일 템플릿에는 19개의 필드가 허용됩니다.
+GenStudio for Performance Marketing에 템플릿을 업로드할 때에는 20개의 필드 제한이 있습니다. `subject` 필드는 전자 메일에서 자동으로 생성되므로 하나의 필드로 계산됩니다. 즉, 이메일 템플릿에는 19개의 필드가 허용됩니다.
 
 >[!TIP]
 >
->성능 마케터용 GenStudio에서 [템플릿 미리 보기](#template-preview)를 사용하여 템플릿을 확인할 수 있습니다.
+>GenStudio for Performance Marketing에서 [템플릿 미리 보기](#template-preview)를 사용하여 템플릿을 확인할 수 있습니다.
 
 #### 브랜드 로고 필드 이름
 
@@ -94,7 +94,7 @@ _Handlebars_ 템플릿 언어를 사용하여 성능 마케터의 Adobe GenStudi
 
 ### 섹션 또는 그룹
 
-_섹션_ GenStudio for Performance Marketers에게 이 섹션의 필드에 높은 수준의 일관성이 필요하다는 것을 알립니다. 이러한 관계를 구축하면 AI가 섹션의 크리에이티브 요소와 일치하는 콘텐츠를 생성할 수 있습니다.
+_섹션_&#x200B;은(는) 이 섹션의 필드에 높은 수준의 일관성이 필요하다는 것을 GenStudio for Performance Marketing에 알립니다. 이러한 관계를 구축하면 AI가 섹션의 크리에이티브 요소와 일치하는 콘텐츠를 생성할 수 있습니다.
 
 필드 이름에 선택한 접두사를 사용하여 필드가 섹션 또는 그룹의 일부임을 나타냅니다. 예를 들어 강조 표시된 영역에 나타나는 컨텐츠를 강조표시할 수 있습니다.
 
@@ -112,11 +112,11 @@ _섹션_ GenStudio for Performance Marketers에게 이 섹션의 필드에 높�
 - `pod2_headline`
 - `pod2_body`
 
-성능 마케터용 GenStudio은 `pod1_headline`이(가) `pod2_body`보다 `pod1_body`과(와) 더 밀접하게 관련되어 있음을 이해합니다.
+GenStudio for Performance Marketing은 `pod1_headline`이(가) `pod2_body`보다 `pod1_body`과(와) 더 밀접하게 관련되어 있음을 이해합니다.
 
 ## 템플릿 미리 보기
 
-[템플릿을 업로드](use-templates.md#upload-a-template)하면 GenStudio for Performance Marketters가 HTML 파일에서 인식된 필드를 검색합니다. 미리 보기를 사용하여 [템플릿 요소](use-templates.md#template-elements)를 검토하고 [인식된 필드 이름](#recognized-field-names)으로 해당 요소를 올바르게 식별했는지 확인하십시오.
+[템플릿을 업로드](use-templates.md#upload-a-template)하면 GenStudio for Performance Marketing에서 HTML 파일에서 인식된 필드가 검색됩니다. 미리 보기를 사용하여 [템플릿 요소](use-templates.md#template-elements)를 검토하고 [인식된 필드 이름](#recognized-field-names)으로 해당 요소를 올바르게 식별했는지 확인하십시오.
 
 이메일 템플릿에 대한 미리 보기 예:
 
@@ -134,7 +134,7 @@ _섹션_ GenStudio for Performance Marketers에게 이 섹션의 필드에 높�
 {{/if}}
 ```
 
-다른 예는 성능 마케터용 GenStudio에서 템플릿을 미리 볼 때 추적 코드를 사용하지 못하도록 하는 것입니다. 다음 예제는 미리 보기 링크를 깔끔하게 유지하면서 내보낸 템플릿의 링크에 추적 매개 변수를 추가하는 방법을 보여 줍니다.
+또 다른 예는 GenStudio for Performance Marketing에서 템플릿을 미리 볼 때 추적 코드를 사용하지 못하도록 하는 것일 수 있다. 다음 예제는 미리 보기 링크를 깔끔하게 유지하면서 내보낸 템플릿의 링크에 추적 매개 변수를 추가하는 방법을 보여 줍니다.
 
 ```handlebars
 <a class="button" {{#if _genStudio.browser }}
@@ -145,11 +145,11 @@ _섹션_ GenStudio for Performance Marketers에게 이 섹션의 필드에 높�
 
 ## 정적 콘텐츠
 
-이메일 및 메타 템플릿은 종종 성능 마케터용 GenStudio 외부에서 호스팅되는 이미지 및 CSS 파일에 연결됩니다. 성능 마케터용 GenStudio은 이러한 템플릿 또는 템플릿에서 파생된 경험에 대한 썸네일을 생성할 때 올바른 CORS(원본 간 리소스 공유) 헤더가 없으면 이러한 외부 리소스를 무시할 수 있습니다.
+이메일 및 메타 템플릿은 종종 GenStudio for Performance Marketing 외부에서 호스팅되는 이미지 및 CSS 파일에 연결됩니다. GenStudio for Performance Marketing은 이러한 템플릿 또는 템플릿에서 파생된 경험에 대한 썸네일을 생성할 때 올바른 CORS(원본 간 리소스 공유) 헤더가 없으면 이러한 외부 리소스를 무시할 수 있습니다.
 
 썸네일 생성 프로세스 중에 이러한 리소스를 사용할 수 있도록 하려면 다음 두 가지 옵션을 고려하십시오.
 
-1. **CORS 헤더 사용**: 호스트 서버는 프로덕션 환경에 대해 `Access-Control-Allow-Origin` 헤더가 `https://experience.adobe.com` 값으로 설정된 응답을 보내야 합니다. 이 방법을 사용하면 성능 마케터용 GenStudio에서 리소스에 액세스하고 리소스를 포함할 수 있습니다.
+1. **CORS 헤더 사용**: 호스트 서버는 프로덕션 환경에 대해 `Access-Control-Allow-Origin` 헤더가 `https://experience.adobe.com` 값으로 설정된 응답을 보내야 합니다. 이 방법을 사용하면 GenStudio for Performance Marketing에서 리소스에 액세스하고 리소스를 포함할 수 있습니다.
 
 1. **데이터 URL 사용**: 데이터 URL을 사용하여 외부 리소스를 템플릿에 직접 포함합니다. 이 메서드는 CORS 제한을 무시하고 썸네일 생성 중에 리소스를 사용할 수 있도록 합니다.
 
@@ -157,7 +157,7 @@ _섹션_ GenStudio for Performance Marketers에게 이 섹션의 필드에 높�
 
 +++예: 한 개의 섹션이 있는 이메일 템플릿
 
-다음은 하나의 섹션을 포함하는 이메일에 대한 HTML 템플릿의 기본 예입니다. 헤드에는 스타일링을 위한 간단한 인라인 CSS가 포함되어 있습니다. 본문에는 성능 마케터용 GenStudio에서 전자 메일 생성 프로세스 중에 콘텐츠를 삽입하는 데 사용할 `pre-header`, `headline` 및 `image` [자리 표시자](#content-placeholders)가 포함되어 있습니다.
+다음은 하나의 섹션을 포함하는 이메일에 대한 HTML 템플릿의 기본 예입니다. 헤드에는 스타일링을 위한 간단한 인라인 CSS가 포함되어 있습니다. 본문에는 전자 메일 생성 프로세스 중에 GenStudio for Performance Marketing에서 콘텐츠를 삽입하는 데 사용할 `pre-header`, `headline` 및 `image` [자리 표시자](#content-placeholders)가 포함되어 있습니다.
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
