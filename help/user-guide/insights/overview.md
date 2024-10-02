@@ -3,16 +3,16 @@ title: ' [!DNL Insights] 개요'
 description: 실시간 콘텐츠 성능 지표를 기반으로 경험을 최적화하는 방법을 알아봅니다.
 feature: Attributes, Insights, Experiences, Assets, Channels
 exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
-source-git-commit: a531ef2a7869a3f8e19fccd17b7acda54a767f6b
+source-git-commit: 723b1f826fe5ceefcf9c1beff09af9b3d56462c5
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
 
-# 성능 마케터 [!DNL Insights]에 대한 Adobe GenStudio
+# Adobe GenStudio for Performance Marketing [!DNL Insights]
 
-성능 마케터 Adobe GenStudio [!DNL Insights]은(는) 데이터 중심의 의사 결정을 내리는 데 도움이 되는 콘텐츠 성능에 대한 고급 분석 및 통찰력을 제공합니다.
+Adobe GenStudio for Performance Marketing [!DNL Insights]은(는) 데이터 기반 결정을 내리는 데 도움이 되는 콘텐츠 성능에 대한 고급 분석 및 통찰력을 제공합니다.
 
 [!DNL Insights] 대시보드에서 다음을 수행할 수 있습니다.
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->성능 마케터용 GenStudio에서 현재 마케팅 캠페인, 자산 및 경험으로부터 데이터를 받을 수 있도록 하는 단계는 [채널 계정 연결](connect-channel.md)을 참조하십시오.
+>GenStudio for Performance Marketing에서 현재 마케팅 캠페인, 에셋 및 경험으로부터 데이터를 받을 수 있도록 하는 단계는 [채널 계정 연결](connect-channel.md)을 참조하십시오.
 
 ## 대시보드
 
@@ -31,8 +31,6 @@ ht-degree: 0%
 ![[!DNL Insights] 대시보드](/help/assets/insights-dashboard.png)
 
 각 보기에는 키워드, 필터링 및 날짜 범위별로 검색할 수 있는 해당 테이블이 표시됩니다. 표 오른쪽 위의 설정(cog) 아이콘을 클릭하여 볼 수 있는 열 유형을 전환할 수 있습니다. _[!UICONTROL 요약]_ 행은 열의 합계 또는 평균을 표시할 수 있습니다.
-
-테이블의 각 열 유형에 대한 설명은 [데이터 열  [!DNL Insights]](data-columns.md)을(를) 참조하십시오.
 
 [!UICONTROL 경험], [!UICONTROL Assets] 및 [!UICONTROL 특성]에는 이미지 또는 비디오 썸네일이 있는 카드를 사용하여 자산을 검색하고 정렬할 수 있는 갤러리 보기가 포함되어 있습니다. 각 카드에 세 개의 주요 지표 중 하나를 표시할 수 있는 옵션이 있습니다. `Click-through rate`, `Cost per click` 및 `Spend`.
 
@@ -50,7 +48,7 @@ ht-degree: 0%
 
 에셋을 클릭하면 다른 경험에서 에셋의 성능에 대한 추가 컨텍스트를 제공합니다.
 
-![자산 보기](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
+![자산 세부 정보](/help/assets/insights-asset-details.png){width="600" zoomable="yes"}
 
 에셋 보기의 왼쪽에는 에셋의 썸네일과 속성 목록이 표시됩니다. 강조 표시된 지표가 세 개 있습니다. `Click-through rate`, `Cost per click` 및 `Spend`. 성능 강조 표시는 선택한 기간(기본값: `Last 30 days`) 동안 실제 값(실선)과 평균 값(점선)을 비교하는 방법을 보여줍니다.
 

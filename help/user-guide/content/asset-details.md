@@ -3,9 +3,9 @@ title: 자산 세부 사항
 description: Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 위해 승인된 컨텐츠를 풍부한 메타데이터와 함께 저장합니다.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 0d8f04ab26e8d0dd533cfc4e388dd0b0a68adb3b
+source-git-commit: 059b464cb2a7b57557407bbaee6162b770107222
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,9 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 ### 생성된 태그
 
-승인된 에셋을 [!DNL Content]에 저장하면 GenStudio for Performance Marketing에서 Adobe의 AI 및 머신 러닝 기능을 사용하여 에셋을 학습하고 에셋 기능을 기반으로 태그를 적용합니다. 예를 들어, 고양이 그림으로 인해 `pet photography` 또는 `cat`과(와) 같은 스마트 태그와 그림에서 지배적인 색상을 식별하는 색상 태그가 발생할 수 있습니다. 태그를 편집할 수 없습니다.
+승인된 에셋을 [!DNL Content]에 저장하면 GenStudio for Performance Marketing에서 Adobe의 AI 및 머신 러닝 기능을 사용하여 에셋을 학습하고 에셋 기능을 기반으로 태그를 적용합니다. 예를 들어, 고양이 그림으로 인해 `pet photography` 또는 `cat`과(와) 같은 속성 태그와 그림에서 지배적인 색상을 식별하는 색상 태그가 발생할 수 있습니다. 태그를 편집할 수 없습니다.
+
+[인사이트 특성](/help/user-guide/insights/attributes.md)을 참조하세요.
 
 ### 생성된 컨텐츠 메타데이터
 
