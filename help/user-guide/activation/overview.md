@@ -3,7 +3,7 @@ title: 활성화 개요
 description: Adobe Experience Cloud 및 서드파티 애플리케이션을 사용하여 콘텐츠를 활성화하는 방법을 알아봅니다.
 feature: Assets, Approval, Experiences
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
-source-git-commit: b1550c4b1f624287e432bf7b610f9d31892b13c0
+source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 _활성화_&#x200B;는 선택한 채널 및 Adobe Experience Cloud 제품을 통해 Adobe GenStudio for Performance Marketing에서 생성한 에셋 및 경험을 게재할 수 있도록 하는 프로세스입니다. GenStudio for Performance Marketing에서 승인된 콘텐츠를 [!DNL Products]에 포함한 타사 애플리케이션에 최적의 형식으로 쉽게 내보낼 수 있습니다.
 
-성능 마케터용 GenStudio 활성화 기능은 기본적으로 Adobe의 경험 전달 제품인 Journey Optimizer, Journey Optimizer B2B 에디션, Experience Manager, Marketo 및 Target에 통합되어 있습니다.
+GenStudio for Performance Marketing 활성화 기능은 기본적으로 Adobe의 경험 전달 제품인 Journey Optimizer, Journey Optimizer B2B 에디션, Experience Manager, Marketo 및 Target에 통합되어 있습니다.
 
 **승인된 에셋을 활성화하려면**:
 

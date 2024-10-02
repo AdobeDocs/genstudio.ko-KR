@@ -1,12 +1,12 @@
 ---
 user-guide-title: 성과 마케팅 튜토리얼 Adobe GenStudio
 breadcrumb-title: 튜토리얼
-user-guide-description: 생성 AI 및 지능형 자동화를 통해 콘텐츠 공급망을 가속화하고 간소화하는 엔드투엔드 솔루션인 GenStudio for Performance Marketing에 대한 튜토리얼을 확인하십시오.
+user-guide-description: GenStudio for Performance Marketing 튜토리얼을 따라 이메일 경험 만들기와 같은 전체적인 프로세스를 완료하는 방법을 알아봅니다.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
+source-git-commit: 1b0121a7006799cc5b2c2168fcb55a9a5ac10601
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '54'
 ht-degree: 1%
 
 ---

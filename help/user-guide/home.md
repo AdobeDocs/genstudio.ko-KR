@@ -1,24 +1,19 @@
 ---
 title: Adobe GenStudio 사용 안내서
-description: 엔터프라이즈 가드레일 및 거버넌스를 통해 브랜드 내 콘텐츠에 셀프서비스 방식으로 액세스하여 높은 성과를 거둘 수 있도록 하는 Adobe의 AI 우선 애플리케이션인 GenStudio for Performance Marketers를 통해 마케터와 수퍼차지 크리에이티브를 수행할 수 있습니다.
+description: Adobe GenStudio for Performance Marketing의 기능을 살펴보십시오. 온브랜드 에셋을 빠르게 만들고, 변형을 생성하고, 경험을 최적화하는 방법을 알아봅니다.
 exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
-source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
+source-git-commit: 845cf9321c92598f42a92e89cb6331a8b122a894
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 1%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 
-# 성능 마케터용 Adobe GenStudio 사용 안내서
+# Adobe GenStudio for Performance Marketing 사용 안내서
 
-성능 마케터용 Adobe GenStudio 는 브랜드 표준을 준수하고 엔터프라이즈 정책을 준수하는 마케팅 콘텐츠를 생성하고 관리할 수 있는 AI 기반 플랫폼입니다.
+Adobe GenStudio for Performance Marketing은 브랜드 표준을 준수하고 엔터프라이즈 정책을 준수하는 마케팅 콘텐츠를 생성하고 관리할 수 있는 AI 기반 플랫폼입니다.
 
-GenStudio for Performance Marketters는 Adobe AI 기술을 활용하여 크리에이티브가 혁신에 집중할 수 있도록 컨텐츠 생성 및 관리의 복잡성을 간소화하는 포괄적인 도구 모음을 제공합니다.
-
-## 새로운 기능
-
-- [[!DNL Insights Channels]](insights/channels.md) —마케팅 캠페인에 대한 고객 참여, 성과, 예산 및 지출에 대한 새로운 개요.
-- [[!DNL Insights Experiences]](insights/experiences.md) —경험 및 광고 성능과 관련된 통찰력에 대한 새로운 개요.
+GenStudio for Performance Marketing은 Adobe AI 기술을 활용하여 크리에이티브가 혁신에 집중할 수 있도록 컨텐츠 생성 및 관리의 복잡성을 간소화하는 포괄적인 도구 모음을 제공합니다.
 
 ## 기능 살펴보기
 
@@ -103,7 +98,7 @@ GenStudio for Performance Marketters는 Adobe AI 기술을 활용하여 크리�
       </a>
    </div>
    <p>
-      <em>성과 마케터를 위해 GenStudio에 브랜드, 제품 및 가상 사용자를 추가하는 방법에 대해 알아봅니다.</em>
+      <em>GenStudio for Performance Marketing에 지침(브랜드, 제품 및 가상 사용자)을 추가하는 방법을 알아봅니다.</em>
    </p>
 </td>
 <td valign="top">

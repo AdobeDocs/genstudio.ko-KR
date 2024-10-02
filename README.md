@@ -1,13 +1,13 @@
 ---
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 2bc505acc561e60ee2af928adf53c9193677c3f5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 36%
 
 ---
-# 성능 마케터용 GenStudio 설명서
+# GenStudio for Performance Marketing 설명서
 
-이 사이트에는 성능 마케터용 GenStudio 제품에 대한 최신 설명서가 포함되어 있습니다.
+이 사이트에는 GenStudio for Performance Marketing 제품에 대한 최신 설명서가 포함되어 있습니다.
 
 ## Adobe 오픈 소스 행동 수칙
 

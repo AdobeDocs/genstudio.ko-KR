@@ -1,20 +1,20 @@
 ---
-title: 성능 마케터 개념에 대한 Adobe GenStudio
-description: 성능 마케터 개념 및 용어에 대한 Adobe GenStudio에 대해 알아봅니다.
+title: Adobe GenStudio for Performance Marketing 개념
+description: Adobe GenStudio for Performance Marketing 개념 및 용어를 알아봅니다.
 feature: Workflow, Generative AI
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
+source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
-
 # 개념
 
-GenStudio for Performance Marketers는 Adobe의 컨텐츠 공급망을 구현하여 마케팅 캠페인을 간소화하는 독립 실행형 엔터프라이즈 제품입니다. 규모에 맞게 개인화되고 브랜드 승인을 받은 콘텐츠를 구축하고, 효과를 모니터링하며, 끊임없이 변화하는 시장에 신속하게 적응하는 것은 어려운 일입니다. GenStudio for Performance Marketters는 엔터프라이즈 마케팅 팀의 성능 승수로 생성 AI를 활용하는 하나의 애플리케이션에 Creative Cloud과 Experience Cloud을 통합합니다.
+GenStudio for Performance Marketing은 Adobe의 콘텐츠 공급망을 구현하여 마케팅 캠페인을 간소화하는 독립 실행형 엔터프라이즈 제품입니다. 규모에 맞게 개인화되고 브랜드 승인을 받은 콘텐츠를 구축하고, 효과를 모니터링하며, 끊임없이 변화하는 시장에 신속하게 적응하는 것은 어려운 일입니다. GenStudio for Performance Marketing은 엔터프라이즈 마케팅 팀의 성능 승수로 생성 AI를 활용하는 하나의 애플리케이션에 Creative Cloud과 Experience Cloud을 통합합니다.
 
-GenStudio for Performance Marketers를 통해 다음과 같은 작업을 수행할 수 있습니다.
+GenStudio for Performance Marketing을 사용하여 다음과 같은 작업을 수행할 수 있습니다.
 
 - 자연어 프롬프트를 사용하여 온브랜드 콘텐츠 만들기
 - 관련자와 협력하여 생성된 콘텐츠 검토 및 승인
@@ -23,13 +23,13 @@ GenStudio for Performance Marketers를 통해 다음과 같은 작업을 수행�
 
 ## 생성 AI 기술
 
-GenStudio for Performance Marketters는 생성 AI의 기능을 활용하여 콘텐츠 생성 프로세스를 가속화하고 고품질의 콘텐츠 생성을 보장합니다. 크리에이티브 에셋의 라이프사이클이 반복되면 타겟 대상자에게 반향을 불러일으키는 정확도와 브랜드 중심 콘텐츠가 점점 더 많아집니다.
+GenStudio for Performance Marketing은 생성 AI의 기능을 활용하여 콘텐츠 생성 프로세스를 가속화하고 고품질의 콘텐츠 생성을 보장합니다. 크리에이티브 에셋의 라이프사이클이 반복되면 타겟 대상자에게 반향을 불러일으키는 정확도와 브랜드 중심 콘텐츠가 점점 더 많아집니다.
 
-강력한 브랜드 가이드라인 기능을 통해 조직의 브랜드, 고객 담당자 및 제품 설명에 대해 성과 마케터를 위한 GenStudio을 효과적으로 교육합니다. 이러한 지침을 준비하고 업로드하는 방법에 대해 알아보려면 [지침 개요](../user-guide/guidelines/overview.md)를 참조하세요.
+먼저 강력한 브랜드 가이드라인 기능을 통해 GenStudio for Performance Marketing을 조직의 브랜드, 고객 담당자 및 제품 설명에 대해 효과적으로 교육합니다. 이러한 지침을 준비하고 업로드하는 방법에 대해 알아보려면 [지침 개요](../user-guide/guidelines/overview.md)를 참조하세요.
 
 ## 콘텐츠 라이프사이클
 
-더 빠른 속도로 여러 채널에서 고품질 경험을 구축하려는 수요가 높습니다. GenStudio for Performance Marketers는 콘텐츠 공급망을 마케터를 위한 잘 구성된 워크플로우로 간소화합니다. GenStudio for Performance Marketters는 수명주기의 각 단계에서 Adobe 기술을 활용합니다.
+더 빠른 속도로 여러 채널에서 고품질 경험을 구축하려는 수요가 높습니다. GenStudio for Performance Marketing은 콘텐츠 공급망을 마케터를 위해 잘 구성된 워크플로우로 간소화합니다. GenStudio for Performance Marketing은 라이프사이클의 각 단계에서 Adobe 기술을 활용합니다.
 
 <table style="table-layout:fixed">
 <tr style="border: 0;">
