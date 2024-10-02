@@ -3,9 +3,9 @@ title: 에셋 및 경험 관리
 description: 디지털 마케팅 여정에서 사용하고 재사용하기 위해 브랜드 승인을 받은 에셋의 관리를 간소화하고 강화합니다.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
+source-git-commit: af20efaa511ed403f5160956ff98b42beb64bb34
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -59,18 +59,22 @@ AEM 저장소는 읽기 전용입니다. 즉, 초안, 새 에셋 또는 메타�
    [메타데이터 세부 정보](/help/user-guide/content/asset-details.md#system-metadata)를 참조하세요.
 
 1. **[!UICONTROL 자산 추가]**&#x200B;를 클릭합니다.
+
 1. 에셋 업로드가 완료되면 **완료**&#x200B;를 클릭하세요.
+
 1. 새로 업로드한 자산을 보려면 캔버스 하단의 _사용 가능한 새 자산_ 알림에서 **[!UICONTROL 새로 고침]**&#x200B;을 클릭하세요.
 
 <!-- 
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-### 자산 검색
+### 콘텐츠 검색
 
-[!DNL Content] 검색 인터페이스는 빠르고 반응적이며 생산적인 검색 우선 환경을 제공합니다.
+필터 및 검색 인터페이스는 빠르고 반응적이며 생산적인 검색 우선 경험을 제공합니다. 각 [!DNL Content] 보기는 이상적인 자산, 경험 또는 템플릿에 대한 검색 범위를 좁히는 필터 옵션을 제공합니다. 에셋 및 경험의 경우 캠페인과 특정 지침(예: 특정 제품에 대해 만들어진 콘텐츠)을 선택할 수 있습니다.
 
-필터를 적용하고 에셋 세부 정보의 메타데이터 태그를 사용하여 검색 결과의 범위를 좁힙니다. 예를 들어, 캠페인에 대한 새로운 경험을 구축하는 데 도움이 되는 특정 파일 유형 또는 제목의 자산을 찾을 수 있습니다.
+검색 결과 범위를 좁히기 위해 [키워드](asset-details.md#user-defined-metadata) 및 [특성](/help/user-guide/insights/attributes.md)을 기반으로 하는 필터가 있습니다. 예를 들어, 캠페인에 대한 새로운 경험을 구축하는 데 도움이 되는 특정 파일 유형 또는 제목의 자산을 찾을 수 있습니다.
+
+_경험_&#x200B;을(를) 검색할 때 **[!UICONTROL 작성자]** 필터를 사용하여 사용자 또는 특정 사용자가 만든 경험만 표시하도록 목록을 제한할 수 있습니다.
 
 **재사용할 콘텐츠를 검색하려면**:
 
