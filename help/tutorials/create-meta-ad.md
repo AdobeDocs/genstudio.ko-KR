@@ -7,16 +7,16 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
-source-wordcount: '952'
+source-wordcount: '1048'
 ht-degree: 0%
 
 ---
 
 # 메타 광고 경험 만들기
 
-이 튜토리얼에서는 성능 마케팅 [[!DNL Create]](/help/user-guide/create/overview.md)용 GenStudio(왼쪽 탐색 영역에 있는 페인트 브러쉬 아이콘)를 사용하여 브랜드 메타 광고 경험을 생성하는 방법을 보여 줍니다.
+이 튜토리얼에서는 GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)(왼쪽 탐색 영역에 있는 페인트 브러쉬 아이콘)을 사용하여 브랜드 [메타 광고 경험](/help/user-guide/create/meta-experiences.md)을 생성하는 방법을 보여 줍니다.
 
 메타 광고 경험을 생성하기 전에 성능 마케팅을 위해 GenStudio에 [지침을 통합](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 만들기](/help/user-guide/effective-prompts.md)의 기본 사항에 익숙해지는 것이 중요합니다.
 
@@ -44,8 +44,11 @@ ht-degree: 0%
    이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [성능 마케팅을 위해 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
 
 1. 콘텐츠 생성에 영향을 미치려면 **[!UICONTROL 콘텐츠 선택]**&#x200B;을 클릭하여 *및* 경험에 사용할 콘텐츠를 추가합니다.
-   * [!DNL Content]에 이미 게시된 자산(이미지)을 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하세요. 필터를 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
-   * 파일을 찾아보고 사용할 자산을 선택하려면 **[!UICONTROL 업로드]**&#x200B;를 클릭하세요. 장치 탐색과 함께 Microsoft OneDrive 또는 Dropbox에서 가져올 수도 있습니다.
+   * [!DNL Content]에 이미 게시된 자산(이미지)을 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하고 원하는 이미지를 선택하려면 클릭하십시오. 필터를 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
+
+     연결된 AEM Content Hub 저장소에 이미 있는 자산을 사용하려면 _위치_ 드롭다운 메뉴에서 해당 위치를 선택하고 을(를) 클릭하여 원하는 이미지를 선택하십시오.
+
+   * 파일을 찾아보고 사용할 자산을 선택하려면 **[!UICONTROL 업로드]**&#x200B;를 클릭하세요. 장치 탐색과 함께 Microsoft OneDrive 또는 Dropbox에서 가져올 수도 있습니다. 을(를) 클릭하여 원하는 이미지를 선택합니다.
    * 자산을 _콘텐츠_ 섹션으로 끌어다 놓습니다.
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
@@ -63,6 +66,8 @@ ht-degree: 0%
 1. **[!UICONTROL 생성]**&#x200B;을 클릭합니다.
 
 기본적으로 네 가지 변형(모두 추가한 프롬프트, 지침 및 콘텐츠에 의해 유도됨)이 생성되어 캔버스에 표시됩니다.
+
+생성된 콘텐츠는 점진적으로 로드됩니다. 메타 경험의 각 섹션이 생성되면 캔버스에 표시됩니다. 변경 내용이 캔버스에 로드되는 방법에 대해 알아보려면 [메타 경험](/help/user-guide/create/meta-experiences.md#progressive-loading)을 참조하세요.
 
 ## 메타 광고 채널 선택
 
@@ -82,8 +87,8 @@ ht-degree: 0%
 * **메타 광고를 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;광고 섹션(제목 줄, 머리글 또는 본문 복사본 등)을 두 번 클릭하고 필요에 따라 편집합니다.[
 * **콜 투 액션을 변경하거나 선택하려면** 콜 투 액션 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _[!UICONTROL Link]_&#x200B;에서 클릭 유도 문안 텍스트의 URL을 입력하십시오.
 * **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
-<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
-* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
+* **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지 위로 마우스를 가져간 후 표시되는 자르기 아이콘을 클릭하고 이미지 크기와 배치를 조정하십시오.
 * **메타 광고를 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 광고 제목(예: &quot;메타 4&quot;)을 클릭하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭하십시오.
 
 ## 브랜드 정렬 확인

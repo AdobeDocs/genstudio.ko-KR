@@ -3,7 +3,7 @@ title: 유효한 프롬프트 작성
 description: Adobe GenStudio for Performance Marketing에 대한 효과적인 프롬프트를 작성하는 방법을 알아봅니다.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
 source-wordcount: '758'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)에서는 프롬프트 영역에서 **[!UICONTROL 프롬프트 기준]**([_매개 변수_](/help/user-guide/create/overview.md#parameters) 및 프롬프트)을 사용하여 선택을 통해 세부 정보를 추가하여 AI 해석을 개선할 수 있습니다.
 
-[이메일](/help/tutorials/create-email-experience.md)의 경우, 프롬프트 기준에는 _매개 변수_&#x200B;의 [지침](/help/user-guide/guidelines/overview.md) 추가, 이메일 변형에 사용할 에셋 업로드 및 설명 프롬프트가 포함될 수 있습니다. [메타데이터](/help/tutorials/create-meta-ad.md)의 경우 프롬프트 기준에는 _매개 변수_&#x200B;의 브랜드 지침, 기존 에셋의 선택 또는 업로드, 이미지 또는 에셋(예: 종횡비) 관련 설정 및 프롬프트가 포함될 수 있습니다. 실제 성능은 [구성 지침](/help/user-guide/guidelines/add-guidelines.md)에서 시작됩니다.
+[이메일](/help/user-guide/create/email-experiences.md)의 경우, 프롬프트 기준에는 _매개 변수_&#x200B;의 [지침](/help/user-guide/guidelines/overview.md) 추가, 이메일 변형에 사용할 에셋 업로드 및 설명 프롬프트가 포함될 수 있습니다. [메타데이터](/help/tutorials/create-meta-ad.md)의 경우 프롬프트 기준에는 _매개 변수_&#x200B;의 브랜드 지침, 기존 에셋의 선택 또는 업로드, 이미지 또는 에셋(예: 종횡비) 관련 설정 및 프롬프트가 포함될 수 있습니다. 실제 성능은 [구성 지침](/help/user-guide/guidelines/add-guidelines.md)에서 시작됩니다.
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ GenStudio for Performance Marketing 지침은 생성 AI가 에셋 구성을 개�
 
 ### 구조화된 프롬프트
 
-여러 섹션 이메일의 경우 이메일의 각 섹션에 대해 다양한 콘텐츠를 생성하기 위해 섹션별 지침을 제공하는 프롬프트를 구성할 수 있습니다. 구조화된 프롬프트는 생성된 콘텐츠를 해당 콘텐츠 자리 표시자에 삽입할 수 있도록 전자 메일 템플릿의 [섹션 이름](/help/user-guide/content/email-template.md#multi-section-emails)을(를) 직접 참조해야 합니다.
+여러 섹션 전자 메일의 경우 [전자 메일](/help/user-guide/create/email-experiences.md)의 각 섹션에 대해 다양한 콘텐츠를 생성하기 위해 섹션별 지침을 제공하는 프롬프트를 구성할 수 있습니다. 구조화된 프롬프트는 생성된 콘텐츠를 해당 콘텐츠 자리 표시자에 삽입할 수 있도록 전자 메일 템플릿의 [섹션 이름](/help/user-guide/content/email-template.md#multi-section-emails)을(를) 직접 참조해야 합니다.
 
 예를 들어, GenStudio for Performance Marketing에 이메일의 첫 번째 섹션에서 새 제품을 홍보하는 콘텐츠를 생성하고 두 번째 이메일 섹션에서 제품의 비용 절감 이점을 자세히 설명하는 콘텐츠를 생성하도록 지시할 수 있습니다.
 

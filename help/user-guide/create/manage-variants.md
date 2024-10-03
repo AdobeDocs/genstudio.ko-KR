@@ -2,9 +2,9 @@
 title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Content, Assets, Experiences
-source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
+source-git-commit: 67a3fe86facf0fef12f1fd63d8cf79132b0f42b0
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # 변형 관리
 
-성능 마케팅 Adobe GenStudio [!DNL Create]을(를) 사용하면 디지털 마케팅 이니셔티브에 사용할 수 있도록 생성된 변형(이메일, 메타 광고 등)을 사용자 정의하고 향상시킬 수 있습니다.
+Adobe GenStudio for Performance Marketing [!DNL Create]을(를) 사용하면 디지털 마케팅 이니셔티브에서 사용할 수 있도록 생성된 변형—[이메일](/help/user-guide/create/email-experiences.md), [메타 광고](/help/user-guide/create/meta-experiences.md) 등을 사용자 정의하고 향상시킬 수 있습니다.
 
 [경험 만들기](/help/tutorials/tutorials.md)를 할 때 생성된 변형의 콘텐츠와 에셋을 개별적으로 또는 일괄적으로 수정할 수 있습니다. 개별 마이크로 수준에서 변형을 관리하는 기능을 사용하면 생성된 각 콘텐츠를 명시적으로 관리할 수 있습니다.
 
@@ -53,20 +53,20 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 1. If you want to regenerate results, click the regenerate icon adjacent to _Results_.
 1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   The variant is updated with the revised text.
+   The variant is updated with the revised text. -->
 
-## Crop assets
+## 자산 자르기
 
-You can manually crop and reposition image assets in individual generated variants.
+생성된 개별 변형에서 이미지 에셋을 수동으로 자르고 위치를 변경할 수 있습니다.
 
-**To crop and reposition images in variants**:
+**변형에서 이미지를 자르고 위치를 변경하려면**:
 
-1. After generating a set of variants, hover over an image within a variant.
-1. Click **[!UICONTROL Apply Crop]**.
-1. Zoom in and out and drag the image into the desired position.
-1. Click **[!UICONTROL Apply]**.
+1. 변형 세트를 생성한 후 변형 내의 이미지 위로 마우스를 가져갑니다.
+1. 이미지의 왼쪽 모서리에 표시되는 자르기 아이콘을 클릭합니다.
+1. 이미지 테두리 상자를 조정하고 이미지를 원하는 위치로 드래그합니다.
+1. 자르기를 단일 이미지에 적용하려면 **[!UICONTROL 적용]**&#x200B;을, 변형의 모든 이미지에 적용하려면 **[!UICONTROL 모든 이미지에 적용]**&#x200B;을 클릭하십시오.
 
-   The cropped image is automatically saved and visible for the variant. -->
+   잘린 이미지가 변형에 대해 저장되고 표시됩니다.
 
 ## 종횡비 변경
 
@@ -100,6 +100,12 @@ You can manually crop and reposition image assets in individual generated varian
 [!DNL Create]은(는) 새로 선택한 종횡비를 기반으로 각 변형의 복사본을 만듭니다. 초기 종횡비의 변형을 포함한 모든 변형이 캔버스에 있습니다.
 
 예를 들어 처음에 1:1 종횡비로 4개의 변형을 생성한 다음 종횡비를 4:5로 변경하면 이제 캔버스에서 총 _8개_&#x200B;개의 변형을 사용할 수 있습니다.
+
+## 장치 미리 보기
+
+이메일 경험을 수정하고 준비할 때, 데스크톱 보기와 모바일 보기 간에 전환하여 초안 변형의 일관성과 시각적 효과를 보장할 수 있습니다.
+
+**데스크톱 및 모바일 장치의 변형을 미리 보려면** 오른쪽 메뉴 모음(컴퓨터 및 휴대폰 아이콘)에서 장치 미리 보기 옵션(**데스크톱**&#x200B;과 **모바일** 사이)을 전환하여 변형이 표시되는 방식을 미리 보십시오.
 
 ## 변형 삭제
 

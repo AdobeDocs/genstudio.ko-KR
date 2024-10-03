@@ -4,9 +4,9 @@ breadcrumb-title: 사용 안내서
 user-guide-description: Adobe GenStudio for Performance Marketing의 기능을 살펴보십시오. 온브랜드 에셋을 빠르게 만들고, 변형을 생성하고, 경험을 최적화하는 방법을 알아봅니다.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 967309ee0572365e9442c4e77816f9483e6522d3
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '141'
 ht-degree: 9%
 
 ---
@@ -31,6 +31,8 @@ ht-degree: 9%
    + [브랜드 유효성 검사](guidelines/brand-validation.md)
 + {#create} 만들기
    + [[!DNL Create] 개요](create/overview.md)
+   + [이메일 경험](create/email-experiences.md)
+   + [메타 경험](create/meta-experiences.md)
    + [변형 관리](create/manage-variants.md)
 + 리뷰 및 승인 {#approve}
    + [검토 및 승인 개요](approvals/overview.md)

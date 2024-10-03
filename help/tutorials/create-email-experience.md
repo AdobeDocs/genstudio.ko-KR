@@ -7,16 +7,16 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '885'
 ht-degree: 0%
 
 ---
 
 # 이메일 경험 만들기
 
-이 자습서에서는 Performance Marketing용 GenStudio [[!DNL Create]](/help/user-guide/create/overview.md)(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 이메일 경험을 생성하는 방법을 보여 줍니다.
+이 튜토리얼에서는 GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md)(왼쪽 탐색 영역에 있는 페인트 브러시 아이콘)을 사용하여 브랜드 [이메일 경험](/help/user-guide/create/email-experiences.md)을(를) 생성하는 방법을 보여 줍니다.
 
 효과적인 이메일 경험을 만들려면 시작하기 전에 [성능 마케팅을 위해 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하고 [프롬프트 작성의 기본 사항](/help/user-guide/effective-prompts.md)을 살펴보는 것이 좋습니다.
 
@@ -44,8 +44,11 @@ ht-degree: 0%
    이 메뉴에서 사용할 수 있는 브랜드, 가상 사용자 또는 제품이 없는 경우 [성능 마케팅을 위해 GenStudio에 지침을 추가](/help/user-guide/guidelines/add-guidelines.md)하십시오.
 
 1. 콘텐츠 생성에 영향을 미치려면 **[!UICONTROL 콘텐츠 선택]**&#x200B;을 클릭하여 *및* 경험에 사용할 콘텐츠를 추가합니다.
-   * [!DNL Content]에 이미 게시된 자산(이미지)을 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭하세요. 필터를 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
-   * 파일을 찾아보고 사용할 자산을 선택하려면 **[!UICONTROL 업로드]**&#x200B;를 클릭하세요. 장치 탐색과 함께 Microsoft OneDrive 또는 Dropbox에서 가져올 수도 있습니다.
+   * [!DNL Content] 저장소에서 자산(이미지)을 선택하려면 **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭합니다. 하나 이상의 이미지를 필터링하고 선택합니다.
+
+     연결된 [!DNL AEM Assets Content Hub] 저장소의 자산을 사용하려면 _위치_ 드롭다운 메뉴에서 저장소를 선택하십시오. 하나 이상의 이미지를 필터링하고 선택합니다.
+
+   * 하나 이상의 새 자산을 업로드하려면 **[!UICONTROL 업로드]**&#x200B;를 클릭하고 파일을 찾은 다음 사용할 자산을 선택하십시오. 장치 탐색과 함께 Microsoft OneDrive 또는 Dropbox에서 가져올 수 있습니다. 을(를) 클릭하여 원하는 이미지를 선택합니다.
    * 자산을 _콘텐츠_ 섹션으로 끌어다 놓습니다.
 1. **[!UICONTROL 사용]**&#x200B;을 클릭합니다.
 
@@ -68,6 +71,8 @@ ht-degree: 0%
 
 기본적으로 네 가지 변형(모두 추가한 프롬프트, 지침 및 콘텐츠에 의해 유도됨)이 생성되어 캔버스에 표시됩니다.
 
+생성된 콘텐츠는 점진적으로 로드됩니다. 이메일 경험의 각 섹션이 생성되면 캔버스에 표시됩니다. 변경 내용이 캔버스에 로드되는 방법을 알아보려면 [전자 메일 환경](/help/user-guide/create/meta-experiences.md#progressive-loading)을 참조하세요.
+
 ## 생성된 이메일 수정
 
 [!DNL Content]에 게시하거나 승인을 위해 보낼 항목을 선택하기 전에 전자 메일 섹션을 편집하거나 생성된 전자 메일 집합에서 변형을 삭제할 수 있습니다.
@@ -81,9 +86,7 @@ ht-degree: 0%
 
 ## 장치 미리 보기
 
-이메일 경험을 수정하고 준비할 때, 데스크톱 보기와 모바일 보기 간에 전환하여 초안 변형의 일관성과 시각적 효과를 보장할 수 있습니다.
-
-**데스크톱 및 모바일 장치의 변형을 미리 보려면** 오른쪽 메뉴 모음(컴퓨터 및 휴대폰 아이콘)에서 장치 미리 보기 옵션(**데스크톱**&#x200B;과 **모바일** 사이)을 전환하여 변형이 표시되는 방식을 미리 보십시오.
+이메일 경험을 수정하고 준비할 때, 데스크톱 보기와 모바일 보기 간에 [전환](/help/user-guide/create/manage-variants.md#preview-for-device)하여 초안 변형의 일관성과 시각적 효과를 확인할 수 있습니다.
 
 ## 브랜드 정렬 확인
 
