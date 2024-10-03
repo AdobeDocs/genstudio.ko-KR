@@ -7,7 +7,7 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
+source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
 workflow-type: tm+mt
 source-wordcount: '854'
 ht-degree: 0%
@@ -87,7 +87,7 @@ ht-degree: 0%
 
 ## 브랜드 정렬 확인
 
-생성된 이메일을 최적화하고 브랜드 정체성을 엄격히 준수하려면 [_브랜드 지침 검사_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)&#x200B;의 기능을 활용하여 변형에 대한 브랜드 정렬 요약을 제공하고 [_브랜드 유효성 검사 패널_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)&#x200B;을 통해 포괄적인 브랜드 유효성 검사 세부 정보를 표시하고 개선 영역을 조명합니다.
+생성된 이메일을 최적화하고 브랜드 정체성을 엄격히 준수하려면 [_브랜드 지침 검사_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check)&#x200B;의 기능(변형에 대한 브랜드 정렬 요약 제공)과 [_브랜드 유효성 검사_ 패널](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel)을 활용하여 포괄적인 브랜드 유효성 검사 세부 정보를 표시하고 개선 영역을 강조하십시오.
 
 **브랜드 정렬을 확인하려면**:
 
