@@ -2,9 +2,9 @@
 title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Content, Assets, Experiences
-source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
+source-git-commit: c1cc90b4c80b6b754b34ac609e8e94b799386fad
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '995'
 ht-degree: 0%
 
 ---
@@ -97,9 +97,28 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 
 1. **[!UICONTROL 복제 및 크기 조정]**&#x200B;을 클릭합니다.
 
-[!DNL Create]은(는) 새로 선택한 종횡비를 기반으로 각 변형의 복사본을 만듭니다. 초기 종횡비의 변형을 포함한 모든 변형이 캔버스에 있습니다.
+   [!DNL Create]은(는) 새로 선택한 종횡비를 기반으로 각 변형의 복사본을 만듭니다. 초기 종횡비의 변형을 포함한 모든 변형이 캔버스에 있습니다.
 
-예를 들어 처음에 1:1 종횡비로 4개의 변형을 생성한 다음 종횡비를 4:5로 변경하면 이제 캔버스에서 총 _8개_&#x200B;개의 변형을 사용할 수 있습니다.
+   예를 들어 처음에 1:1 종횡비로 4개의 변형을 생성한 다음 종횡비를 4:5로 변경하면 이제 캔버스에서 총 _8개_&#x200B;개의 변형을 사용할 수 있습니다.
+
+## 이미지 교체
+
+캔버스에서 바로 생성된 변형의 이미지를 추가하거나 교체할 수 있습니다.
+
+**변형에서 이미지를 추가하거나 교체하려면**:
+
+1. 변형 세트를 생성한 후 이미지 에셋을 클릭합니다.
+
+   변형에 현재 배치된 이미지 에셋이 없는 경우 이미지 에셋 영역을 클릭합니다.
+
+1. [!DNL Content]에 이미 게시된 이미지 자산을 선택하려면 다음을 수행하십시오.
+   1. **[!UICONTROL 콘텐츠에서 선택]**&#x200B;을 클릭합니다. 필터를 사용하여 검색 결과의 범위를 좁힐 수 있습니다.
+   1. **[!UICONTROL 사용]** 클릭
+1. 이미지 자산을 업로드하려면 다음을 수행하십시오.
+   1. 파일을 찾아보고 사용할 자산을 선택하려면 **[!UICONTROL 새 이미지 업로드]**&#x200B;를 클릭하세요. 장치 탐색과 함께 Microsoft OneDrive 또는 Dropbox에서 가져올 수 있습니다.
+   1. **[!UICONTROL Assets 추가]**&#x200B;를 클릭합니다.
+
+   이미지가 해당 변형에 추가되거나 교체됩니다.
 
 ## 장치 미리 보기
 
@@ -119,7 +138,7 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 
    변형이 강조표시되고 단축 메뉴가 나타납니다.
 
-1. 사용 가능한 메뉴 옵션에서 **[!UICONTROL 삭제]**&#x200B;를 선택합니다.
+1. 사용 가능한 옵션에서 **[!UICONTROL 삭제]**&#x200B;를 선택합니다.
 
    변형이 삭제됩니다.
 
