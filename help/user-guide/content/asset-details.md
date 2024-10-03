@@ -3,9 +3,9 @@ title: 자산 세부 사항
 description: Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 위해 승인된 컨텐츠를 풍부한 메타데이터와 함께 저장합니다.
 feature: Attributes, Assets
 exl-id: 2be5cfee-f315-4ad6-8cf0-a8d3929b9ba3
-source-git-commit: 059b464cb2a7b57557407bbaee6162b770107222
+source-git-commit: 44e4a297077d06047767cc40b7009ac88e7b493c
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '681'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,37 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
    >
    >_[!UICONTROL 세부 정보]_ 섹션이 표시되지 않으면 **[!UICONTROL 정보]**(i) 아이콘을 클릭합니다.
 
-에셋 세부 사항에는 생성 또는 업로드 프로세스 중에 적용된 메타데이터가 포함됩니다. 에셋 메타데이터 유형에는 [시스템 메타데이터](#system-metadata) 및 [사용자 정의 메타데이터](#user-defined-metadata)가 포함됩니다.
+   에셋 세부 사항에는 생성 또는 업로드 프로세스 중에 적용된 메타데이터가 포함됩니다. 에셋 메타데이터 유형에는 [시스템 메타데이터](#system-metadata) 및 [사용자 정의 메타데이터](#user-defined-metadata)가 포함됩니다.
 
 >[!NOTE]
 >
 >AEM 저장소의 Assets에 다른 메타데이터가 표시됩니다. [!DNL AEM Assets Content Hub] 자산 세부 정보를 구성하는 방법은 [자산 가시성 구성](connect-aem-repo.md#step-4-configure-asset-visibility)을 참조하세요.
+
+## Express에서 편집
+
+Adobe Express을 사용하여 GenStudio for Performance Marketing 내에서 직접 이미지 에셋(JPG 또는 PNG)을 편집할 수 있습니다. _[!UICONTROL Adobe Express 제공]_ 캔버스는 GenStudio 응용 프로그램을 종료하지 않고도 이미지를 개선할 수 있는 편리한 기능을 제공합니다. 배경을 쉽게 제거하고, 생성 채우기를 적용하고, 효과를 조정하고, 이미지를 자를 수 있습니다.
+
+1. _[!DNL Content]_에서 이미지 자산을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+
+1. 에셋 보기에서 오른쪽 상단의 **[!UICONTROL Adobe Express에서 편집]** 아이콘을 클릭합니다.
+
+1. _[!UICONTROL Adobe Express 제공]_ 캔버스에서 왼쪽 패널의 Express 컨트롤을 사용하여 이미지를 향상시킵니다.
+
+1. 업데이트된 이미지가 마음에 들면 오른쪽 상단의 **[!UICONTROL 복사본 저장]**&#x200B;을 클릭하세요.
+
+1. 파일 형식(JPG 또는 PNG)을 선택하고 **[!UICONTROL 복사본 저장]**&#x200B;을 클릭합니다.
+
+1. _[!UICONTROL 에셋 복사본 저장]_ 팝업에서 **[!UICONTROL 에셋 이름]**&#x200B;을(를) 업데이트합니다.
+
+   - **[!UICONTROL 원본 에셋과 동일한 세부 정보]**&#x200B;를 선택하여 에셋 세부 정보를 새 이미지로 이전합니다.
+
+   - **[!UICONTROL 추가 세부 정보]** 섹션을 확장하여 Campaign, 지침 및 기타 메타데이터를 업데이트합니다.
+
+   >[!TIP]
+   >
+   >자세히 제공할수록 GenStudio for Performance Marketing의 강력한 기능을 더 많이 경험하게 됩니다. 목록에서 세부 정보를 하나 이상 선택하거나, 해당하는 경우 키워드 등과 같이 새 세부 정보를 입력합니다. 추가하는 각 세부 사항은 목록 아래에 표시됩니다. 세부 정보를 제거하려면 **`x`**&#x200B;을(를) 클릭하십시오.
+
+1. **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
 ## 시스템 메타데이터
 

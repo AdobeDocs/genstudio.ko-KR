@@ -3,9 +3,9 @@ title: Adobe GenStudio for Performance Marketing 개요 [!DNL Content]
 description: 하나의 직관적인 포털에서 브랜드로 승인된 에셋을 찾고, 편집하고, 재사용하고, 공유하는 방법에 대해 알아봅니다.
 feature: Attributes, Content, Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
-source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
+source-git-commit: 378e2b2d1b7242e8193b5e376c1e328272b11fa5
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '309'
 ht-degree: 1%
 
 ---
@@ -55,6 +55,16 @@ GenStudio for Performance Marketing [!DNL Content]은(는) 브랜드에서 승�
       <p>
          <a href="../content/use-templates.md#upload-a-template">
          <strong>템플릿 업로드</strong>
+         </a>
+      </p>
+   </td>
+   <td align="center" valign="top" width="100">
+      <a href="../content/asset-details.md#edit-in-express">
+         <img alt="Adobe Express에서 편집" src="../../assets/icons/icon-editExpress.png">
+      </a>
+      <p>
+         <a href="../content/asset-details.md#edit-in-express">
+         <strong>Adobe Express에서 에셋 편집</strong>
          </a>
       </p>
    </td>
