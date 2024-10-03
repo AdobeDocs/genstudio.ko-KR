@@ -7,9 +7,9 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1074'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ ht-degree: 0%
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
 * **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지 위로 마우스를 가져간 후 표시되는 자르기 아이콘을 클릭하고 이미지 크기와 배치를 조정하십시오.
 * **메타 광고를 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 광고 제목(예: &quot;메타 4&quot;)을 클릭하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭하십시오.
+
+## 생성 피드백 제출
+
+생성 출력의 품질에 대한 [피드백을 제출](/help/user-guide/create/manage-variants.md#generation-feedback)하려면 옵션 아이콘(세 점)을 클릭하고 **[!UICONTROL 양호한 출력]** 또는 **[!UICONTROL 저조한 출력]**&#x200B;을 선택하십시오.
 
 ## 브랜드 정렬 확인
 

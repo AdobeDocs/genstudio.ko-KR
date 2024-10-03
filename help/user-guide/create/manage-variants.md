@@ -2,9 +2,9 @@
 title: 변형 관리
 description: 디지털 마케팅 요구 사항에 맞게 생성된 변형 및 에셋을 맞춤화하고 향상시킬 수 있습니다.
 feature: Content, Assets, Experiences
-source-git-commit: 67a3fe86facf0fef12f1fd63d8cf79132b0f42b0
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '880'
 ht-degree: 0%
 
 ---
@@ -115,7 +115,7 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 
 **생성된 변형을 삭제하려면**:
 
-1. 변형 세트를 생성한 후 변형 위의 이름을 클릭합니다.
+1. 변형 세트를 생성한 후 변형 위에 있는 옵션 아이콘(세 점)을 클릭합니다.
 
    변형이 강조표시되고 단축 메뉴가 나타납니다.
 
@@ -128,3 +128,27 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 일관된 브랜드 정체성과 변형 정렬을 유지하려면 _[!UICONTROL 브랜드 지침 확인]_ 및 _[!UICONTROL 브랜드 유효성 검사 패널]_&#x200B;을 사용하십시오.
 
 [브랜드 유효성 검사](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment)를 참조하십시오.
+
+## 생성 피드백
+
+콘텐츠 생성 프로세스를 개선하기 위해 생성된 브랜드 정렬 에셋의 품질에 대한 피드백을 제출할 수 있습니다. 결과가 고품질인지 또는 저품질인지를 표시하면 GenStudio for Performance Marketing의 전체 콘텐츠 품질과 사용자 안전을 강화하는 데 도움이 됩니다.
+
+생성 피드백은 수집된 변형 세트가 아니라 개별 변형에 적용할 수 있습니다.
+
+**생성 피드백을 제출하려면**:
+
+1. 변형 세트를 생성한 후 변형 위에 있는 옵션 아이콘(세 점)을 클릭합니다.
+
+   변형이 강조표시되고 단축 메뉴가 나타납니다.
+
+1. **[!UICONTROL 좋은 출력]** 또는 **[!UICONTROL 나쁜 출력]**&#x200B;을 선택하세요.
+
+   추가 정보를 수집하는 피드백 팝업이 나타납니다. 생성된 콘텐츠와 프롬프트 정보는 피드백에 포함됩니다.
+
+1. 피드백 팝업에 다음 정보를 추가합니다.
+   1. _[!UICONTROL 참조 내용 및 레이어 데이터도 포함]_ 옵션을 선택하여 수집된 피드백에 추가 참조 정보를 포함시킵니다.
+   1. _[!UICONTROL 부터 어떤 작업이 잘 수행되었습니까?]_ 또는 _[!UICONTROL 무엇이 잘못되었습니까?]_ 섹션에서 콘텐츠 생성 품질을 높이거나 낮게하는 이유를 설명하는 옵션을 선택하십시오.
+   1. _[!UICONTROL 메모]_ 필드에 다른 유용한 정보나 관련 정보를 추가하십시오.
+1. **[!UICONTROL 제출]**&#x200B;을 클릭합니다.
+
+   피드백을 제출했음을 확인하는 배너가 나타납니다.
