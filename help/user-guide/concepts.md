@@ -3,7 +3,7 @@ title: Adobe GenStudio for Performance Marketing 개념
 description: Adobe GenStudio for Performance Marketing 개념 및 용어를 알아봅니다.
 feature: Workflow, Generative AI
 exl-id: 7dd00b4c-f429-499b-851d-3606c82c09dc
-source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
+source-git-commit: 9016841b6a788fe5ca50f3e9c0d774a248a6c793
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
@@ -25,7 +25,9 @@ GenStudio for Performance Marketing을 사용하여 다음과 같은 작업을 �
 
 GenStudio for Performance Marketing은 생성 AI의 기능을 활용하여 콘텐츠 생성 프로세스를 가속화하고 고품질의 콘텐츠 생성을 보장합니다. 크리에이티브 에셋의 라이프사이클이 반복되면 타겟 대상자에게 반향을 불러일으키는 정확도와 브랜드 중심 콘텐츠가 점점 더 많아집니다.
 
-먼저 강력한 브랜드 가이드라인 기능을 통해 GenStudio for Performance Marketing을 조직의 브랜드, 고객 담당자 및 제품 설명에 대해 효과적으로 교육합니다. 이러한 지침을 준비하고 업로드하는 방법에 대해 알아보려면 [지침 개요](../user-guide/guidelines/overview.md)를 참조하세요.
+먼저 강력한 브랜드 가이드라인 기능을 통해 GenStudio for Performance Marketing을 조직의 브랜드, 고객 담당자 및 제품 설명에 대해 효과적으로 교육합니다.
+
+이러한 지침을 준비하고 업로드하는 방법에 대해 알아보려면 [지침 개요](../user-guide/guidelines/overview.md)를 참조하세요.
 
 ## 콘텐츠 라이프사이클
 
@@ -34,7 +36,7 @@ GenStudio for Performance Marketing은 생성 AI의 기능을 활용하여 콘�
 <table style="table-layout:fixed">
 <tr style="border: 0;">
     <td style="width: 120px;">
-       <img alt="달력" src="../assets/csc-workflow-planning.svg" width="100">
+       <img alt="달력" src="../assets/csc-workflow-planning.png" width="100">
     </td>
     <td>
         <p>아이디어를 브레인스토밍하고, 지침을 정의하고, 콘텐츠를 중심으로 전략을 구축하여 대상자를 참여시킵니다.</p>
@@ -42,7 +44,7 @@ GenStudio for Performance Marketing은 생성 AI의 기능을 활용하여 콘�
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="브러시 및 캔버스" src="../assets/csc-creation-production.svg" width="100">
+        <img alt="브러시 및 캔버스" src="../assets/csc-creation-production.png" width="100">
     </td>
     <td>
         <p>플랜을 기반으로 콘텐츠를 생성합니다. 실시간으로 공동 작업하고, 피드백을 받고, 편집하고, 콘텐츠를 승인합니다.</p>
@@ -50,7 +52,7 @@ GenStudio for Performance Marketing은 생성 AI의 기능을 활용하여 콘�
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="이미지 등" src="../assets/csc-content-mgmt.svg" width="100">
+        <img alt="이미지 등" src="../assets/csc-content-mgmt.png" width="100">
     </td>
     <td>
         <p>중앙 집중식 저장소에서 크리에이티브 자산을 저장, 공유 및 찾습니다. 성능을 기반으로 콘텐츠를 재사용하고 활성화할 수 있습니다.</p>
@@ -58,7 +60,7 @@ GenStudio for Performance Marketing은 생성 AI의 기능을 활용하여 콘�
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="종이 비행기" src="../assets/csc-delivery-activation.svg" width="100">
+        <img alt="종이 비행기" src="../assets/csc-delivery-activation.png" width="100">
     </td>
     <td>
         <p>콘텐츠를 활성화하고 여러 마케팅 채널에 게시할 수 있습니다.</P>
@@ -66,7 +68,7 @@ GenStudio for Performance Marketing은 생성 AI의 기능을 활용하여 콘�
 </tr>
 <tr style="border: 0;">
     <td style="width: 120px;">
-        <img alt="차트" src="../assets/csc-reporting-insights.svg" width="100">
+        <img alt="차트" src="../assets/csc-reporting-insights.png" width="100">
     </td>
     <td>
         <p>자산 성능 최적화를 위한 데이터를 수집하고 통찰력을 도출합니다.</p>
