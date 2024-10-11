@@ -1,5 +1,5 @@
 ---
-user-guide-title: 성과 마케팅 튜토리얼 Adobe GenStudio
+user-guide-title: 성과 마케팅을 위한 Adobe GenStudio 튜토리얼
 breadcrumb-title: 튜토리얼
 user-guide-description: GenStudio for Performance Marketing 튜토리얼을 따라 이메일 경험 만들기와 같은 전체적인 프로세스를 완료하는 방법을 알아봅니다.
 feature-set: GenStudio
@@ -7,7 +7,7 @@ feature: Generative AI
 source-git-commit: 1b0121a7006799cc5b2c2168fcb55a9a5ac10601
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 1%
+ht-degree: 12%
 
 ---
 
