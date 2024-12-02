@@ -1,5 +1,5 @@
 ---
-title: " [!DNL AEM Assets Content Hub] 저장소에 연결"
+title: ' [!DNL AEM Assets Content Hub] 저장소에 연결'
 description: Adobe GenStudio for Performance Marketing을 AEM(Adobe Experience Manager) [!DNL Content Hub] 저장소에 연결하고 기존의 승인된 콘텐츠를 활용하는 방법을 알아봅니다.
 level: Experienced
 feature: Assets, Content
