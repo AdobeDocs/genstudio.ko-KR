@@ -93,7 +93,7 @@ GenStudio for Performance Marketing용 템플릿을 준비할 때 [템플릿 사
 
 **템플릿을 추가하려면**:
 
-1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 템플릿]**섹션을 선택하십시오.
+1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL 템플릿]**&#x200B;섹션을 선택하십시오.
 
 1. **[!UICONTROL 템플릿 추가]**&#x200B;를 클릭합니다.
 
@@ -126,7 +126,7 @@ GenStudio for Performance Marketing에서 기존 템플릿을 찾아 사용하�
 
 **템플릿을 사용하여 환경을 만들려면**:
 
-1. _[!DNL Content]_에서&#x200B;**[!UICONTROL 템플릿]**섹션을 선택하십시오.
+1. _[!DNL Content]_&#x200B;에서&#x200B;**[!UICONTROL 템플릿]**&#x200B;섹션을 선택하십시오.
 
    ![콘텐츠 템플릿 목록](../../assets/content-templates.png){width="650" zoomable="yes"}
 

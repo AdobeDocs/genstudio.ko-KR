@@ -26,7 +26,7 @@ ht-degree: 0%
 
 **메타 광고 템플릿을 선택하려면**:
 
-1. _[!DNL Create]_에서_&#x200B;의 **[!UICONTROL 메타 광고]**&#x200B;를 클릭합니다._섹션.
+1. _[!DNL Create]_&#x200B;에서_&#x200B;의 **[!UICONTROL 메타 광고]**&#x200B;를 클릭합니다._섹션.
 1. 특정 메타 광고 템플릿을 찾으려면 _필터_ 옆의 검색 옵션을 사용하십시오.
 1. 템플릿을 선택하려면 클릭하고 **[!UICONTROL 사용]**&#x200B;을 클릭하세요.
 
@@ -84,9 +84,9 @@ ht-degree: 0%
 **생성된 변형을 수정하려면**:
 
 * **메타 광고 초안 이름을 [편집](/help/user-guide/create/manage-variants.md#change-draft-name)**&#x200B;하려면 캔버스 상단의 _제목 없는 초안_ 제목을 클릭하고 새 제목을 입력하십시오.
-* **메타 광고를 수동으로 편집하려면](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;광고 섹션(제목 줄, 머리글 또는 본문 복사본 등)을 두 번 클릭하고 필요에 따라 편집합니다.[
+* **메타 광고를 수동으로 편집하려면[&#128279;](/help/user-guide/create/manage-variants.md#manually-edit-text)**&#x200B;광고 섹션(제목 줄, 머리글 또는 본문 복사본 등)을 두 번 클릭하고 필요에 따라 편집합니다.
 * **콜 투 액션을 변경하거나 선택하려면** 콜 투 액션 단추를 클릭하고 사용 가능한 단추 텍스트 옵션에서 선택하십시오. _[!UICONTROL Link]_&#x200B;에서 클릭 유도 문안 텍스트의 URL을 입력하십시오.
-* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
+* **광고 크기 및 종횡비를 [변경하려면](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**&#x200B;_[!UICONTROL 크기 조정]_ 단추(캔버스 왼쪽에 단추 아이콘이 있는 상자)를 클릭하고 모든 변형에 적용할 새 크기 및 종횡비를 선택하십시오. 변형은 복제되고 크기가 조정됩니다.
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
 * **이미지를 [자르기 또는 위치 변경](/help/user-guide/create/manage-variants.md#crop-assets)**&#x200B;하려면 이미지 위로 마우스를 가져간 후 표시되는 자르기 아이콘을 클릭하고 이미지 크기와 배치를 조정하십시오.
 * **메타 광고를 [삭제](/help/user-guide/create/manage-variants.md#delete-variant)**&#x200B;하려면 광고 제목(예: &quot;메타 4&quot;)을 클릭하고 **[!UICONTROL 변형 삭제]**&#x200B;를 클릭하십시오.

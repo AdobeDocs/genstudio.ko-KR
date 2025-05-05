@@ -38,7 +38,7 @@ GenStudio for Performance Marketing은 13개월 동안 채널 데이터를 유�
 
 **GenStudio for Performance Marketing에서 메타 광고 계정을 연결하려면**:
 
-1. _[!DNL Insights]_에서&#x200B;**[!UICONTROL 채널 계정 연결]**을 클릭합니다.
+1. _[!DNL Insights]_&#x200B;에서&#x200B;**[!UICONTROL 채널 계정 연결]**&#x200B;을 클릭합니다.
 
    >[!INFO]
    >

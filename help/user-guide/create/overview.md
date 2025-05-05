@@ -76,7 +76,7 @@ _에서 제작할 채널을 선택한 후 오늘 제작할 내용을 선택하�
 
 ### 매개변수
 
-프롬프트 영역에서 [!DNL Brands], [!DNL Products], [!DNL Personas](지침) 및 [!DNL Content](자산)과 같은 _매개 변수_&#x200B;를 추가하여 생성된 경험을 형성할 수 있습니다.
+프롬프트 영역에서 [!DNL Brands], [!DNL Products], [!DNL Personas] (지침) 및 [!DNL Content] (자산)과 같은 _매개 변수_&#x200B;를 추가하여 생성된 경험을 형성할 수 있습니다.
 
 이렇게 추가된 매개 변수는 생성 프로세스에 [지침](/help/user-guide/guidelines/overview.md) 및 자산을 삽입하여 브랜드의 포괄적인 ID에 맞게 콘텐츠를 사용자 지정하도록 합니다. 적합한 온브랜드 콘텐츠 생성을 크게 향상시키므로 GenStudio for Performance Marketing에 지침을 추가하여 콘텐츠 생성 프로세스 중에 사용하는 것이 좋습니다.
 

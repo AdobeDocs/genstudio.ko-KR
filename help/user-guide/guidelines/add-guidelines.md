@@ -24,7 +24,7 @@ GenStudio for Performance Marketing에 지침을 추가하는 것은 작성 프�
 
 브랜드를 추가하려면 지침을 선택하고 브랜드 세부 정보를 입력하여 [브랜드 가이드를 업로드](#upload-a-brand) 또는 [수동으로 브랜드 만들기](#manually-add-brand)하십시오. [브랜드를 Publish](#publish-brand)에서 [!DNL Content]까지 활성화하여 향후 콘텐츠 생성에 사용할 수 있도록 합니다.
 
-왼쪽 탐색 영역에서 **[!DNL Brands]**&#x200B;을(를) 클릭합니다. _[!DNL Brands]_패널에서&#x200B;**브랜드 추가**를 선택합니다.
+왼쪽 탐색 영역에서 **[!DNL Brands]**&#x200B;을(를) 클릭합니다. _[!DNL Brands]_&#x200B;패널에서&#x200B;**브랜드 추가**&#x200B;를 선택합니다.
 
 >[!TIP]
 >각 브랜드는 계층적인 관계 없이 독립적으로 운영됩니다. 상위 브랜드에서 하위 브랜드를 만들려면 만들기 프로세스 중에 상위 브랜드의 정보를 포함하십시오.
@@ -67,7 +67,7 @@ GenStudio for Performance Marketing은 Adobe의 생성 AI 기술을 사용하여
 
 1. _새 브랜드_ 제목을 클릭하고 수사적 브랜드 이름을 입력하십시오.
 
-만든 [!DNL Brands]을(를) 보려면 _Brand_ 패널 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Brands]_홈으로 다시 이동합니다.
+만든 [!DNL Brands]을(를) 보려면 _Brand_ 패널 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Brands]_&#x200B;홈으로 다시 이동합니다.
 
 정보에 액세스할 수 있도록 하기 위해 브랜드를 [게시](#publish-brand)할 필요가 없습니다. 수동으로 추가된 모든 정보는 추가된 후 즉시 사용할 수 있습니다. 조직의 다른 사용자가 GenStudio for Performance Marketing의 브랜드 정보를 사용하려면 해당 정보를 게시해야 합니다.
 
@@ -85,11 +85,11 @@ GenStudio for Performance Marketing은 Adobe의 생성 AI 기술을 사용하여
 
 브랜드가 게시되면 브랜드를 사용할 준비가 되었음을 확인하는 배너가 나타납니다. &quot;*게시된 브랜드는 사용할 수 있음*&quot;.
 
-게시된 브랜드는 이제 _[!DNL Create]_또는_[!DNL Content]_&#x200B;에서 사용할 수 있습니다.
+게시된 브랜드는 이제 _[!DNL Create]_&#x200B;또는&#x200B;_[!DNL Content]_&#x200B;에서 사용할 수 있습니다.
 
 ### [!DNL Brands] 관리
 
-_[!DNL Brands]_홈에서&#x200B;**이미 만든 브랜드를 열기**를 클릭하여 편집하거나 검토하거나 [!DNL Brands] 작업 메뉴의 목록에서&#x200B;**이름 바꾸기**또는&#x200B;**브랜드를 삭제**할 수 있습니다.
+_[!DNL Brands]_&#x200B;홈에서&#x200B;**이미 만든 브랜드를 열기**&#x200B;를 클릭하여 편집하거나 검토하거나 [!DNL Brands] 작업 메뉴의 목록에서&#x200B;**이름 바꾸기**&#x200B;또는&#x200B;**브랜드를 삭제**&#x200B;할 수 있습니다.
 
 * 브랜드 타일을 클릭하여 브랜드를 엽니다.
 * 기존 담당자의 이름을 변경하려면 [!DNL Brands] 동작 메뉴에서 **[!UICONTROL 이름 바꾸기]**&#x200B;를 선택하십시오.
@@ -99,7 +99,7 @@ _[!DNL Brands]_홈에서&#x200B;**이미 만든 브랜드를 열기**를 클릭�
 
 제품을 추가하려면 지침을 선택하고 제품 세부 정보를 입력하여 [제품 가이드를 업로드](#upload-a-product)하거나 [제품을 수동으로 만들기](#manually-add-product)하십시오.
 
-왼쪽 탐색 영역에서 **[!DNL Products]**&#x200B;을(를) 클릭합니다. _[!DNL Products]_패널에서&#x200B;**제품 추가**를 선택합니다.
+왼쪽 탐색 영역에서 **[!DNL Products]**&#x200B;을(를) 클릭합니다. _[!DNL Products]_&#x200B;패널에서&#x200B;**제품 추가**&#x200B;를 선택합니다.
 
 콘텐츠를 만들 때 GenStudio for Performance Marketing에서 [!DNL Products]을(를) 추가하여 개별 제품 포커스 영역을 지정할 수 있습니다. <!-- Add Rename, display, reposition functionality -->
 
@@ -155,22 +155,22 @@ _메시징 환경 설정_&#x200B;을 클릭하고 [!DNL product]에 대한 메�
    1. _갤러리_ 탭의 갤러리에서 이미지를 선택하고 **[!UICONTROL 이미지 사용]**&#x200B;을 클릭합니다.
    1. 표지 이미지의 위치를 변경하려면 **[!UICONTROL 위치 변경]**&#x200B;을 클릭하고 이미지를 원하는 위치로 드래그한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-   만든 [!DNL products]을(를) 보려면 _제품_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Products]_홈으로 다시 이동합니다.
+   만든 [!DNL products]을(를) 보려면 _제품_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Products]_&#x200B;홈으로 다시 이동합니다.
 
 ### [!DNL Products] 관리
 
-_[!DNL Products]_홈에서 이미 만든&#x200B;[!DNL Product]**을(를)**열어 편집하거나 검토하거나 목록에서&#x200B;**제품을 삭제**할 수 있습니다.
+_[!DNL Products]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Product]&#x200B;**을(를)**&#x200B;열어 편집하거나 검토하거나 목록에서&#x200B;**제품을 삭제**&#x200B;할 수 있습니다.
 
 * 기존 제품을 수정하고 검토하려면 [!DNL Products] 작업 메뉴에서 **[!UICONTROL 열기]**&#x200B;를 선택하십시오.
 * [!DNL Products] 동작 메뉴에서 **[!UICONTROL 삭제]**&#x200B;를 선택하여 제품을 **삭제**&#x200B;합니다.
-* 
+* &#x200B;
    * [!DNL Products] 동작 메뉴에서 **[!UICONTROL 이름 바꾸기]**&#x200B;를 선택하여 제품을 **이름 바꾸기**&#x200B;합니다.
 
 ## [!DNL Personas] 추가
 
 담당자를 추가하려면 지침을 선택하고 담당자의 세부 정보를 입력하여 [담당자 가이드를 업로드](#upload-a-persona) 또는 [담당자를 수동으로 생성](#manually-add-persona)하십시오.
 
-왼쪽 탐색 영역에서 **[!DNL Personas]**&#x200B;을(를) 클릭합니다. _[!DNL Personas]_패널에서&#x200B;**사용자 추가**를 선택합니다.
+왼쪽 탐색 영역에서 **[!DNL Personas]**&#x200B;을(를) 클릭합니다. _[!DNL Personas]_&#x200B;패널에서&#x200B;**사용자 추가**&#x200B;를 선택합니다.
 
 GenStudio for Performance Marketing에서 [!DNL Persona]을(를) 추가하여 만든 콘텐츠를 이상적인 대상자에게 타깃팅할 수 있습니다.
 
@@ -226,11 +226,11 @@ GenStudio for Performance Marketing에서 [!DNL Persona]을(를) 추가하여 �
    1. _갤러리_ 탭의 갤러리에서 이미지를 선택하고 **[!UICONTROL 이미지 사용]**&#x200B;을 클릭합니다.
    1. 표지 이미지의 위치를 변경하려면 **[!UICONTROL 위치 변경]**&#x200B;을 클릭하고 이미지를 원하는 위치로 드래그한 다음 **[!UICONTROL 저장]**&#x200B;을 클릭합니다.
 
-   만든 [!DNL Personas]을(를) 보려면 _성향_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Personas]_홈으로 다시 이동합니다.
+   만든 [!DNL Personas]을(를) 보려면 _성향_ 보기 상단 근처에 있는 뒤로 화살표를 클릭하여 _[!DNL Personas]_&#x200B;홈으로 다시 이동합니다.
 
 ### [!DNL Personas] 관리
 
-_[!DNL Personas]_홈에서 이미 만든&#x200B;[!DNL Persona]**을(를)**열어 편집하거나 검토하거나&#x200B;**담당자를**목록에서 삭제할 수 있습니다.
+_[!DNL Personas]_&#x200B;홈에서 이미 만든&#x200B;[!DNL Persona]&#x200B;**을(를)**&#x200B;열어 편집하거나 검토하거나&#x200B;**담당자를**&#x200B;목록에서 삭제할 수 있습니다.
 
 * 기존 담당자를 수정하고 검토하려면 [!DNL Personas] 작업 메뉴에서 **[!UICONTROL 열기]**&#x200B;를 선택하십시오.
 * [!DNL Personas] 동작 메뉴에서 **[!UICONTROL 삭제]**&#x200B;를 선택하여 담당자를 **삭제**&#x200B;합니다.

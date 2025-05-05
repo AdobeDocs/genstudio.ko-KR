@@ -18,7 +18,7 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 **자산 세부 정보를 보려면**:
 
-1. _[!DNL Content]_에서 에셋, 경험 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_&#x200B;에서 에셋, 경험 또는 템플릿을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 자산 보기에서 오른쪽의 _[!UICONTROL 세부 정보]_ 섹션을 검토합니다.
 
@@ -36,7 +36,7 @@ Adobe GenStudio for Performance Marketing은 검색 기능 및 성능 추적을 
 
 Adobe Express을 사용하여 GenStudio for Performance Marketing 내에서 직접 이미지 에셋(JPG 또는 PNG)을 편집할 수 있습니다. _[!UICONTROL Adobe Express 제공]_ 캔버스는 GenStudio 응용 프로그램을 종료하지 않고도 이미지를 개선할 수 있는 편리한 기능을 제공합니다. 배경을 쉽게 제거하고, 생성 채우기를 적용하고, 효과를 조정하고, 이미지를 자를 수 있습니다.
 
-1. _[!DNL Content]_에서 이미지 자산을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
+1. _[!DNL Content]_&#x200B;에서 이미지 자산을 선택합니다. 에셋을 클릭하면 에셋의 중요 보기가 열립니다.
 
 1. 에셋 보기에서 오른쪽 상단의 **[!UICONTROL Adobe Express에서 편집]** 아이콘을 클릭합니다.
 
