@@ -10,4 +10,4 @@ ht-degree: 62%
 
 # 성과 마케팅을 위한 Adobe GenStudio 사용 안내서
 
-이 콘텐츠는 [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing) 설명서 페이지로 이동되었습니다.
+이 콘텐츠는 [GenStudio for Performance Marketing](https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing) 설명서 페이지로 이동되었습니다.

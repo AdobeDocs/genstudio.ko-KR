@@ -17,4 +17,4 @@ ht-degree: 12%
 + [GenStudio for Performance Marketing Tutorials](tutorials.md)
 + [이메일 경험 만들기](create-email-experience.md)
 + [메타 광고 경험 만들기](create-meta-ad.md)
-+ [GenStudio for Performance Marketing 사용 안내서](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html)
++ [GenStudio for Performance Marketing 사용 안내서](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html?lang=ko)
